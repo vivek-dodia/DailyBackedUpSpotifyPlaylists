@@ -12,4 +12,4 @@ git add -A
 git commit -m "Update playlists"
 
 :: Push the changes to the remote repository
-git push origin main
+GIT_TRACE=1 git push origin main
