@@ -260,9 +260,18 @@ if __name__ == '__main__':
 
   # Check we have the proper env vars before proceeding
   check_env_vars()
+  
+  
 
   sp = handle_auth()
   print("\n")
   main()
   t1_stop = perf_counter()
   print("Script completed in %.2f seconds" % (t1_stop - t1_start))
+  
+  # After saving the JSON files
+os.system('git add playlists/*')
+os.system('git commit -m "Update playlists"')
+os.system('git push origin main')
+
+print(f"Script completed in {perf_counter() - t1_start:.2f} seconds")
