@@ -5,27 +5,27 @@ del /Q playlists\22auvhdoqxfrv4t7stdgfxqha\*.json
 :: Pull the main branch
 git pull origin main
 
-:: add all the folders that we want to push to git remote repo
+:: Add all the folders that we want to push to the git remote repo
 git add .
 
-:: just naming my commit for reference
+:: Just naming my commit for reference
 git commit -m "delete old json"
 
-:: pushing the changes with no old json files 
+:: Pushing the changes with no old JSON files 
 git push origin main
 
-::directory for the python to generate the new json files for playlists
+:: Directory for the Python script to generate the new JSON files for playlists
 cd /d "C:\Users\Vivek\Documents\spotify-backup-to-git"
 python script_json.py
 
 :: Pull the main branch
 git pull origin main
 
-:: add all the folders that we want to push to git remote repo
+:: Add all the folders that we want to push to the git remote repo
 git add .
 
-:: just naming my commit for reference
+:: Just naming my commit for reference
 git commit -m "Automated commit with updated playlists."
 
-:: pushing the changes with new json files 
+:: Pushing the changes with new JSON files 
 git push origin main
