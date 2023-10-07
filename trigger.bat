@@ -1,2 +1,2 @@
 @echo off
-call TaskSchedular.bat
+call delete_json.bat
