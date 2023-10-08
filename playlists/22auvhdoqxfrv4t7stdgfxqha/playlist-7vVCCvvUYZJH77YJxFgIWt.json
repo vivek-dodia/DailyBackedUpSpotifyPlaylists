@@ -1,0 +1,129 @@
+{
+  "owner_id": "22auvhdoqxfrv4t7stdgfxqha",
+  "id": "7vVCCvvUYZJH77YJxFgIWt",
+  "name": "mix01",
+  "tracks": [
+    {
+      "added_at": "2023-09-04T21:11:58Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "3IvSZ5Xihl5E1dcu7PpmDg",
+      "name": "Intro",
+      "artists": [
+        {
+          "id": "6nxWCVXbOlEVRexSbLsTer",
+          "name": "Flume",
+          "type": "artist"
+        },
+        {
+          "id": "1wUmdemiR9Dxw8A2el365A",
+          "name": "Stalley",
+          "type": "artist"
+        }
+      ],
+      "duration": 234146,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2023-09-04T21:12:13Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "4KZytfFyq6cFObYt40KQmj",
+      "name": "Westside",
+      "artists": [
+        {
+          "id": "5oifjQw72WO7Jut07fVWMy",
+          "name": "KAYTRAMINÉ",
+          "type": "artist"
+        },
+        {
+          "id": "3Gm5F95VdRxW3mqCn8RPBJ",
+          "name": "Aminé",
+          "type": "artist"
+        },
+        {
+          "id": "6qgnBH6iDM91ipVXv28OMu",
+          "name": "KAYTRANADA",
+          "type": "artist"
+        }
+      ],
+      "duration": 144000,
+      "track_number": 4,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2023-09-05T00:30:30Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "4LKSaRoKNnlpKXTT663BrT",
+      "name": "Santeria",
+      "artists": [
+        {
+          "id": "0ONHkAv9pCAFxb0zJwDNTy",
+          "name": "Pusha T",
+          "type": "artist"
+        }
+      ],
+      "duration": 176026,
+      "track_number": 5,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2023-09-08T14:39:17Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "28C8KsOvTwTSrsAN9rcm96",
+      "name": "Counting Sheep (V2) [2018 Export Wav] feat. Injury Reserve",
+      "artists": [
+        {
+          "id": "6nxWCVXbOlEVRexSbLsTer",
+          "name": "Flume",
+          "type": "artist"
+        },
+        {
+          "id": "3nf2EaHj8HikLNdaiW3v73",
+          "name": "Injury Reserve",
+          "type": "artist"
+        }
+      ],
+      "duration": 146233,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2023-09-10T20:16:47Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "2iXmqufUAV7jrUYwyb6MWq",
+      "name": "Covet",
+      "artists": [
+        {
+          "id": "05jtmvy7zPhTp4GQexPkXY",
+          "name": "BRUX",
+          "type": "artist"
+        }
+      ],
+      "duration": 215840,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2023-09-14T04:25:46Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "1ulbgM5LonCdnnL4SqXamQ",
+      "name": "Off The Knob",
+      "artists": [
+        {
+          "id": "7MigDh04CCntQbsBvugEmb",
+          "name": "Marlon Craft",
+          "type": "artist"
+        }
+      ],
+      "duration": 120000,
+      "track_number": 4,
+      "type": "track",
+      "is_local": false
+    }
+  ]
+}
