@@ -1,4 +1,6 @@
 @echo off
+:: Directory for the Python script to generate the new JSON files for playlists
+cd /d "C:\Users\Vivek\Documents\spotify-backup-to-git"
 :: Delete existing JSON files in the "playlists" subdirectory
 del /Q playlists\22auvhdoqxfrv4t7stdgfxqha\*.json
 
