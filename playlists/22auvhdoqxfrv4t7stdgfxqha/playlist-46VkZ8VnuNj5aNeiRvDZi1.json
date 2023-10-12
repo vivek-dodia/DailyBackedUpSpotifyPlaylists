@@ -1,0 +1,163 @@
+{
+  "owner_id": "22auvhdoqxfrv4t7stdgfxqha",
+  "id": "46VkZ8VnuNj5aNeiRvDZi1",
+  "name": "dwdm and oadm in this bitch",
+  "tracks": [
+    {
+      "added_at": "2022-02-11T00:21:14Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "7hZoTr4ffMGqm9opMiGmBp",
+      "name": "ONCE UPON A TIME (FREESTYLE)",
+      "artists": [
+        {
+          "id": "6aiFCgyKNwF9Rv5TOxnE8E",
+          "name": "IDK",
+          "type": "artist"
+        },
+        {
+          "id": "6fxyWrfmjcbj5d12gXeiNV",
+          "name": "Denzel Curry",
+          "type": "artist"
+        }
+      ],
+      "duration": 150819,
+      "track_number": 3,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2022-02-11T00:27:50Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "6e7hIhOLH9zvb3zP5O5gt0",
+      "name": "BOY BYE",
+      "artists": [
+        {
+          "id": "1Bl6wpkWCQ4KVgnASpvzzA",
+          "name": "BROCKHAMPTON",
+          "type": "artist"
+        }
+      ],
+      "duration": 142186,
+      "track_number": 3,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2022-02-11T02:20:24Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "1nwkSqzTyXBk6XF796EOav",
+      "name": "Yonkers",
+      "artists": [
+        {
+          "id": "4V8LLVI7PbaPR0K2TGSxFF",
+          "name": "Tyler, The Creator",
+          "type": "artist"
+        }
+      ],
+      "duration": 249333,
+      "track_number": 2,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2022-02-18T00:58:00Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "7iEoaTyBCqLaAwJnOP1BTn",
+      "name": "The Games We Play",
+      "artists": [
+        {
+          "id": "0ONHkAv9pCAFxb0zJwDNTy",
+          "name": "Pusha T",
+          "type": "artist"
+        }
+      ],
+      "duration": 166120,
+      "track_number": 2,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2022-02-25T18:10:20Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "4bTNgZmtTnstbrmwzTybJS",
+      "name": "Passenger",
+      "artists": [
+        {
+          "id": "4sFRpecE04KuYxznUfuozM",
+          "name": "Viial",
+          "type": "artist"
+        }
+      ],
+      "duration": 195076,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2022-03-01T20:31:55Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "0NjW4SKY3gbfl2orl1p8hr",
+      "name": "IFHY (feat. Pharrell)",
+      "artists": [
+        {
+          "id": "4V8LLVI7PbaPR0K2TGSxFF",
+          "name": "Tyler, The Creator",
+          "type": "artist"
+        },
+        {
+          "id": "2RdwBSPQiwcmiDo9kixcl8",
+          "name": "Pharrell Williams",
+          "type": "artist"
+        }
+      ],
+      "duration": 319253,
+      "track_number": 11,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2022-03-04T15:30:34Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "2FDpKjiOdqQPNCP97tIYCF",
+      "name": "Your Eyes",
+      "artists": [
+        {
+          "id": "5fMUXHkw8R8eOP2RNVYEZX",
+          "name": "Diplo",
+          "type": "artist"
+        },
+        {
+          "id": "2KjAo6wVc9d2WcxdxSArpV",
+          "name": "RY X",
+          "type": "artist"
+        }
+      ],
+      "duration": 254730,
+      "track_number": 3,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2022-03-07T15:41:59Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "1jzIJcHCXneHw7ojC6LXiF",
+      "name": "Potato Salad",
+      "artists": [
+        {
+          "id": "4V8LLVI7PbaPR0K2TGSxFF",
+          "name": "Tyler, The Creator",
+          "type": "artist"
+        },
+        {
+          "id": "13ubrt8QOOCPljQ2FL1Kca",
+          "name": "A$AP Rocky",
+          "type": "artist"
+        }
+      ],
+      "duration": 182493,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    }
+  ]
+}
