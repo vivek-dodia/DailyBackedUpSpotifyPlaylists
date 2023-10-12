@@ -1,0 +1,372 @@
+{
+  "owner_id": "22auvhdoqxfrv4t7stdgfxqha",
+  "id": "0Kd5cpmufMcKWioX5HXuE9",
+  "name": "👑",
+  "tracks": [
+    {
+      "added_at": "2021-09-14T18:39:06Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "6lKCaafKm88sVfYz2u7S4B",
+      "name": "Rich Niggaz",
+      "artists": [
+        {
+          "id": "6l3HvQ5sa6mXTsMTB19rO5",
+          "name": "J. Cole",
+          "type": "artist"
+        }
+      ],
+      "duration": 276093,
+      "track_number": 9,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2021-09-15T22:37:48Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "2AhpxzHOwjZwvQkLeXNgHg",
+      "name": "Niggaz Know",
+      "artists": [
+        {
+          "id": "6l3HvQ5sa6mXTsMTB19rO5",
+          "name": "J. Cole",
+          "type": "artist"
+        }
+      ],
+      "duration": 217240,
+      "track_number": 20,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2021-09-15T23:05:57Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "28s8woKltdzuYwKRQ02mmY",
+      "name": "Trouble",
+      "artists": [
+        {
+          "id": "6l3HvQ5sa6mXTsMTB19rO5",
+          "name": "J. Cole",
+          "type": "artist"
+        }
+      ],
+      "duration": 258399,
+      "track_number": 6,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2021-09-16T13:45:12Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "7EulRO07ZgchxqKUHb8Pvc",
+      "name": "1985 - Intro to “The Fall Off”",
+      "artists": [
+        {
+          "id": "6l3HvQ5sa6mXTsMTB19rO5",
+          "name": "J. Cole",
+          "type": "artist"
+        }
+      ],
+      "duration": 190176,
+      "track_number": 12,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2021-09-16T13:48:18Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "7yotKA30dwTKNEGomV9ZsI",
+      "name": "KOD",
+      "artists": [
+        {
+          "id": "6l3HvQ5sa6mXTsMTB19rO5",
+          "name": "J. Cole",
+          "type": "artist"
+        }
+      ],
+      "duration": 191436,
+      "track_number": 2,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2021-09-16T13:53:02Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "5R691ipUYRDYW6ehapjoj6",
+      "name": "9 5 . s o u t h",
+      "artists": [
+        {
+          "id": "6l3HvQ5sa6mXTsMTB19rO5",
+          "name": "J. Cole",
+          "type": "artist"
+        }
+      ],
+      "duration": 196946,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2021-09-16T14:58:54Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "6AGON2BGdPmPMJGiiNuuwl",
+      "name": "Immortal",
+      "artists": [
+        {
+          "id": "6l3HvQ5sa6mXTsMTB19rO5",
+          "name": "J. Cole",
+          "type": "artist"
+        }
+      ],
+      "duration": 201666,
+      "track_number": 2,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2021-10-08T19:33:13Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "0eneujAc4PxkdjP25Gsue1",
+      "name": "False Prophets",
+      "artists": [
+        {
+          "id": "6l3HvQ5sa6mXTsMTB19rO5",
+          "name": "J. Cole",
+          "type": "artist"
+        }
+      ],
+      "duration": 237426,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2021-12-08T17:46:54Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "7lL3MvFWFFSD25pBz72Agj",
+      "name": "A Tale of 2 Citiez",
+      "artists": [
+        {
+          "id": "6l3HvQ5sa6mXTsMTB19rO5",
+          "name": "J. Cole",
+          "type": "artist"
+        }
+      ],
+      "duration": 269786,
+      "track_number": 5,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2022-01-22T08:55:32Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "1HNs07uZxZniPNmniw2GTa",
+      "name": "Apparently",
+      "artists": [
+        {
+          "id": "6l3HvQ5sa6mXTsMTB19rO5",
+          "name": "J. Cole",
+          "type": "artist"
+        }
+      ],
+      "duration": 293040,
+      "track_number": 11,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2022-02-17T23:22:14Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "7FOJvA3PxiIU0DN3JjQ7jT",
+      "name": "Power Trip (feat. Miguel)",
+      "artists": [
+        {
+          "id": "6l3HvQ5sa6mXTsMTB19rO5",
+          "name": "J. Cole",
+          "type": "artist"
+        },
+        {
+          "id": "360IAlyVv4PCEVjgyMZrxK",
+          "name": "Miguel",
+          "type": "artist"
+        }
+      ],
+      "duration": 241160,
+      "track_number": 4,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2022-02-17T23:22:22Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "1AT4xjNarTswd0UZ5FlmKF",
+      "name": "Motiv8",
+      "artists": [
+        {
+          "id": "6l3HvQ5sa6mXTsMTB19rO5",
+          "name": "J. Cole",
+          "type": "artist"
+        }
+      ],
+      "duration": 133921,
+      "track_number": 6,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2022-02-17T23:22:30Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "0utlOiJy2weVl9WTkcEWHy",
+      "name": "Neighbors",
+      "artists": [
+        {
+          "id": "6l3HvQ5sa6mXTsMTB19rO5",
+          "name": "J. Cole",
+          "type": "artist"
+        }
+      ],
+      "duration": 216520,
+      "track_number": 7,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2022-04-05T23:34:31Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "20wR5XQpaL1uvVY8gmc4uY",
+      "name": "Can't Get Enough",
+      "artists": [
+        {
+          "id": "6l3HvQ5sa6mXTsMTB19rO5",
+          "name": "J. Cole",
+          "type": "artist"
+        },
+        {
+          "id": "2iojnBLj0qIMiKPvVhLnsH",
+          "name": "Trey Songz",
+          "type": "artist"
+        }
+      ],
+      "duration": 225960,
+      "track_number": 3,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2022-05-12T20:16:28Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "2O1vTF3y8Jq1XSrgSto6YL",
+      "name": "New York Times (feat. 50 Cent & Bas)",
+      "artists": [
+        {
+          "id": "6l3HvQ5sa6mXTsMTB19rO5",
+          "name": "J. Cole",
+          "type": "artist"
+        },
+        {
+          "id": "3q7HBObVc0L8jNeTe5Gofh",
+          "name": "50 Cent",
+          "type": "artist"
+        },
+        {
+          "id": "70gP6Ry4Uo0Yx6uzPIdaiJ",
+          "name": "Bas",
+          "type": "artist"
+        }
+      ],
+      "duration": 271813,
+      "track_number": 18,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2023-04-18T22:11:47Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "6sf35vqrEAN8fOFzrKmv9A",
+      "name": "Fire Squad",
+      "artists": [
+        {
+          "id": "6l3HvQ5sa6mXTsMTB19rO5",
+          "name": "J. Cole",
+          "type": "artist"
+        }
+      ],
+      "duration": 288123,
+      "track_number": 6,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2023-04-18T22:11:50Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "0Thqjtu54vKMP06pwZkAWp",
+      "name": "G.O.M.D",
+      "artists": [
+        {
+          "id": "6l3HvQ5sa6mXTsMTB19rO5",
+          "name": "J. Cole",
+          "type": "artist"
+        }
+      ],
+      "duration": 301064,
+      "track_number": 8,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2023-04-18T22:11:54Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "41a70FyJAwtb8yui5Ljnpi",
+      "name": "Is She Gon Pop",
+      "artists": [
+        {
+          "id": "6l3HvQ5sa6mXTsMTB19rO5",
+          "name": "J. Cole",
+          "type": "artist"
+        }
+      ],
+      "duration": 165400,
+      "track_number": 19,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2023-04-24T20:52:29Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "11QvWp3CsEPd0YLE6xKGyx",
+      "name": "My Boy (feat. J. Cole) - Freestyle",
+      "artists": [
+        {
+          "id": "67nwj3Y5sZQLl72VNUHEYE",
+          "name": "Wale",
+          "type": "artist"
+        },
+        {
+          "id": "6l3HvQ5sa6mXTsMTB19rO5",
+          "name": "J. Cole",
+          "type": "artist"
+        }
+      ],
+      "duration": 269657,
+      "track_number": 4,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2023-06-05T19:58:02Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "0KoDlfUMge50m4qffIAVxl",
+      "name": "On The Street Freestyle (J.Cole Response)",
+      "artists": [
+        {
+          "id": "2NKNKvBynbd1BqvkL6bChm",
+          "name": "Julius Keith",
+          "type": "artist"
+        }
+      ],
+      "duration": 160030,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    }
+  ]
+}
