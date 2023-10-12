@@ -1,0 +1,572 @@
+{
+  "owner_id": "22auvhdoqxfrv4t7stdgfxqha",
+  "id": "04cbwEDPkHS3LhN9VUhfqO",
+  "name": "Avicheeeeee",
+  "tracks": [
+    {
+      "added_at": "2019-06-07T15:32:56Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "4h8VwCb1MTGoLKueQ1WgbD",
+      "name": "Wake Me Up",
+      "artists": [
+        {
+          "id": "1vCWHaC5f2uS3yhpwWbIA6",
+          "name": "Avicii",
+          "type": "artist"
+        }
+      ],
+      "duration": 247426,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-06-07T15:33:00Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "1CKtxKqyFsFITCH4SpDrWj",
+      "name": "You Make Me",
+      "artists": [
+        {
+          "id": "1vCWHaC5f2uS3yhpwWbIA6",
+          "name": "Avicii",
+          "type": "artist"
+        }
+      ],
+      "duration": 233346,
+      "track_number": 2,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-06-07T15:33:05Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "4RXpgGM7A4Hg7cFBoH5KyF",
+      "name": "Hey Brother",
+      "artists": [
+        {
+          "id": "1vCWHaC5f2uS3yhpwWbIA6",
+          "name": "Avicii",
+          "type": "artist"
+        }
+      ],
+      "duration": 255093,
+      "track_number": 3,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-06-07T15:33:40Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "5GayeBzzXIEl6fY0cP42Z1",
+      "name": "Addicted To You",
+      "artists": [
+        {
+          "id": "1vCWHaC5f2uS3yhpwWbIA6",
+          "name": "Avicii",
+          "type": "artist"
+        }
+      ],
+      "duration": 148386,
+      "track_number": 4,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-06-07T15:36:09Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "5Iy2Jj87Ha0C0IBlNE1I4y",
+      "name": "The Days",
+      "artists": [
+        {
+          "id": "1vCWHaC5f2uS3yhpwWbIA6",
+          "name": "Avicii",
+          "type": "artist"
+        }
+      ],
+      "duration": 278480,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-06-07T15:36:16Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "0ct6r3EGTcMLPtrXHDvVjc",
+      "name": "The Nights",
+      "artists": [
+        {
+          "id": "1vCWHaC5f2uS3yhpwWbIA6",
+          "name": "Avicii",
+          "type": "artist"
+        }
+      ],
+      "duration": 176658,
+      "track_number": 2,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-06-07T15:36:22Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "2P4OICZRVAQcYAV2JReRfj",
+      "name": "Waiting For Love",
+      "artists": [
+        {
+          "id": "1vCWHaC5f2uS3yhpwWbIA6",
+          "name": "Avicii",
+          "type": "artist"
+        }
+      ],
+      "duration": 230613,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-06-07T15:36:26Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "5IZg7Ngm3CTOj9l00YSrt9",
+      "name": "Talk To Myself",
+      "artists": [
+        {
+          "id": "1vCWHaC5f2uS3yhpwWbIA6",
+          "name": "Avicii",
+          "type": "artist"
+        }
+      ],
+      "duration": 235800,
+      "track_number": 2,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-06-07T15:36:31Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "07Wqp9LcTwzdIyuI0twXjx",
+      "name": "Touch Me",
+      "artists": [
+        {
+          "id": "1vCWHaC5f2uS3yhpwWbIA6",
+          "name": "Avicii",
+          "type": "artist"
+        }
+      ],
+      "duration": 186173,
+      "track_number": 3,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-06-07T15:36:36Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "3Ai7wKn9UYkkNuygKgf4b2",
+      "name": "Ten More Days",
+      "artists": [
+        {
+          "id": "1vCWHaC5f2uS3yhpwWbIA6",
+          "name": "Avicii",
+          "type": "artist"
+        }
+      ],
+      "duration": 245813,
+      "track_number": 4,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-06-07T15:36:42Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "260jSxvzkFt71ksvkcy2ke",
+      "name": "Broken Arrows",
+      "artists": [
+        {
+          "id": "1vCWHaC5f2uS3yhpwWbIA6",
+          "name": "Avicii",
+          "type": "artist"
+        }
+      ],
+      "duration": 232760,
+      "track_number": 6,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-06-07T15:36:47Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "4zJ3S7wjKwPvLbWmeKhceh",
+      "name": "True Believer",
+      "artists": [
+        {
+          "id": "1vCWHaC5f2uS3yhpwWbIA6",
+          "name": "Avicii",
+          "type": "artist"
+        }
+      ],
+      "duration": 288146,
+      "track_number": 7,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-06-07T15:36:53Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "35j3CjgBRoqLp8LsAKsQF4",
+      "name": "City Lights",
+      "artists": [
+        {
+          "id": "1vCWHaC5f2uS3yhpwWbIA6",
+          "name": "Avicii",
+          "type": "artist"
+        }
+      ],
+      "duration": 388946,
+      "track_number": 8,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-06-07T15:36:57Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "3Q95VQL8yWRO8mkF6VoDzi",
+      "name": "Sunset Jesus",
+      "artists": [
+        {
+          "id": "1vCWHaC5f2uS3yhpwWbIA6",
+          "name": "Avicii",
+          "type": "artist"
+        }
+      ],
+      "duration": 264733,
+      "track_number": 10,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-06-07T15:37:01Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "5vENpNhFdtArPAJgTAtnla",
+      "name": "Can't Catch Me",
+      "artists": [
+        {
+          "id": "1vCWHaC5f2uS3yhpwWbIA6",
+          "name": "Avicii",
+          "type": "artist"
+        }
+      ],
+      "duration": 239053,
+      "track_number": 11,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-06-07T15:37:08Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "2K1zp0p7PVmrBUQu6evtfe",
+      "name": "Somewhere In Stockholm",
+      "artists": [
+        {
+          "id": "1vCWHaC5f2uS3yhpwWbIA6",
+          "name": "Avicii",
+          "type": "artist"
+        }
+      ],
+      "duration": 202906,
+      "track_number": 12,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-06-07T15:37:18Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "0JZ9TvOLtZJaGqIyC4hYZX",
+      "name": "Trouble",
+      "artists": [
+        {
+          "id": "1vCWHaC5f2uS3yhpwWbIA6",
+          "name": "Avicii",
+          "type": "artist"
+        }
+      ],
+      "duration": 171506,
+      "track_number": 13,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-06-07T15:37:21Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "1rDETmcizen79JghAEm1Se",
+      "name": "Gonna Love Ya",
+      "artists": [
+        {
+          "id": "1vCWHaC5f2uS3yhpwWbIA6",
+          "name": "Avicii",
+          "type": "artist"
+        }
+      ],
+      "duration": 215813,
+      "track_number": 14,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-06-07T15:37:31Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "6ZEYvUSgON3J5Qe1RYi3Jo",
+      "name": "Peace Of Mind (feat. Vargas & Lagola)",
+      "artists": [
+        {
+          "id": "1vCWHaC5f2uS3yhpwWbIA6",
+          "name": "Avicii",
+          "type": "artist"
+        },
+        {
+          "id": "2fVW2ix4ANKiofDZIsy1XR",
+          "name": "Vargas & Lagola",
+          "type": "artist"
+        }
+      ],
+      "duration": 180000,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-06-07T15:37:42Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "0vrmHPfoBadXVr2n0m1aqZ",
+      "name": "Heaven",
+      "artists": [
+        {
+          "id": "1vCWHaC5f2uS3yhpwWbIA6",
+          "name": "Avicii",
+          "type": "artist"
+        }
+      ],
+      "duration": 277261,
+      "track_number": 2,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-06-07T15:37:46Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "2x0RZdkZcD8QRI53XT4GI5",
+      "name": "SOS (feat. Aloe Blacc)",
+      "artists": [
+        {
+          "id": "1vCWHaC5f2uS3yhpwWbIA6",
+          "name": "Avicii",
+          "type": "artist"
+        },
+        {
+          "id": "0id62QV2SZZfvBn9xpmuCl",
+          "name": "Aloe Blacc",
+          "type": "artist"
+        }
+      ],
+      "duration": 157202,
+      "track_number": 3,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-06-07T15:37:51Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "0HZgYFimoJG9Ijy8InUWcV",
+      "name": "Bad Reputation (feat. Joe Janiak)",
+      "artists": [
+        {
+          "id": "1vCWHaC5f2uS3yhpwWbIA6",
+          "name": "Avicii",
+          "type": "artist"
+        },
+        {
+          "id": "142TY556WknD1ZRV8XilJQ",
+          "name": "Joe Janiak",
+          "type": "artist"
+        }
+      ],
+      "duration": 205416,
+      "track_number": 5,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-06-07T15:37:56Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "3MhNgzZwFtUF6jSr6pRSkW",
+      "name": "Ain't A Thing (feat. Bonn)",
+      "artists": [
+        {
+          "id": "1vCWHaC5f2uS3yhpwWbIA6",
+          "name": "Avicii",
+          "type": "artist"
+        },
+        {
+          "id": "7Io0XduXk7aOHFHA7sLru2",
+          "name": "Bonn",
+          "type": "artist"
+        }
+      ],
+      "duration": 183660,
+      "track_number": 6,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-06-07T15:38:09Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "6kXNnS7JJz0nAv4XEwEmQJ",
+      "name": "Heart Upon My Sleeve (feat. Imagine Dragons)",
+      "artists": [
+        {
+          "id": "1vCWHaC5f2uS3yhpwWbIA6",
+          "name": "Avicii",
+          "type": "artist"
+        },
+        {
+          "id": "53XhwfbYqKCa1cC15pYq2q",
+          "name": "Imagine Dragons",
+          "type": "artist"
+        }
+      ],
+      "duration": 254165,
+      "track_number": 10,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-06-07T15:38:26Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "79UX8fkSsowWI1HOd8VoYt",
+      "name": "Friend Of Mine (feat. Vargas & Lagola)",
+      "artists": [
+        {
+          "id": "1vCWHaC5f2uS3yhpwWbIA6",
+          "name": "Avicii",
+          "type": "artist"
+        },
+        {
+          "id": "2fVW2ix4ANKiofDZIsy1XR",
+          "name": "Vargas & Lagola",
+          "type": "artist"
+        }
+      ],
+      "duration": 159863,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-06-07T15:38:35Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "75NhhYjHO43mvZgYtnXgti",
+      "name": "Lonely Together (feat. Rita Ora)",
+      "artists": [
+        {
+          "id": "1vCWHaC5f2uS3yhpwWbIA6",
+          "name": "Avicii",
+          "type": "artist"
+        },
+        {
+          "id": "5CCwRZC6euC8Odo6y9X8jr",
+          "name": "Rita Ora",
+          "type": "artist"
+        }
+      ],
+      "duration": 181812,
+      "track_number": 2,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-06-07T15:38:40Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "630svau24EHHzw1kNk0Bdq",
+      "name": "You Be Love (feat. Billy Raffoul)",
+      "artists": [
+        {
+          "id": "1vCWHaC5f2uS3yhpwWbIA6",
+          "name": "Avicii",
+          "type": "artist"
+        },
+        {
+          "id": "5gw5ANPCVcxU0maLiGRzzP",
+          "name": "Billy Raffoul",
+          "type": "artist"
+        }
+      ],
+      "duration": 207545,
+      "track_number": 3,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-06-07T15:38:48Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "6Pgkp4qUoTmJIPn7ReaGxL",
+      "name": "Without You (feat. Sandro Cavazza)",
+      "artists": [
+        {
+          "id": "1vCWHaC5f2uS3yhpwWbIA6",
+          "name": "Avicii",
+          "type": "artist"
+        },
+        {
+          "id": "5JYo7gm2dkyLLlWHjxS7Dy",
+          "name": "Sandro Cavazza",
+          "type": "artist"
+        }
+      ],
+      "duration": 181672,
+      "track_number": 4,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-06-07T15:38:52Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "1vkXc8Tz3dZGNZoU2WF3la",
+      "name": "What Would I Change It To (feat. Aluna)",
+      "artists": [
+        {
+          "id": "1vCWHaC5f2uS3yhpwWbIA6",
+          "name": "Avicii",
+          "type": "artist"
+        },
+        {
+          "id": "5ITI6SEoUZMIXXkzCfr4oE",
+          "name": "Aluna",
+          "type": "artist"
+        }
+      ],
+      "duration": 185454,
+      "track_number": 5,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-06-07T15:38:56Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "6i3WMnuvd8DtczaGIMJvwC",
+      "name": "So Much Better - Avicii Remix",
+      "artists": [
+        {
+          "id": "1vCWHaC5f2uS3yhpwWbIA6",
+          "name": "Avicii",
+          "type": "artist"
+        },
+        {
+          "id": "5JYo7gm2dkyLLlWHjxS7Dy",
+          "name": "Sandro Cavazza",
+          "type": "artist"
+        }
+      ],
+      "duration": 157152,
+      "track_number": 6,
+      "type": "track",
+      "is_local": false
+    }
+  ]
+}
