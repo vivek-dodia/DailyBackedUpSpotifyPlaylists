@@ -1,0 +1,393 @@
+{
+  "owner_id": "22auvhdoqxfrv4t7stdgfxqha",
+  "id": "0MeA0ln6k1AfHcwxZrWQRW",
+  "name": "My Shazam Tracks",
+  "tracks": [
+    {
+      "added_at": "2022-05-01T03:29:08Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "7ef4DlsgrMEH11cDZd32M6",
+      "name": "One Kiss (with Dua Lipa)",
+      "artists": [
+        {
+          "id": "7CajNmpbOovFoOoasH2HaY",
+          "name": "Calvin Harris",
+          "type": "artist"
+        },
+        {
+          "id": "6M2wZ9GZgrQXHCFfjv46we",
+          "name": "Dua Lipa",
+          "type": "artist"
+        }
+      ],
+      "duration": 214846,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2022-05-01T03:43:19Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "5BwQjRasNcdRPuVWKcHto2",
+      "name": "h u n g e r . o n . h i l l s i d e (with Bas)",
+      "artists": [
+        {
+          "id": "6l3HvQ5sa6mXTsMTB19rO5",
+          "name": "J. Cole",
+          "type": "artist"
+        },
+        {
+          "id": "70gP6Ry4Uo0Yx6uzPIdaiJ",
+          "name": "Bas",
+          "type": "artist"
+        }
+      ],
+      "duration": 238971,
+      "track_number": 12,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2022-05-01T04:01:56Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "2ncLdwTd8qzkxiJjlbiOgC",
+      "name": "Mr. Rager",
+      "artists": [
+        {
+          "id": "0fA0VVWsXO9YnASrzqfmYu",
+          "name": "Kid Cudi",
+          "type": "artist"
+        }
+      ],
+      "duration": 294213,
+      "track_number": 12,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2022-05-01T13:06:10Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "5pAbCxt9e3f81lOmjIXwzd",
+      "name": "Be Honest (feat. Burna Boy)",
+      "artists": [
+        {
+          "id": "1CoZyIx7UvdxT5c8UkMzHd",
+          "name": "Jorja Smith",
+          "type": "artist"
+        },
+        {
+          "id": "3wcj11K77LjEY1PkEazffa",
+          "name": "Burna Boy",
+          "type": "artist"
+        }
+      ],
+      "duration": 207030,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2022-05-06T02:44:20Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "3GCdLUSnKSMJhs4Tj6CV3s",
+      "name": "All The Stars (with SZA)",
+      "artists": [
+        {
+          "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+          "name": "Kendrick Lamar",
+          "type": "artist"
+        },
+        {
+          "id": "7tYKF4w9nC0nq9CsPZTHyP",
+          "name": "SZA",
+          "type": "artist"
+        }
+      ],
+      "duration": 232186,
+      "track_number": 2,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2022-05-27T19:37:54Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "6Sq7ltF9Qa7SNFBsV5Cogx",
+      "name": "Me Porto Bonito",
+      "artists": [
+        {
+          "id": "4q3ewBCX7sLwd24euuV69X",
+          "name": "Bad Bunny",
+          "type": "artist"
+        },
+        {
+          "id": "37230BxxYs9ksS7OkZw3IU",
+          "name": "Chencho Corleone",
+          "type": "artist"
+        }
+      ],
+      "duration": 178567,
+      "track_number": 3,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2022-05-30T04:19:31Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "4YQPa47NDfRm61QrDWKazv",
+      "name": "The Moments I'm Missing - RANJI vs WHITENO1SE",
+      "artists": [
+        {
+          "id": "6Tu0luJL7EoFv1RsHZP30p",
+          "name": "Ranji",
+          "type": "artist"
+        },
+        {
+          "id": "0o6xglPZ7ZGNSIPBSwwau2",
+          "name": "WHITENO1SE",
+          "type": "artist"
+        },
+        {
+          "id": "7AzjETXRUKNRSJHMW9GIqd",
+          "name": "Nina Nesbitt",
+          "type": "artist"
+        }
+      ],
+      "duration": 184347,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2022-05-30T04:35:01Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "509bwqNWempXQ58gYxIjTs",
+      "name": "This Is Not The End",
+      "artists": [
+        {
+          "id": "0hprEC0nsWuQPSHag1O2Vi",
+          "name": "Gareth Emery",
+          "type": "artist"
+        },
+        {
+          "id": "313Xqjb7z7JBYcHgWiLvUv",
+          "name": "Roddy Woomble",
+          "type": "artist"
+        }
+      ],
+      "duration": 198547,
+      "track_number": 2,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2022-06-22T00:16:38Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "0fea68AdmYNygeTGI4RC18",
+      "name": "LA CANCIÓN",
+      "artists": [
+        {
+          "id": "1vyhD5VmyZ7KMfW5gqLgo5",
+          "name": "J Balvin",
+          "type": "artist"
+        },
+        {
+          "id": "4q3ewBCX7sLwd24euuV69X",
+          "name": "Bad Bunny",
+          "type": "artist"
+        }
+      ],
+      "duration": 242573,
+      "track_number": 5,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2022-07-02T04:27:31Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "4TNzipbkHuhp5DtHcZ9osE",
+      "name": "Sajan Das Na",
+      "artists": [
+        {
+          "id": "2oSONSC9zQ4UonDKnLqksx",
+          "name": "Atif Aslam",
+          "type": "artist"
+        },
+        {
+          "id": "7J2gs5q2wLq6lU4q4wkyuV",
+          "name": "Momina Mustehsan",
+          "type": "artist"
+        }
+      ],
+      "duration": 236674,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2022-07-03T00:31:38Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "57KJTMwMC8H6cs03TMyCFD",
+      "name": "To My Detriment",
+      "artists": [
+        {
+          "id": "2P6teom3YQ7h8DFxR1JlQB",
+          "name": "Kato On The Track",
+          "type": "artist"
+        },
+        {
+          "id": "3F0k8llOe3j1qhSEA6yeoe",
+          "name": "30",
+          "type": "artist"
+        }
+      ],
+      "duration": 176750,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2022-07-03T14:31:15Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "0Tacxc5lDJ8LwiO1pWNSl8",
+      "name": "The Motion",
+      "artists": [
+        {
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "type": "artist"
+        }
+      ],
+      "duration": 240956,
+      "track_number": 2,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2022-07-03T14:59:56Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "1smcSwXObpmxcjCulmjMgy",
+      "name": "Murder To Excellence",
+      "artists": [
+        {
+          "id": "3nFkdlSjzX9mRTtwJOzDYB",
+          "name": "JAY-Z",
+          "type": "artist"
+        },
+        {
+          "id": "5K4W6rqBFWDnAN6FQUkS6x",
+          "name": "Kanye West",
+          "type": "artist"
+        }
+      ],
+      "duration": 300960,
+      "track_number": 10,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2022-07-03T15:23:03Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "6AshXllQhobwSXsdpgp41w",
+      "name": "Johnny P's Caddy",
+      "artists": [
+        {
+          "id": "5Matrg5du62bXwer29cU5T",
+          "name": "Benny The Butcher",
+          "type": "artist"
+        },
+        {
+          "id": "6l3HvQ5sa6mXTsMTB19rO5",
+          "name": "J. Cole",
+          "type": "artist"
+        }
+      ],
+      "duration": 225000,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2022-09-02T00:48:46Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "7wKzj1b8YKPuZELfVDz708",
+      "name": "Problems",
+      "artists": [
+        {
+          "id": "6gK1Uct5FEdaUWRWpU4Cl2",
+          "name": "Petit Biscuit",
+          "type": "artist"
+        },
+        {
+          "id": "1aSwrSGBNGMLn9ymttfRkk",
+          "name": "Lido",
+          "type": "artist"
+        }
+      ],
+      "duration": 219933,
+      "track_number": 2,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2022-10-15T00:14:19Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "2rOnSn2piaqLAlYjtfUBlY",
+      "name": "Raataan Lambiyan (From \"Shershaah\")",
+      "artists": [
+        {
+          "id": "4f7KfxeHq9BiylGmyXepGt",
+          "name": "Tanishk Bagchi",
+          "type": "artist"
+        },
+        {
+          "id": "1tqysapcCh1lWEAc9dIFpa",
+          "name": "Jubin Nautiyal",
+          "type": "artist"
+        },
+        {
+          "id": "1sVmXkzX2ukc6QvasrDBES",
+          "name": "Asees Kaur",
+          "type": "artist"
+        }
+      ],
+      "duration": 230292,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2022-11-02T18:58:26Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "4d6eqRtpDX7tydHJGDZUBQ",
+      "name": "She Drives Me Crazy",
+      "artists": [
+        {
+          "id": "20p5D2KrE8CGuOjHtxsyTp",
+          "name": "Fine Young Cannibals",
+          "type": "artist"
+        }
+      ],
+      "duration": 215773,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2023-02-25T19:45:24Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "3vxqxKLhQDG8BOu65tXi8g",
+      "name": "Army",
+      "artists": [
+        {
+          "id": "44gRHbEm4Uqa0ykW0rDTNk",
+          "name": "Ben Folds Five",
+          "type": "artist"
+        }
+      ],
+      "duration": 203160,
+      "track_number": 6,
+      "type": "track",
+      "is_local": false
+    }
+  ]
+}
