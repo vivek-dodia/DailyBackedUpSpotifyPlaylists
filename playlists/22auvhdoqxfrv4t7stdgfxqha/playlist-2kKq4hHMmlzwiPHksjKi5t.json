@@ -1,0 +1,468 @@
+{
+  "owner_id": "22auvhdoqxfrv4t7stdgfxqha",
+  "id": "2kKq4hHMmlzwiPHksjKi5t",
+  "name": "4422",
+  "tracks": [
+    {
+      "added_at": "2022-01-05T16:39:53Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "05KOgYg8PGeJyyWBPi5ja8",
+      "name": "Free Smoke",
+      "artists": [
+        {
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "type": "artist"
+        }
+      ],
+      "duration": 218673,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2022-01-05T16:40:10Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "5mCPDVBb16L4XQwDdbRUpz",
+      "name": "Passionfruit",
+      "artists": [
+        {
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "type": "artist"
+        }
+      ],
+      "duration": 298940,
+      "track_number": 3,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2022-01-05T16:41:35Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "2fkeWbM6iqTw7oGHTYm2lw",
+      "name": "4422",
+      "artists": [
+        {
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "type": "artist"
+        },
+        {
+          "id": "2WoVwexZuODvclzULjPQtm",
+          "name": "Sampha",
+          "type": "artist"
+        }
+      ],
+      "duration": 186293,
+      "track_number": 8,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2022-01-05T16:42:36Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "4wVOKKEHUJxHCFFNUWDn0B",
+      "name": "Chicago Freestyle (feat. Giveon)",
+      "artists": [
+        {
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "type": "artist"
+        },
+        {
+          "id": "4fxd5Ee7UefO4CUXgwJ7IP",
+          "name": "Giveon",
+          "type": "artist"
+        }
+      ],
+      "duration": 220487,
+      "track_number": 3,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2022-01-05T16:42:45Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "5TCBWmEBrin7etRa4Lswr1",
+      "name": "When To Say When",
+      "artists": [
+        {
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "type": "artist"
+        }
+      ],
+      "duration": 223124,
+      "track_number": 2,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2022-01-05T16:43:22Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "1zi7xx7UVEFkmKfv06H8x0",
+      "name": "One Dance",
+      "artists": [
+        {
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "type": "artist"
+        },
+        {
+          "id": "3tVQdUvClmAT7URs9V3rsp",
+          "name": "Wizkid",
+          "type": "artist"
+        },
+        {
+          "id": "77DAFfvm3O9zT5dIoG0eIO",
+          "name": "Kyla",
+          "type": "artist"
+        }
+      ],
+      "duration": 173986,
+      "track_number": 12,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2022-01-05T16:43:34Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "3BtuIIrQlkujKPuWF2B85z",
+      "name": "Too Good",
+      "artists": [
+        {
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "type": "artist"
+        },
+        {
+          "id": "5pKCCKE2ajJHZ9KAiaK11H",
+          "name": "Rihanna",
+          "type": "artist"
+        }
+      ],
+      "duration": 263373,
+      "track_number": 16,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2022-01-05T16:43:50Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "4MOy68Xuz84lkfu1NQH6Bg",
+      "name": "Tuscan Leather",
+      "artists": [
+        {
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "type": "artist"
+        }
+      ],
+      "duration": 366400,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2022-01-05T16:43:58Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "6E1ILfm6wNkA6kautk3mQP",
+      "name": "Furthest Thing",
+      "artists": [
+        {
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "type": "artist"
+        }
+      ],
+      "duration": 267373,
+      "track_number": 2,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2022-01-05T16:44:03Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "5bm0CcD5R9Nj04QbMvwugt",
+      "name": "Started From the Bottom",
+      "artists": [
+        {
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "type": "artist"
+        }
+      ],
+      "duration": 174133,
+      "track_number": 3,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2022-01-05T16:44:15Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "5eCRkTcecpAXVWtS11GP5C",
+      "name": "From Time",
+      "artists": [
+        {
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "type": "artist"
+        },
+        {
+          "id": "5ZS223C6JyBfXasXxrRqOk",
+          "name": "Jhené Aiko",
+          "type": "artist"
+        }
+      ],
+      "duration": 322160,
+      "track_number": 7,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2022-01-05T16:44:21Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "4AUo4CPTghr09esofcujq2",
+      "name": "Connect",
+      "artists": [
+        {
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "type": "artist"
+        }
+      ],
+      "duration": 296413,
+      "track_number": 9,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2022-01-05T16:44:25Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "4yQqhoEeRcsMfr7tqEea7f",
+      "name": "The Language",
+      "artists": [
+        {
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "type": "artist"
+        }
+      ],
+      "duration": 224013,
+      "track_number": 10,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2022-01-05T16:44:37Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "4XKBoqWQjPdNM4t0znWu7E",
+      "name": "Too Much",
+      "artists": [
+        {
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "type": "artist"
+        },
+        {
+          "id": "2WoVwexZuODvclzULjPQtm",
+          "name": "Sampha",
+          "type": "artist"
+        }
+      ],
+      "duration": 261853,
+      "track_number": 12,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2022-01-05T16:44:43Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "7y911sqgHGHcyU4ivapjwi",
+      "name": "All Me",
+      "artists": [
+        {
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "type": "artist"
+        },
+        {
+          "id": "17lzZA2AlOHwCwFALHttmp",
+          "name": "2 Chainz",
+          "type": "artist"
+        },
+        {
+          "id": "0c173mlxpT3dSFRgMO8XPh",
+          "name": "Big Sean",
+          "type": "artist"
+        }
+      ],
+      "duration": 270866,
+      "track_number": 15,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2022-05-26T02:17:27Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "5ThJAPtuOCTV8owZUop495",
+      "name": "305 To My City",
+      "artists": [
+        {
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "type": "artist"
+        },
+        {
+          "id": "4sglKanXuoU0gqGYP3wiNv",
+          "name": "Detail",
+          "type": "artist"
+        }
+      ],
+      "duration": 255853,
+      "track_number": 11,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2022-07-07T22:23:50Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "7y6c07pgjZvtHI9kuMVqk1",
+      "name": "Get It Together",
+      "artists": [
+        {
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "type": "artist"
+        },
+        {
+          "id": "6wMr4zKPrrR0UVz08WtUWc",
+          "name": "Black Coffee",
+          "type": "artist"
+        },
+        {
+          "id": "1CoZyIx7UvdxT5c8UkMzHd",
+          "name": "Jorja Smith",
+          "type": "artist"
+        }
+      ],
+      "duration": 250337,
+      "track_number": 5,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2022-08-22T17:44:46Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "13e6f8t7RKXuxZ0JdaaJRG",
+      "name": "Jorja Interlude",
+      "artists": [
+        {
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "type": "artist"
+        }
+      ],
+      "duration": 107673,
+      "track_number": 4,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2022-08-22T17:44:55Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "0xl1w2q4VLojeXp4JfazPL",
+      "name": "Sacrifices",
+      "artists": [
+        {
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "type": "artist"
+        },
+        {
+          "id": "17lzZA2AlOHwCwFALHttmp",
+          "name": "2 Chainz",
+          "type": "artist"
+        },
+        {
+          "id": "50co4Is1HCEo8bhOyUWKpn",
+          "name": "Young Thug",
+          "type": "artist"
+        }
+      ],
+      "duration": 307593,
+      "track_number": 12,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2022-08-30T11:35:18Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "2KvHC9z14GSl4YpkNMX384",
+      "name": "Do Not Disturb",
+      "artists": [
+        {
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "type": "artist"
+        }
+      ],
+      "duration": 283550,
+      "track_number": 22,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2022-10-20T20:50:38Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "5f5r2N4Lp9WoULWPH9zp2W",
+      "name": "Can't Have Everything",
+      "artists": [
+        {
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "type": "artist"
+        }
+      ],
+      "duration": 228437,
+      "track_number": 17,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2022-11-21T23:13:23Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "4BycRneKmOs6MhYG9THsuX",
+      "name": "Find Your Love",
+      "artists": [
+        {
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "type": "artist"
+        }
+      ],
+      "duration": 208946,
+      "track_number": 13,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2022-11-22T14:52:30Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "7v0hKO3RYhEXt2EPXf4AOS",
+      "name": "Show Me A Good Time",
+      "artists": [
+        {
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "type": "artist"
+        }
+      ],
+      "duration": 210360,
+      "track_number": 5,
+      "type": "track",
+      "is_local": false
+    }
+  ]
+}
