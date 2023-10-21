@@ -32,7 +32,8 @@ AUTH_SCOPE = [
   'playlist-read-private',
   'playlist-read-collaborative',
   'playlist-modify-public',
-  'playlist-modify-private'
+  'playlist-modify-private',
+  'user-library-read',
 ]
 OWNER_IDS = SPOTIFY_OWNER_IDS.split(',')
 
@@ -204,39 +205,36 @@ def fetch_all_playlists():
   return playlists
 
 def get_tracks_for_playlist(playlist):
-  print(f"------ start '{playlist['name']}' {datetime.now()} ------")
+    print(f"------ start '{playlist['name']}' {datetime.now()} ------")
 
-  # fetch all the tracks for a given playlist id
-  tracks_for_playlist = fetch_all_playlist_tracks(playlist['id'])
+    # If it's not your liked songs, fetch the playlist tracks
+    if playlist['name'] != 'Your Library':
+        playlist_tracks = fetch_all_playlist_tracks(playlist['id'])
+        transformed_tracks = transform_tracks(playlist_tracks)
+    else:
+        # Fetch your liked songs
+        liked_songs = sp.current_user_saved_tracks()
+        liked_tracks = liked_songs['items']
+        transformed_tracks = transform_tracks(liked_tracks)
 
-  # transform the tracks to only save the data we want
-  transformed_tracks_for_playlist = transform_tracks(tracks_for_playlist)
+    print(f"fetched all {len(transformed_tracks)} tracks for '{playlist['name']}' {datetime.now()}")
 
-  print(f"fetched all {len(transformed_tracks_for_playlist)} tracks for playlist '{playlist['name']}' {datetime.now()}")
-
-  Path(f"./playlists/{playlist['owner_id']}").mkdir(
-    parents = True,
-    exist_ok = True
-  )
-
-  # convert and save a new csv file for each playlist
-  # df = pd.json_normalize(transformed_tracks_for_playlist)
-  # df.to_csv(f"./playlists/playlist-{playlist['id']}.csv")
-
-  playlist_object = {};
-
-  playlist_object = playlist;
-  playlist_object['tracks'] = transformed_tracks_for_playlist;
-
-  print(f"Saving {len(transformed_tracks_for_playlist)} tracks");
-  with open(f"./playlists/{playlist['owner_id']}/playlist-{playlist['id']}.json", 'w', encoding='utf-8') as f:
-    json.dump(
-      playlist_object,
-      f,
-      ensure_ascii = False,
-      indent = 2
+    Path(f"./playlists/{playlist['owner_id']}").mkdir(
+        parents=True,
+        exist_ok=True
     )
-  print(f"------ end '{playlist['name']}' {datetime.now()} ------\n")
+
+    # Save the tracks as JSON
+    playlist_object = {
+        'name': playlist['name'],
+        'owner_id': playlist['owner_id'],
+        'tracks': transformed_tracks
+    }
+
+    with open(f"./playlists/{playlist['owner_id']}/{playlist['id']}.json", 'w', encoding='utf-8') as f:
+        json.dump(playlist_object, f, ensure_ascii=False, indent=2)
+
+    print(f"------ end '{playlist['name']}' {datetime.now()} ------\n")
 
 
 def main():
