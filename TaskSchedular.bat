@@ -4,6 +4,7 @@ cd /d "C:\Users\Vivek\Documents\spotify-backup-to-git"
 
 :: Delete existing JSON files in the "playlists" subdirectory
 del /Q playlists\22auvhdoqxfrv4t7stdgfxqha\*.json
+del /Q liked_songs\*.json
 
 :: Pull the main branch
 git pull origin main
