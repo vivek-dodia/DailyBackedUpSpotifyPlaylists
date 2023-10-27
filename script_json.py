@@ -29,11 +29,11 @@ SPOTIFY_CLIENT_TOKEN = os.getenv('SPOTIFY_CLIENT_TOKEN')
 SPOTIFY_OWNER_IDS = os.getenv('SPOTIFY_OWNER_IDS')
 
 AUTH_SCOPE = [
+  'user-library-read',
   'playlist-read-private',
   'playlist-read-collaborative',
   'playlist-modify-public',
   'playlist-modify-private',
-  'user-library-read',
 ]
 OWNER_IDS = SPOTIFY_OWNER_IDS.split(',')
 
@@ -223,8 +223,8 @@ def get_tracks_for_playlist(playlist):
         parents=True,
         exist_ok=True
     )
-
-    # Save the tracks as JSON
+    
+       # Save the tracks as JSON
     playlist_object = {
         'name': playlist['name'],
         'owner_id': playlist['owner_id'],
@@ -235,6 +235,34 @@ def get_tracks_for_playlist(playlist):
         json.dump(playlist_object, f, ensure_ascii=False, indent=2)
 
     print(f"------ end '{playlist['name']}' {datetime.now()} ------\n")
+    
+def fetch_liked_songs(limit=50, offset=0):
+    return sp.current_user_saved_tracks(limit, offset)
+
+def fetch_all_liked_songs():
+    liked_songs = []
+    response = fetch_liked_songs()
+    liked_songs.extend(response['items'])
+    while response['next']:
+        offset = len(liked_songs)
+        response = fetch_liked_songs(offset=offset)
+        liked_songs.extend(response['items'])
+    return liked_songs
+
+def transform_liked_songs(liked_songs_data):
+    transformed_tracks = []
+    for item in liked_songs_data:
+        track = item['track']
+        transformed_track = {
+            'added_at': item['added_at'],
+            'id': track['id'],
+            'name': track['name'],
+            'artists': [{'id': artist['id'], 'name': artist['name']} for artist in track['artists']],
+            # ... and other fields you want to keep
+        }
+        transformed_tracks.append(transformed_track)
+    return transformed_tracks
+
 
 
 def main():
@@ -252,6 +280,16 @@ def main():
       continue
     # print(f"Ignoring playlist '{item['name']}' because it is not created by the user. Created by '{item['owner_id']}'")
 
+  liked_songs_data = fetch_all_liked_songs()
+  transformed_liked_songs = transform_liked_songs(liked_songs_data)
+
+    # Save the liked songs to a JSON file
+  Path(f"./liked_songs").mkdir(parents=True, exist_ok=True)
+  with open(f"./liked_songs/liked_songs.json", 'w', encoding='utf-8') as f:
+        json.dump(transformed_liked_songs, f, ensure_ascii=False, indent=2)
+
+  t1_stop = perf_counter()
+  print(f"Script completed in {t1_stop - t1_start:.2f} seconds")
     
 if __name__ == '__main__':
   t1_start = perf_counter()
