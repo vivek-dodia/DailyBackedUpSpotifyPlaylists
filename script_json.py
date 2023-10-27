@@ -13,8 +13,6 @@ from pathlib import Path
 
 import json
 import auth
-#from fetch_tracks import fetch_tracks_from_playlist  # Import the function at the top of your main script
-
 
 load_dotenv()
 
@@ -37,10 +35,10 @@ AUTH_SCOPE = [
 ]
 OWNER_IDS = SPOTIFY_OWNER_IDS.split(',')
 
-# caps out at 50
+#caps out at 50
 PLAYLISTS_PER_CALL = 50
 
-# caps out at 100
+#caps out at 100
 TRACKS_PER_CALL = 100
 
 TRACK_FIELDS = [
@@ -102,25 +100,26 @@ def fetch_playlist_items(playlist_id, limit = 100, offset = 0):
   return sp.playlist_items(playlist_id, ','.join(TRACK_FIELDS), limit, offset, None)
 
 def fetch_all_playlist_tracks(playlist_id):
-  # empty array to add tracks to this playlist
+  
+  #empty array to add tracks to this playlist
   playlist_items = []
 
-  # initial request the first block of tracks from the playlist
+  #initial request the first block of tracks from the playlist
   playlist_response = fetch_playlist_items(playlist_id, TRACKS_PER_CALL, 0)
 
-  # add the tracks to the array
+  #add the tracks to the array
   playlist_items += playlist_response['items']
 
-  # define the total tracks count
+  #define the total tracks count
   total_tracks_count = playlist_response['total']
 
-  # while the track count is less than the total tracks, keep hitting the API
+  #while the track count is less than the total tracks, keep hitting the API
   while len(playlist_items) < total_tracks_count:
     print('fetching ', TRACKS_PER_CALL, ' items per call with an offset of ', len(playlist_items), ' from playlist ', playlist_id)
     playlist_response_while = fetch_playlist_items(playlist_id, TRACKS_PER_CALL, len(playlist_items))
     playlist_items += playlist_response_while['items']
   
-  # return the complete list of tracks for the playlist
+  #return the complete list of tracks for the playlist
   return playlist_items
 
 def get_artists_data(artists):
@@ -133,7 +132,7 @@ def get_artists_data(artists):
     _artists.append(transformed_artist)
   return _artists
 
-# handle transformation of track information
+#handle transformation of track information
 def transform_tracks(tracks_data):
   transformed_tracks = []
   for track in tracks_data:
@@ -154,7 +153,8 @@ def transform_tracks(tracks_data):
   return transformed_tracks
 
 def transform_playlists(playlist_response):
-  # empty array to add playlists to
+  
+  #empty array to add playlists to
   playlists_transformed = []
 
   for playlist in playlist_response['items']:
@@ -166,53 +166,55 @@ def transform_playlists(playlist_response):
   return playlists_transformed
 
 def fetch_some_playlists():
-  # empty array to add playlists to
+  
+  #empty array to add playlists to
   playlists = []
 
-  # initial request the first block of playlists
+  #initial request the first block of playlists
   playlist_response = sp.current_user_playlists(PLAYLISTS_PER_CALL, 0)
 
-  # add the tracks to the array
+  #add the tracks to the array
   playlists = transform_playlists(playlist_response)
 
   return playlists
 
 
 def fetch_all_playlists():
-  # empty array to add playlists to
+  
+  #empty array to add playlists to
   playlists = []
 
-  # initial request the first block of playlists
+  #initial request the first block of playlists
   playlist_response = sp.current_user_playlists(PLAYLISTS_PER_CALL, 0)
 
-  # add the tracks to the array
+  #add the tracks to the array
   playlists = transform_playlists(playlist_response)
 
-  # define the total playlists count
+  #define the total playlists count
   total_playlists_count = playlist_response['total']
   print(f"Total of {total_playlists_count} playlists to fetch");
 
   playlist_length = len(playlists)
 
-  # while the track count is less than the total tracks, keep hitting the API
+  #while the track count is less than the total tracks, keep hitting the API
   while playlist_length < total_playlists_count:
     print(f"fetching {PLAYLISTS_PER_CALL} playlists per call with an offset of {playlist_length} from playlist")
     playlists_data = transform_playlists(sp.current_user_playlists(PLAYLISTS_PER_CALL, playlist_length))
     playlist_length += len(playlists_data)
     playlists += playlists_data
   
-  # return the complete list of playlists 
+  #return the complete list of playlists 
   return playlists
 
 def get_tracks_for_playlist(playlist):
     print(f"------ start '{playlist['name']}' {datetime.now()} ------")
 
-    # If it's not your liked songs, fetch the playlist tracks
+    #If it's not your liked songs, fetch the playlist tracks
     if playlist['name'] != 'Your Library':
         playlist_tracks = fetch_all_playlist_tracks(playlist['id'])
         transformed_tracks = transform_tracks(playlist_tracks)
     else:
-        # Fetch your liked songs
+        #Fetch your liked songs
         liked_songs = sp.current_user_saved_tracks()
         liked_tracks = liked_songs['items']
         transformed_tracks = transform_tracks(liked_tracks)
@@ -224,7 +226,7 @@ def get_tracks_for_playlist(playlist):
         exist_ok=True
     )
     
-       # Save the tracks as JSON
+       #Save the tracks as JSON
     playlist_object = {
         'name': playlist['name'],
         'owner_id': playlist['owner_id'],
@@ -258,7 +260,6 @@ def transform_liked_songs(liked_songs_data):
             'id': track['id'],
             'name': track['name'],
             'artists': [{'id': artist['id'], 'name': artist['name']} for artist in track['artists']],
-            # ... and other fields you want to keep
         }
         transformed_tracks.append(transformed_track)
     return transformed_tracks
@@ -266,24 +267,27 @@ def transform_liked_songs(liked_songs_data):
 
 
 def main():
-  # all_playlists_data = fetch_some_playlists();
+  
+  #all_playlists_data = fetch_some_playlists();
   all_playlists_data = fetch_all_playlists()
 
-  # # convert and save all playlists data
+  #convert and save all playlists data
   df = pd.json_normalize(all_playlists_data)
   df.to_csv(f"playlists.csv", index = False)
 
   for item in all_playlists_data:
-    # if OWNER_IDS are provided, filter the users saved/created playslists by the ids, otherwise, backup all playlists
+    
+    #if OWNER_IDS are provided, filter the users saved/created playslists by the ids, otherwise, backup all playlists
     if len(OWNER_IDS) == 0 or ((item['owner_id'] in OWNER_IDS) or 'Your Top Songs' in item['name']):
       get_tracks_for_playlist(item)
       continue
-    # print(f"Ignoring playlist '{item['name']}' because it is not created by the user. Created by '{item['owner_id']}'")
+    
+    #print(f"Ignoring playlist '{item['name']}' because it is not created by the user. Created by '{item['owner_id']}'")
 
   liked_songs_data = fetch_all_liked_songs()
   transformed_liked_songs = transform_liked_songs(liked_songs_data)
 
-    # Save the liked songs to a JSON file
+    #Saves the liked songs to a JSON file
   Path(f"./liked_songs").mkdir(parents=True, exist_ok=True)
   with open(f"./liked_songs/liked_songs.json", 'w', encoding='utf-8') as f:
         json.dump(transformed_liked_songs, f, ensure_ascii=False, indent=2)
@@ -294,11 +298,9 @@ def main():
 if __name__ == '__main__':
   t1_start = perf_counter()
 
-  # Check we have the proper env vars before proceeding
+  #Checks if we have the proper env vars before proceeding
   check_env_vars()
   
-  
-
   sp = handle_auth()
   print("\n")
   main()

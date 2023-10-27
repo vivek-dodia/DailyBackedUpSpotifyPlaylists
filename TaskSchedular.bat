@@ -29,7 +29,7 @@ git pull origin main
 git add .
 
 :: Just naming my commit for reference
-git commit -m "Automated commit with updated playlists."
+git commit -m "Automated commit with updated playlists and liked songs."
 
 :: Pushing the changes with new JSON files 
 git push origin main
