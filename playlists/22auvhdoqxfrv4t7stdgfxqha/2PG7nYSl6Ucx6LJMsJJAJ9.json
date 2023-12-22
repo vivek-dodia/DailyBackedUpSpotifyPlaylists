@@ -1,0 +1,23 @@
+{
+  "name": "A",
+  "owner_id": "22auvhdoqxfrv4t7stdgfxqha",
+  "tracks": [
+    {
+      "added_at": "2023-12-21T22:04:36Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "5mwJNru5JwQLURdjhIqgXX",
+      "name": "The Day You Left",
+      "artists": [
+        {
+          "id": "3JXpwnHbLvXxY99EuXqFPX",
+          "name": "Poo Bear",
+          "type": "artist"
+        }
+      ],
+      "duration": 246746,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    }
+  ]
+}
