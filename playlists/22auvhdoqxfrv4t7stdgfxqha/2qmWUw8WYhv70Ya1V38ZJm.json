@@ -1,0 +1,177 @@
+{
+  "name": "king push ",
+  "owner_id": "22auvhdoqxfrv4t7stdgfxqha",
+  "tracks": [
+    {
+      "added_at": "2023-05-15T23:55:26Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "4XkXgUNDVBMj3oJoE8yspZ",
+      "name": "Numbers On The Boards",
+      "artists": [
+        {
+          "id": "0ONHkAv9pCAFxb0zJwDNTy",
+          "name": "Pusha T",
+          "type": "artist"
+        }
+      ],
+      "duration": 163586,
+      "track_number": 2,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2023-05-15T23:58:10Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "4nwxCitFgnLugXCl0JFNTJ",
+      "name": "Sweet Serenade",
+      "artists": [
+        {
+          "id": "0ONHkAv9pCAFxb0zJwDNTy",
+          "name": "Pusha T",
+          "type": "artist"
+        },
+        {
+          "id": "7bXgB6jMjp9ATFy66eO08Z",
+          "name": "Chris Brown",
+          "type": "artist"
+        }
+      ],
+      "duration": 219293,
+      "track_number": 3,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2023-05-16T00:25:53Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "7aK5rlTVxSgcqShPMI1TTH",
+      "name": "Nosetalgia",
+      "artists": [
+        {
+          "id": "0ONHkAv9pCAFxb0zJwDNTy",
+          "name": "Pusha T",
+          "type": "artist"
+        },
+        {
+          "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+          "name": "Kendrick Lamar",
+          "type": "artist"
+        }
+      ],
+      "duration": 216066,
+      "track_number": 10,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2023-05-16T00:53:00Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "4s6nWWZuEXIhmFcejmsXwi",
+      "name": "S.N.I.T.C.H.",
+      "artists": [
+        {
+          "id": "0ONHkAv9pCAFxb0zJwDNTy",
+          "name": "Pusha T",
+          "type": "artist"
+        },
+        {
+          "id": "2RdwBSPQiwcmiDo9kixcl8",
+          "name": "Pharrell Williams",
+          "type": "artist"
+        }
+      ],
+      "duration": 243840,
+      "track_number": 12,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2023-05-16T01:02:31Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "5JURxzoZ0r9FP6N01XRAAi",
+      "name": "Open Air",
+      "artists": [
+        {
+          "id": "0ONHkAv9pCAFxb0zJwDNTy",
+          "name": "Pusha T",
+          "type": "artist"
+        }
+      ],
+      "duration": 132603,
+      "track_number": 11,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2023-05-27T23:01:16Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "6iLgI1bt8nZ8JAls44sxDp",
+      "name": "Intro",
+      "artists": [
+        {
+          "id": "0ONHkAv9pCAFxb0zJwDNTy",
+          "name": "Pusha T",
+          "type": "artist"
+        }
+      ],
+      "duration": 153440,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2023-05-27T23:15:14Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "09W3YKEDiMFsX7QxWJm2zX",
+      "name": "M.P.A.",
+      "artists": [
+        {
+          "id": "0ONHkAv9pCAFxb0zJwDNTy",
+          "name": "Pusha T",
+          "type": "artist"
+        },
+        {
+          "id": "5K4W6rqBFWDnAN6FQUkS6x",
+          "name": "Kanye West",
+          "type": "artist"
+        },
+        {
+          "id": "13ubrt8QOOCPljQ2FL1Kca",
+          "name": "A$AP Rocky",
+          "type": "artist"
+        },
+        {
+          "id": "1W3FSF1BLpY3hlVIgvenLz",
+          "name": "The-Dream",
+          "type": "artist"
+        }
+      ],
+      "duration": 285773,
+      "track_number": 5,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2023-12-26T23:40:08Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "0DSXAjnNFpc22v31I4MX2S",
+      "name": "Miami (feat. Pusha T)",
+      "artists": [
+        {
+          "id": "4hRL2QmahOYxXNmNKtG1AI",
+          "name": "Valee",
+          "type": "artist"
+        },
+        {
+          "id": "0ONHkAv9pCAFxb0zJwDNTy",
+          "name": "Pusha T",
+          "type": "artist"
+        }
+      ],
+      "duration": 179280,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    }
+  ]
+}
