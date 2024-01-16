@@ -1,0 +1,315 @@
+{
+  "name": "(っ◔◡◔)っ Seraphic ",
+  "owner_id": "22auvhdoqxfrv4t7stdgfxqha",
+  "tracks": [
+    {
+      "added_at": "2023-12-27T15:13:41Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "0dvnNkCCHvfNUZuerBo0H8",
+      "name": "Hail, Horrors!",
+      "artists": [
+        {
+          "id": "04p1jV00pBnrmh2rKl0jnT",
+          "name": "Juelz",
+          "type": "artist"
+        }
+      ],
+      "duration": 105461,
+      "track_number": 6,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2023-12-27T15:20:09Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "2JgFfMIKxH9xIlu9c3GeJY",
+      "name": "Anxious (with MASN)",
+      "artists": [
+        {
+          "id": "7yPPzu5UdAK7yagQqjEZQm",
+          "name": "Party Favor",
+          "type": "artist"
+        },
+        {
+          "id": "4HAfqyKr4Sqtab6ttHWXgE",
+          "name": "MASN",
+          "type": "artist"
+        }
+      ],
+      "duration": 188110,
+      "track_number": 14,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2023-12-27T15:23:57Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "7wKzj1b8YKPuZELfVDz708",
+      "name": "Problems",
+      "artists": [
+        {
+          "id": "6gK1Uct5FEdaUWRWpU4Cl2",
+          "name": "Petit Biscuit",
+          "type": "artist"
+        },
+        {
+          "id": "1aSwrSGBNGMLn9ymttfRkk",
+          "name": "Lido",
+          "type": "artist"
+        }
+      ],
+      "duration": 219933,
+      "track_number": 2,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2023-12-27T15:28:28Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "4CbUeLEp5QJJYSYm59Cozy",
+      "name": "Always in a Hurry",
+      "artists": [
+        {
+          "id": "62vbsDRAq0qHdezaCOzB0T",
+          "name": "Medasin",
+          "type": "artist"
+        }
+      ],
+      "duration": 164769,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2023-12-27T15:51:10Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "2jokLd93nobhAlHcWiGusC",
+      "name": "Sunshine (with The Knocks)",
+      "artists": [
+        {
+          "id": "0vqJkZ0RpLZixt3lTmD8vP",
+          "name": "Whethan",
+          "type": "artist"
+        },
+        {
+          "id": "2x7EATekOPhFGRx3syMGEC",
+          "name": "The Knocks",
+          "type": "artist"
+        }
+      ],
+      "duration": 207818,
+      "track_number": 6,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2023-12-27T15:53:00Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "7jfcRyvuTzbElYYGASyllK",
+      "name": "North Circular",
+      "artists": [
+        {
+          "id": "1jucBaHU995Lf7ViACscFu",
+          "name": "Real Lies",
+          "type": "artist"
+        }
+      ],
+      "duration": 313120,
+      "track_number": 6,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2023-12-27T15:54:03Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "11dPPN6N3pm7Wy1947S0Ws",
+      "name": "Contemplation",
+      "artists": [
+        {
+          "id": "6JcD2YKEhgimweLpUI0NEw",
+          "name": "KUČKA",
+          "type": "artist"
+        }
+      ],
+      "duration": 207106,
+      "track_number": 2,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2023-12-27T15:58:05Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "1N50xgnXfKD2DRrUnabU6j",
+      "name": "À tout à l'heure",
+      "artists": [
+        {
+          "id": "0qzzGu8qpbXYpzgV52wOFT",
+          "name": "Bibio",
+          "type": "artist"
+        }
+      ],
+      "duration": 249573,
+      "track_number": 5,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2023-12-27T16:00:21Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "0ad87RTfHWmC2Syh1nOxEd",
+      "name": "Young",
+      "artists": [
+        {
+          "id": "7qhWa7UI1QNZNDnzYwAYZm",
+          "name": "Vallis Alps",
+          "type": "artist"
+        }
+      ],
+      "duration": 324106,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2023-12-27T16:00:53Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "7iAqvWLgZzXvH38lA06QZg",
+      "name": "I Want To Break Free",
+      "artists": [
+        {
+          "id": "1dfeR4HaWDbWqFHLkxsg1d",
+          "name": "Queen",
+          "type": "artist"
+        }
+      ],
+      "duration": 223080,
+      "track_number": 13,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2023-12-27T16:01:12Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "4gRuC34ZpRcpVXxMXM1csQ",
+      "name": "You",
+      "artists": [
+        {
+          "id": "6gK1Uct5FEdaUWRWpU4Cl2",
+          "name": "Petit Biscuit",
+          "type": "artist"
+        }
+      ],
+      "duration": 231131,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2023-12-27T16:01:32Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "3OG2n87s38Hm4TTpEOsRI8",
+      "name": "empty crown",
+      "artists": [
+        {
+          "id": "7gPc9VjYGK7UT9MfOJybeY",
+          "name": "YAS",
+          "type": "artist"
+        }
+      ],
+      "duration": 214285,
+      "track_number": 9,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2023-12-27T16:01:56Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "6viES53xsjUK9IbgANQ2EN",
+      "name": "Breaking Wave",
+      "artists": [
+        {
+          "id": "6qiuwoB9ro3SX0ZjSXnr0y",
+          "name": "Astron",
+          "type": "artist"
+        }
+      ],
+      "duration": 180826,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2023-12-27T16:02:37Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "58e7V70Em6FABOiln4jNoZ",
+      "name": "Mauvais présage",
+      "artists": [
+        {
+          "id": "7hstPLRSo0ipNnICMpTN5g",
+          "name": "Requin Chagrin",
+          "type": "artist"
+        }
+      ],
+      "duration": 340880,
+      "track_number": 3,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2023-12-27T16:03:52Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "7DWvqa6flslklTLDBBxOmG",
+      "name": "Dirty Old Town",
+      "artists": [
+        {
+          "id": "2VMxEtyyo7Jg3jmVDQPHwx",
+          "name": "Craig Cardiff",
+          "type": "artist"
+        }
+      ],
+      "duration": 246453,
+      "track_number": 4,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2024-01-11T04:17:15Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "4eNcfkUwOLe0fqWBiCPAez",
+      "name": "Ave Maria",
+      "artists": [
+        {
+          "id": "04p1jV00pBnrmh2rKl0jnT",
+          "name": "Juelz",
+          "type": "artist"
+        }
+      ],
+      "duration": 173617,
+      "track_number": 6,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2024-01-11T15:19:10Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "797cARXs5UuXT7anWuILTP",
+      "name": "Weekend",
+      "artists": [
+        {
+          "id": "6nxWCVXbOlEVRexSbLsTer",
+          "name": "Flume",
+          "type": "artist"
+        },
+        {
+          "id": "5W10uJRsbt9bROJDKoI1Wn",
+          "name": "Moses Sumney",
+          "type": "artist"
+        }
+      ],
+      "duration": 259176,
+      "track_number": 2,
+      "type": "track",
+      "is_local": false
+    }
+  ]
+}
