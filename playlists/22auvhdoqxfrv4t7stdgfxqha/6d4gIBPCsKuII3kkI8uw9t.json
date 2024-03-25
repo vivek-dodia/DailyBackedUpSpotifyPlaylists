@@ -1,0 +1,2567 @@
+{
+  "name": "chilly willy",
+  "owner_id": "22auvhdoqxfrv4t7stdgfxqha",
+  "tracks": [
+    {
+      "added_at": "2019-06-14T16:32:41Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "5bd3KVYd52s8FieTLgZO3M",
+      "name": "Haïku",
+      "artists": [
+        {
+          "id": "0bTjRjJqubBOV089p8FBf7",
+          "name": "Messire",
+          "type": "artist"
+        }
+      ],
+      "duration": 172173,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-06-15T03:04:38Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "3wjUsST5rYWqt86MIzbOl2",
+      "name": "VERONA",
+      "artists": [
+        {
+          "id": "0M7GyeyRi2fG8c1LdP4jhi",
+          "name": "Lastlings",
+          "type": "artist"
+        }
+      ],
+      "duration": 268173,
+      "track_number": 5,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-06-15T03:35:00Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "20OrSCxQNhfAtiWtbLn3hf",
+      "name": "Young Blood",
+      "artists": [
+        {
+          "id": "2RQXRUsr4IW1f3mKyKsy4B",
+          "name": "Noah Kahan",
+          "type": "artist"
+        }
+      ],
+      "duration": 208853,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-06-16T21:16:51Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "1wnFpv1gSsFZeuNlHOX1ch",
+      "name": "I Won't Fight It",
+      "artists": [
+        {
+          "id": "3UAk61T8PItbpgEi9u7ofY",
+          "name": "Andrew Belle",
+          "type": "artist"
+        }
+      ],
+      "duration": 331106,
+      "track_number": 10,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-06-16T21:28:48Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "6xUhre6N6NhELpQaTBo3rP",
+      "name": "Bloodstream",
+      "artists": [
+        {
+          "id": "6msJKphD3VXZPItnztefdH",
+          "name": "Stateless",
+          "type": "artist"
+        }
+      ],
+      "duration": 313800,
+      "track_number": 3,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-06-16T21:38:38Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "4lRuRtvftdSSUA7hLP7zAr",
+      "name": "I Found",
+      "artists": [
+        {
+          "id": "0MmnmsAuQKRFpo6vJElcaU",
+          "name": "Amber Run",
+          "type": "artist"
+        }
+      ],
+      "duration": 274226,
+      "track_number": 2,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-06-16T21:45:27Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "2HQY0sXTrBJCuxqJxbeMWB",
+      "name": "Cherry",
+      "artists": [
+        {
+          "id": "5fEKZRCUa0JApec5Xy095q",
+          "name": "Moose Blood",
+          "type": "artist"
+        }
+      ],
+      "duration": 159711,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-06-16T21:52:41Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "23X4RjHORKVk75NBCjIusY",
+      "name": "Big Jet Plane",
+      "artists": [
+        {
+          "id": "4tvKz56Tr39bkhcQUTO0Xr",
+          "name": "Angus & Julia Stone",
+          "type": "artist"
+        }
+      ],
+      "duration": 239120,
+      "track_number": 4,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-06-16T22:02:58Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "0Qw7qGuXlVBZLcfoQ17yZn",
+      "name": "Old Pine",
+      "artists": [
+        {
+          "id": "5schNIzWdI9gJ1QRK8SBnc",
+          "name": "Ben Howard",
+          "type": "artist"
+        }
+      ],
+      "duration": 328506,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-06-16T22:10:10Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "0pdKRp2sUthTPe7RLWpPqQ",
+      "name": "You're Somebody Else",
+      "artists": [
+        {
+          "id": "6GpcBKNmZDIrRzYkPJu7Wd",
+          "name": "flora cash",
+          "type": "artist"
+        }
+      ],
+      "duration": 218883,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-06-19T00:47:41Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "0C2e2P3et5TBl4dLcHTERo",
+      "name": "Bloodstream - Quartet Session",
+      "artists": [
+        {
+          "id": "6msJKphD3VXZPItnztefdH",
+          "name": "Stateless",
+          "type": "artist"
+        }
+      ],
+      "duration": 301901,
+      "track_number": 5,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-06-19T00:52:23Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "3rTnGUeDrnZV22DvRuUuXr",
+      "name": "Wait",
+      "artists": [
+        {
+          "id": "63MQldklfxkjYDoUE4Tppz",
+          "name": "M83",
+          "type": "artist"
+        }
+      ],
+      "duration": 343253,
+      "track_number": 5,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-06-19T01:17:11Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "7GX2EccIg5VD7InHLwLfcQ",
+      "name": "it's ok, you're ok",
+      "artists": [
+        {
+          "id": "10dzW1PpkEFPkeQSqvgXvw",
+          "name": "Bonjr",
+          "type": "artist"
+        }
+      ],
+      "duration": 215510,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-06-19T01:19:09Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "4JUYaHt43h8SZQ4lYGsGJP",
+      "name": "Stars",
+      "artists": [
+        {
+          "id": "1VTqcwo2gWop75nRqyCGJw",
+          "name": "Sam Airey",
+          "type": "artist"
+        }
+      ],
+      "duration": 322680,
+      "track_number": 10,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-06-19T01:19:33Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "1gZTtG3VVHJS0uETsNzm9Z",
+      "name": "Adrift",
+      "artists": [
+        {
+          "id": "1EapoibEY4FGU6t63sZwtE",
+          "name": "Reddening West",
+          "type": "artist"
+        }
+      ],
+      "duration": 221106,
+      "track_number": 8,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-06-19T01:19:51Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "6wjKfPVUkSvZHbt9iN7fug",
+      "name": "Time",
+      "artists": [
+        {
+          "id": "4aCkc4HrwC4Dopig7RELoH",
+          "name": "Kidswaste",
+          "type": "artist"
+        }
+      ],
+      "duration": 274668,
+      "track_number": 2,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-06-20T01:20:31Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "3uSwz1gv799BQhkqgIgfSz",
+      "name": "Begin (feat. Wales)",
+      "artists": [
+        {
+          "id": "7C3Cbtr2PkH2l4tOGhtCsk",
+          "name": "Shallou",
+          "type": "artist"
+        },
+        {
+          "id": "3IxDETkXytMePFoyf7PYWQ",
+          "name": "Wales",
+          "type": "artist"
+        }
+      ],
+      "duration": 242859,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-06-20T01:20:41Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "65ROM5A1rkF6nqUSU7fRS1",
+      "name": "Dear Lillie",
+      "artists": [
+        {
+          "id": "5UyjnQfu4OsLGiOi3sIoEN",
+          "name": "Aether",
+          "type": "artist"
+        }
+      ],
+      "duration": 236575,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-06-20T01:20:50Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "0MC6LfBcq3EgLMThwvpZHj",
+      "name": "Catharsis",
+      "artists": [
+        {
+          "id": "5UyjnQfu4OsLGiOi3sIoEN",
+          "name": "Aether",
+          "type": "artist"
+        }
+      ],
+      "duration": 245613,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-06-20T01:22:33Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "5413LFXLYAJS85VKs6H6ag",
+      "name": "Free",
+      "artists": [
+        {
+          "id": "4aCkc4HrwC4Dopig7RELoH",
+          "name": "Kidswaste",
+          "type": "artist"
+        }
+      ],
+      "duration": 253857,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-06-20T01:22:56Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "0lQ90Vlf6vyZ7r7rkJx0Zu",
+      "name": "Little Lover",
+      "artists": [
+        {
+          "id": "42wlDfDuv6KZWWd0t7Qgj3",
+          "name": "Nick Broadhurst",
+          "type": "artist"
+        }
+      ],
+      "duration": 239794,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-06-20T01:23:35Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "58Qol5xzalwqF912GE9vQv",
+      "name": "Barcelona",
+      "artists": [
+        {
+          "id": "2ysnwxxNtSgbb9t1m2Ur4j",
+          "name": "George Ezra",
+          "type": "artist"
+        }
+      ],
+      "duration": 188960,
+      "track_number": 4,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-06-20T01:23:49Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "6hbbXqOeOtqjodSMLmlmdt",
+      "name": "Sleeping Inside",
+      "artists": [
+        {
+          "id": "1E9TNv40XvUPBKsueQZ7Ix",
+          "name": "Lilium",
+          "type": "artist"
+        }
+      ],
+      "duration": 207480,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-06-20T01:24:26Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "4sa0z53uQH0pBQPDaAnQcl",
+      "name": "Chihiro",
+      "artists": [
+        {
+          "id": "2wwZDwSBHaVaOI6cE2hfhf",
+          "name": "Yoste",
+          "type": "artist"
+        }
+      ],
+      "duration": 212963,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-06-20T01:24:51Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "7eBqNSGi5jOBQZDiecXJas",
+      "name": "Who We Want to Be",
+      "artists": [
+        {
+          "id": "74yueOpxONIcPCjGyF84jG",
+          "name": "Tom Day",
+          "type": "artist"
+        }
+      ],
+      "duration": 395294,
+      "track_number": 6,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-06-20T12:44:52Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "2fKEunM0KZVpVLwlvmVlDZ",
+      "name": "Fading",
+      "artists": [
+        {
+          "id": "7qhWa7UI1QNZNDnzYwAYZm",
+          "name": "Vallis Alps",
+          "type": "artist"
+        }
+      ],
+      "duration": 280055,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-06-20T15:25:09Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "6ly3JE8cglamVFEAvqwqzc",
+      "name": "Heartbeats (feat. Ester Adele) (feat. Ester Adele)",
+      "artists": [
+        {
+          "id": "45sqz0r32KGuaur2QMd9iS",
+          "name": "Autolaser",
+          "type": "artist"
+        },
+        {
+          "id": "5zEh5XsQAkg0iUY3vPNU0l",
+          "name": "Ester Adele",
+          "type": "artist"
+        }
+      ],
+      "duration": 237446,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-06-20T15:44:42Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "21vVPqWSgNmp01uglui7SW",
+      "name": "Wolfe",
+      "artists": [
+        {
+          "id": "3xpoOiUQYO66hhkFTwoCvr",
+          "name": "Brolly",
+          "type": "artist"
+        }
+      ],
+      "duration": 328261,
+      "track_number": 3,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-06-20T23:53:01Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "7iAqvWLgZzXvH38lA06QZg",
+      "name": "I Want To Break Free",
+      "artists": [
+        {
+          "id": "1dfeR4HaWDbWqFHLkxsg1d",
+          "name": "Queen",
+          "type": "artist"
+        }
+      ],
+      "duration": 223080,
+      "track_number": 13,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-06-20T23:53:06Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "0uf2MtrLg2WUWYrs1rltpY",
+      "name": "Stole the Show",
+      "artists": [
+        {
+          "id": "48sLioddyaXkuhyHXSkpsB",
+          "name": "Parson James",
+          "type": "artist"
+        }
+      ],
+      "duration": 231522,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-06-20T23:53:19Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "2k80B1DEqJFUG4L5LUa6Mv",
+      "name": "Thru",
+      "artists": [
+        {
+          "id": "7qhWa7UI1QNZNDnzYwAYZm",
+          "name": "Vallis Alps",
+          "type": "artist"
+        }
+      ],
+      "duration": 253568,
+      "track_number": 2,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-06-21T20:03:45Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "6GMaQmdpwGolGyuW6ZJ9X9",
+      "name": "Always Afternoon",
+      "artists": [
+        {
+          "id": "62vbsDRAq0qHdezaCOzB0T",
+          "name": "Medasin",
+          "type": "artist"
+        },
+        {
+          "id": "6UqUYZ8pMGiYhuyIcsH61y",
+          "name": "Kathleen",
+          "type": "artist"
+        }
+      ],
+      "duration": 183226,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-06-21T20:12:39Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "7rc6L3UtM0uvwfpsl07GBL",
+      "name": "Feeling Good",
+      "artists": [
+        {
+          "id": "1vCWHaC5f2uS3yhpwWbIA6",
+          "name": "Avicii",
+          "type": "artist"
+        }
+      ],
+      "duration": 230424,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-06-22T20:15:46Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "5Z156k3mzx9pIlPVJdJvxD",
+      "name": "Things That Stop You Dreaming",
+      "artists": [
+        {
+          "id": "0gadJ2b9A4SKsB1RFkBb66",
+          "name": "Passenger",
+          "type": "artist"
+        }
+      ],
+      "duration": 215346,
+      "track_number": 2,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-06-24T15:56:03Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "7pr2Tc9IBQfmIfSBgSAqSc",
+      "name": "Thoughts",
+      "artists": [
+        {
+          "id": "21aa4pj9BvbFB2iT8kRpnq",
+          "name": "Michael Schulte",
+          "type": "artist"
+        }
+      ],
+      "duration": 227009,
+      "track_number": 2,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-06-24T17:31:48Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "3uvsVUrAaGQJCTEUR1S3Sx",
+      "name": "Bare",
+      "artists": [
+        {
+          "id": "0ypTT9UqAU5sZpPo5JZmjR",
+          "name": "WILDES",
+          "type": "artist"
+        }
+      ],
+      "duration": 242060,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-06-25T11:20:28Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "7elIt5j4vefSs8Ss9lSed9",
+      "name": "On the Blues",
+      "artists": [
+        {
+          "id": "7hfCosTJTzFV0lxXZdqMTU",
+          "name": "Tristen Beer",
+          "type": "artist"
+        }
+      ],
+      "duration": 243749,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-06-25T12:43:44Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "0QB71BDzh36guAExsTIgNO",
+      "name": "Only Love",
+      "artists": [
+        {
+          "id": "5schNIzWdI9gJ1QRK8SBnc",
+          "name": "Ben Howard",
+          "type": "artist"
+        }
+      ],
+      "duration": 249173,
+      "track_number": 5,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-06-28T00:14:33Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "5x0UC3wIVGKWtWl4Pax8le",
+      "name": "The Woods",
+      "artists": [
+        {
+          "id": "7IAFAOtc9kTYNTizhLSWM6",
+          "name": "Hollow Coves",
+          "type": "artist"
+        }
+      ],
+      "duration": 242545,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-07-03T22:58:50Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "1gi9b0wwCkmOSrDIfY2Uxh",
+      "name": "Roads",
+      "artists": [
+        {
+          "id": "75HUyKKqjQufaWM2aJ1Ba4",
+          "name": "Samson",
+          "type": "artist"
+        }
+      ],
+      "duration": 189368,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-07-05T16:57:40Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "4gRuC34ZpRcpVXxMXM1csQ",
+      "name": "You",
+      "artists": [
+        {
+          "id": "6gK1Uct5FEdaUWRWpU4Cl2",
+          "name": "Petit Biscuit",
+          "type": "artist"
+        }
+      ],
+      "duration": 231131,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-07-06T00:52:33Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "3n5ZFi2ec8aEuYlvgUNx5u",
+      "name": "Where There's Smoke",
+      "artists": [
+        {
+          "id": "4mErKO4g29SXtBwj4S80aB",
+          "name": "rum.gold",
+          "type": "artist"
+        }
+      ],
+      "duration": 273809,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-07-11T11:10:51Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "7zn3MMeHjee0OZAtsLMDxN",
+      "name": "Tonic Water - dazy Remix",
+      "artists": [
+        {
+          "id": "0lIIsJafIVVi3ruN2vFzpS",
+          "name": "Moglii",
+          "type": "artist"
+        },
+        {
+          "id": "3PMqVecYp6tFBk7d7SDlPm",
+          "name": "Novaa",
+          "type": "artist"
+        },
+        {
+          "id": "38PzLQE4GW8o7A18oGhi0x",
+          "name": "dazy",
+          "type": "artist"
+        }
+      ],
+      "duration": 140624,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-07-12T00:58:48Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "2urQEPkvz0ISpmqrKoSvwA",
+      "name": "ON THE RUN",
+      "artists": [
+        {
+          "id": "1m0t5VYISq6TcyMo7UqLMz",
+          "name": "Zaia",
+          "type": "artist"
+        }
+      ],
+      "duration": 253561,
+      "track_number": 4,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-07-12T01:01:46Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "0Qi1ZcUMq2KWVabWtlKIJZ",
+      "name": "BLUE",
+      "artists": [
+        {
+          "id": "1m0t5VYISq6TcyMo7UqLMz",
+          "name": "Zaia",
+          "type": "artist"
+        }
+      ],
+      "duration": 137183,
+      "track_number": 2,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-07-12T11:47:26Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "7j6KSDFyIlKafcejsUAlGO",
+      "name": "Floods",
+      "artists": [
+        {
+          "id": "4hSeosKw3pr72gC10igZow",
+          "name": "Szymon",
+          "type": "artist"
+        }
+      ],
+      "duration": 173729,
+      "track_number": 11,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-07-12T20:36:46Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "1WXVfFRD89EtVURD4Tbixo",
+      "name": "The Breach",
+      "artists": [
+        {
+          "id": "0z9hynUsIjf0ddI4uHqPWX",
+          "name": "Dustin Tebbutt",
+          "type": "artist"
+        }
+      ],
+      "duration": 253848,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-07-23T20:13:57Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "0pZnBamZv6VTk8eB4O7DcV",
+      "name": "Mist",
+      "artists": [
+        {
+          "id": "57JUsZcuNTR0ocGCfrnse1",
+          "name": "cln",
+          "type": "artist"
+        }
+      ],
+      "duration": 235043,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-07-29T03:24:18Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "3OG2n87s38Hm4TTpEOsRI8",
+      "name": "empty crown",
+      "artists": [
+        {
+          "id": "7gPc9VjYGK7UT9MfOJybeY",
+          "name": "YAS",
+          "type": "artist"
+        }
+      ],
+      "duration": 214285,
+      "track_number": 9,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-07-29T22:19:52Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "5EIPYlUGHcWXFV8DHINuBa",
+      "name": "Where To Go",
+      "artists": [
+        {
+          "id": "59MDSNIYoOY0WRYuodzJPD",
+          "name": "Duskus",
+          "type": "artist"
+        }
+      ],
+      "duration": 251076,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-07-31T17:42:05Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "3ajOzlp7JgzZJBAVUpWGHr",
+      "name": "A Land So Far (feat. Julien H)",
+      "artists": [
+        {
+          "id": "5rf1u63C6OLwqIk4hHlkhv",
+          "name": "Jawster",
+          "type": "artist"
+        },
+        {
+          "id": "2gNBk2gBsXyAdJ7NUhMX9p",
+          "name": "Julien H.",
+          "type": "artist"
+        }
+      ],
+      "duration": 276297,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-08-04T15:47:03Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "4aIUZPSAxz7Gu6EsLhnrD8",
+      "name": "Same Old",
+      "artists": [
+        {
+          "id": "6QCstr3yhEVSZPQyDvvYjK",
+          "name": "FELIVAND",
+          "type": "artist"
+        }
+      ],
+      "duration": 227000,
+      "track_number": 3,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-08-05T02:18:20Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "18iVdZmYdzJRRtSGmaLERa",
+      "name": "Bloodstream",
+      "artists": [
+        {
+          "id": "0vxi8y8ALEjqFrDum0Oc4Z",
+          "name": "Tokio Myers",
+          "type": "artist"
+        }
+      ],
+      "duration": 215746,
+      "track_number": 3,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-08-09T03:57:34Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "0tNk28J3yKlHOlCFAbbDjc",
+      "name": "Blinded",
+      "artists": [
+        {
+          "id": "3VVLqeEqQQqTgT8YhfY9Z6",
+          "name": "Emmit Fenn",
+          "type": "artist"
+        }
+      ],
+      "duration": 224279,
+      "track_number": 9,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-08-09T12:34:55Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "344K5fVlO6eADxDGxHFDBe",
+      "name": "Angel Grove",
+      "artists": [
+        {
+          "id": "0VIT9dtNSoaeDy32J1PnRj",
+          "name": "Jason Nolan",
+          "type": "artist"
+        }
+      ],
+      "duration": 340053,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-08-09T12:43:33Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "7iM7I3dbNQGC5xkxJMWwrv",
+      "name": "Morning Breeze",
+      "artists": [
+        {
+          "id": "3mDo5Nv0SWpslJe9HzA2xY",
+          "name": "Juke Ross",
+          "type": "artist"
+        }
+      ],
+      "duration": 194066,
+      "track_number": 2,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-08-10T00:53:06Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "5yfLv1CtlTjBLI7qfJ0D5t",
+      "name": "Send the Pain On",
+      "artists": [
+        {
+          "id": "2pTCZ9C1fXdaVlv6d5EIXM",
+          "name": "Chrome Sparks",
+          "type": "artist"
+        }
+      ],
+      "duration": 337095,
+      "track_number": 4,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-08-15T02:57:24Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "44T13PWJ87jb3lFElhVIHx",
+      "name": "Growing Up (feat. Ed Sheeran)",
+      "artists": [
+        {
+          "id": "5BcAKTbp20cv7tC5VqPFoC",
+          "name": "Macklemore & Ryan Lewis",
+          "type": "artist"
+        },
+        {
+          "id": "3JhNCzhSMTxs9WLGJJxWOY",
+          "name": "Macklemore",
+          "type": "artist"
+        },
+        {
+          "id": "4myTppRgh0rojLxx8RycOp",
+          "name": "Ryan Lewis",
+          "type": "artist"
+        },
+        {
+          "id": "6eUKZXaKkcviH0Ku9w2n3V",
+          "name": "Ed Sheeran",
+          "type": "artist"
+        }
+      ],
+      "duration": 305240,
+      "track_number": 5,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-08-18T16:51:21Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "7gEsvmNXEFu0I1gR3x8YGl",
+      "name": "Bull Ride",
+      "artists": [
+        {
+          "id": "1ikg4sypcURm8Vy5GP68xb",
+          "name": "Magic City Hippies",
+          "type": "artist"
+        }
+      ],
+      "duration": 171543,
+      "track_number": 3,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-08-18T16:51:55Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "2SsjLcG19wi7pgN75Z8Dj6",
+      "name": "I Turned My Back on the Written Word",
+      "artists": [
+        {
+          "id": "57MtJQ6Sc4tIxrXIhrqVJL",
+          "name": "Generationals",
+          "type": "artist"
+        }
+      ],
+      "duration": 169666,
+      "track_number": 2,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-08-18T16:57:57Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "16D7xsQ4W81KLuPJieTBCq",
+      "name": "belong",
+      "artists": [
+        {
+          "id": "3S4d3YRNGg2OhnNm3QvfhA",
+          "name": "slenderbodies",
+          "type": "artist"
+        }
+      ],
+      "duration": 173520,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-08-26T12:55:55Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "6viES53xsjUK9IbgANQ2EN",
+      "name": "Breaking Wave",
+      "artists": [
+        {
+          "id": "6qiuwoB9ro3SX0ZjSXnr0y",
+          "name": "Astron",
+          "type": "artist"
+        }
+      ],
+      "duration": 180826,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-08-29T00:31:26Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "6q5MMTejht7odDwFMXca6f",
+      "name": "Time",
+      "artists": [
+        {
+          "id": "4GnAcaU0S0t1vPjydRz2AD",
+          "name": "Reclining Nude",
+          "type": "artist"
+        }
+      ],
+      "duration": 194083,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-08-29T00:34:23Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "68JW0PqQ1hyw3bEhouRzy8",
+      "name": "Backward in Love",
+      "artists": [
+        {
+          "id": "1ttJm0dfyxCPbCJCRDzjAv",
+          "name": "shy kids",
+          "type": "artist"
+        }
+      ],
+      "duration": 202173,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-08-29T23:57:13Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "6eGORj03BySJ8Ge17CbdoF",
+      "name": "Failed Exams",
+      "artists": [
+        {
+          "id": "4YUBqnGDhH4JphZIhi9cdB",
+          "name": "Laxcity",
+          "type": "artist"
+        }
+      ],
+      "duration": 190197,
+      "track_number": 6,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-09-05T01:05:58Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "1yY9uOKV3A9pPedzTfvbg1",
+      "name": "Are You Bored Yet? (feat. Clairo)",
+      "artists": [
+        {
+          "id": "0NIPkIjTV8mB795yEIiPYL",
+          "name": "Wallows",
+          "type": "artist"
+        },
+        {
+          "id": "3l0CmX0FuQjFxr8SK7Vqag",
+          "name": "Clairo",
+          "type": "artist"
+        }
+      ],
+      "duration": 178000,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-09-15T05:11:36Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "0gAru4uTKvbE1Bqpv7u2hg",
+      "name": "Stargazing",
+      "artists": [
+        {
+          "id": "41rVuRHYAiH7ltBTHVR9We",
+          "name": "Slushii",
+          "type": "artist"
+        }
+      ],
+      "duration": 142285,
+      "track_number": 9,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-09-17T22:09:35Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "4MQPy613X9pvCAhdu7cFYc",
+      "name": "Hymn of Reflection",
+      "artists": [
+        {
+          "id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "KSHMR",
+          "type": "artist"
+        }
+      ],
+      "duration": 296406,
+      "track_number": 12,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-09-18T21:16:15Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "0yxWY5cPaPUpeAoqSIoWfq",
+      "name": "Tropic Love",
+      "artists": [
+        {
+          "id": "22lnnGKlaDxk8sfzCNRJuA",
+          "name": "Diviners",
+          "type": "artist"
+        },
+        {
+          "id": "6rE6zv0dhFUVh35QwO9UyP",
+          "name": "Contacreast",
+          "type": "artist"
+        }
+      ],
+      "duration": 299440,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-09-19T14:48:43Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "0HFmNBn8c5oHCkg8oEjEEA",
+      "name": "Bullit",
+      "artists": [
+        {
+          "id": "4a9sClW4YpYQE5jUMAWx5W",
+          "name": "Watermät",
+          "type": "artist"
+        }
+      ],
+      "duration": 195000,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-09-24T05:18:35Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "32Nc67fe9AHmC6LZE3lQHf",
+      "name": "break away",
+      "artists": [
+        {
+          "id": "0DX1pMk1b22S536hNGtFDY",
+          "name": "Flaws",
+          "type": "artist"
+        }
+      ],
+      "duration": 208000,
+      "track_number": 2,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-09-24T05:18:41Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "4za14AoFYpV1BgxUKiDrJp",
+      "name": "introverted / undercover",
+      "artists": [
+        {
+          "id": "0DX1pMk1b22S536hNGtFDY",
+          "name": "Flaws",
+          "type": "artist"
+        }
+      ],
+      "duration": 211000,
+      "track_number": 3,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-09-24T05:21:25Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "4tG2sskVKNfLYzhJ9HGU9s",
+      "name": "I Still See Your Face - Flaws Remix",
+      "artists": [
+        {
+          "id": "0jNDKefhfSbLR9sFvcPLHo",
+          "name": "San Holo",
+          "type": "artist"
+        },
+        {
+          "id": "0DX1pMk1b22S536hNGtFDY",
+          "name": "Flaws",
+          "type": "artist"
+        }
+      ],
+      "duration": 184761,
+      "track_number": 3,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-09-24T05:24:36Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "0NqzMM2dWUFg9PogW5W8l2",
+      "name": "The First Wish - Flaws Remix",
+      "artists": [
+        {
+          "id": "0u18Cq5stIQLUoIaULzDmA",
+          "name": "DROELOE",
+          "type": "artist"
+        },
+        {
+          "id": "0DX1pMk1b22S536hNGtFDY",
+          "name": "Flaws",
+          "type": "artist"
+        }
+      ],
+      "duration": 235333,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-09-25T17:29:50Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "5iU6aWGsSsc0Ln0Bf7GDyz",
+      "name": "Anata",
+      "artists": [
+        {
+          "id": "3wKV11EdqfY7lFaUeDUEC1",
+          "name": "Lilac",
+          "type": "artist"
+        }
+      ],
+      "duration": 139095,
+      "track_number": 2,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-09-27T04:59:10Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "0O8opD0spCg2nheujR7DyP",
+      "name": "Lovers Carvings - WXAXRXP Session",
+      "artists": [
+        {
+          "id": "0qzzGu8qpbXYpzgV52wOFT",
+          "name": "Bibio",
+          "type": "artist"
+        }
+      ],
+      "duration": 270466,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-09-27T05:04:18Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "3YT3RgSGhvgormc5f7h2xi",
+      "name": "Fado",
+      "artists": [
+        {
+          "id": "1hzfo8twXdOegF3xireCYs",
+          "name": "Milky Chance",
+          "type": "artist"
+        }
+      ],
+      "duration": 250400,
+      "track_number": 2,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-09-27T16:34:32Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "0dCIteXkIiaM5dRVYKI5Fx",
+      "name": "Do I? (Outro)",
+      "artists": [
+        {
+          "id": "4kM4bQm7trHDEx6JsgmJnK",
+          "name": "Dsprtn",
+          "type": "artist"
+        }
+      ],
+      "duration": 181714,
+      "track_number": 2,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-09-27T16:54:26Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "7hoPVy7BLaKzvSA6fjX4UY",
+      "name": "Fung Sway",
+      "artists": [
+        {
+          "id": "1QEpAcW2mLymcYeOLv4Ob2",
+          "name": "Namai",
+          "type": "artist"
+        }
+      ],
+      "duration": 129230,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-10-12T01:31:06Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "3NfRKsjVfCBtL3oTzmA8cj",
+      "name": "TBH",
+      "artists": [
+        {
+          "id": "10dzW1PpkEFPkeQSqvgXvw",
+          "name": "Bonjr",
+          "type": "artist"
+        }
+      ],
+      "duration": 170958,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-10-13T01:24:28Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "0doC6nLZNAhw8WWPGIK6Mj",
+      "name": "Yoke",
+      "artists": [
+        {
+          "id": "5z8zXVGPYVMZX1zb00ZSy2",
+          "name": "Dara Mac",
+          "type": "artist"
+        }
+      ],
+      "duration": 126134,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-10-15T01:15:01Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "4okFdEte6SmTcGYuemlqAS",
+      "name": "First Snow",
+      "artists": [
+        {
+          "id": "2Ckfavq6yKfTznirabm1L8",
+          "name": "Kerusu",
+          "type": "artist"
+        }
+      ],
+      "duration": 191470,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-10-16T03:09:53Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "5Yd2ms5hWcOSHFAJkWA5EO",
+      "name": "Can't stand the feeling",
+      "artists": [
+        {
+          "id": "59MDSNIYoOY0WRYuodzJPD",
+          "name": "Duskus",
+          "type": "artist"
+        }
+      ],
+      "duration": 207810,
+      "track_number": 4,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-10-22T01:47:51Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "0sPjWj4wIv1CXZCM4CgtnJ",
+      "name": "Anthem",
+      "artists": [
+        {
+          "id": "1cS5EoXVqz7aON00AkVBBA",
+          "name": "DAVID AUGUST",
+          "type": "artist"
+        }
+      ],
+      "duration": 282486,
+      "track_number": 4,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2020-01-03T20:53:34Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "6KmVUBHoirELHztsTsHKCl",
+      "name": "Drifting",
+      "artists": [
+        {
+          "id": "3Topzt1UZCz8GQlP7Zsu0M",
+          "name": "On An On",
+          "type": "artist"
+        }
+      ],
+      "duration": 276920,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2020-01-25T13:20:32Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "4wCmqSrbyCgxEXROQE6vtV",
+      "name": "Somebody That I Used To Know",
+      "artists": [
+        {
+          "id": "2AsusXITU8P25dlRNhcAbG",
+          "name": "Gotye",
+          "type": "artist"
+        },
+        {
+          "id": "6hk7Yq1DU9QcCCrz9uc0Ti",
+          "name": "Kimbra",
+          "type": "artist"
+        }
+      ],
+      "duration": 244973,
+      "track_number": 3,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2020-01-25T16:07:53Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "5cht9og7HBZS2K6Z5pIVyt",
+      "name": "Down",
+      "artists": [
+        {
+          "id": "45sqz0r32KGuaur2QMd9iS",
+          "name": "Autolaser",
+          "type": "artist"
+        },
+        {
+          "id": "6wDvnPMf9deShwqWWFz6kL",
+          "name": "Sturla Larsen",
+          "type": "artist"
+        }
+      ],
+      "duration": 210638,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2020-01-27T14:19:32Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "14WY9PjqIwABQF6BE386cz",
+      "name": "Hearts A Mess",
+      "artists": [
+        {
+          "id": "2AsusXITU8P25dlRNhcAbG",
+          "name": "Gotye",
+          "type": "artist"
+        }
+      ],
+      "duration": 365440,
+      "track_number": 3,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2020-01-30T18:01:54Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "3Izj0JRa1iVoMToDqDCYsr",
+      "name": "Lost",
+      "artists": [
+        {
+          "id": "0pAiepnQCVbUqlheOGSh1f",
+          "name": "BØJET",
+          "type": "artist"
+        }
+      ],
+      "duration": 156917,
+      "track_number": 7,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2020-02-01T00:18:42Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "3JgUAs4n4BVtqQg6S8PLK2",
+      "name": "Do You Ever? - RAC Mix",
+      "artists": [
+        {
+          "id": "3MDqk7o9WcL4FSvlyyGjRv",
+          "name": "Phil Good",
+          "type": "artist"
+        },
+        {
+          "id": "4AGwPDdh1y8hochNzHy5HC",
+          "name": "RAC",
+          "type": "artist"
+        }
+      ],
+      "duration": 153110,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2020-02-09T22:48:02Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "1OdYu7mDO94ydUvfZPaPvP",
+      "name": "I Can't Help (with Sarcastic Sounds)",
+      "artists": [
+        {
+          "id": "4wO0kHiOwf8l9VMJJN9HmG",
+          "name": "Shoffy",
+          "type": "artist"
+        },
+        {
+          "id": "1bq8rqNnfrojn0OSAfeNXJ",
+          "name": "Sarcastic Sounds",
+          "type": "artist"
+        }
+      ],
+      "duration": 121250,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2020-02-14T00:50:44Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "01oZjrRICAL5l0sSFqpb5D",
+      "name": "Passing Trains",
+      "artists": [
+        {
+          "id": "3KOHpygRuo1ruQAbEneR3t",
+          "name": "George FitzGerald",
+          "type": "artist"
+        }
+      ],
+      "duration": 193104,
+      "track_number": 10,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2020-02-20T21:40:20Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "4IbcdVjkNp0EmHvObb0FIK",
+      "name": "Snow In Gothenburg",
+      "artists": [
+        {
+          "id": "1ikID9RZZMvkuBGDWrqajq",
+          "name": "Kasbo",
+          "type": "artist"
+        }
+      ],
+      "duration": 223218,
+      "track_number": 5,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2020-04-18T05:09:38Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "72T5smavl9ONfOwI0gHf1A",
+      "name": "You're Dead",
+      "artists": [
+        {
+          "id": "4nlQA3jNE8cukTo6CdyCWP",
+          "name": "Norma Tanega",
+          "type": "artist"
+        }
+      ],
+      "duration": 143066,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2020-04-22T05:55:24Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "1Y8wCLTcPc3rtX9WlIK7rn",
+      "name": "Melody X",
+      "artists": [
+        {
+          "id": "62vbsDRAq0qHdezaCOzB0T",
+          "name": "Medasin",
+          "type": "artist"
+        }
+      ],
+      "duration": 154038,
+      "track_number": 12,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2020-04-26T23:17:42Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "2xRTlnCsKHtnCahchPso2L",
+      "name": "Dope Vhs Master",
+      "artists": [
+        {
+          "id": "4fpbUiU0gUoOO2S3JGRbXA",
+          "name": "Desmond Cheese",
+          "type": "artist"
+        }
+      ],
+      "duration": 314400,
+      "track_number": 4,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2020-05-05T21:00:07Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "0FB9CE48Y8yw0mxdzmwpeb",
+      "name": "Closer",
+      "artists": [
+        {
+          "id": "30tUlKZ8oLo0BnN6n0GZKD",
+          "name": "Nuages",
+          "type": "artist"
+        }
+      ],
+      "duration": 307415,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2020-05-15T06:42:43Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "4ofwffwvvnbSkrMSCKQDaC",
+      "name": "Shotgun",
+      "artists": [
+        {
+          "id": "2ysnwxxNtSgbb9t1m2Ur4j",
+          "name": "George Ezra",
+          "type": "artist"
+        }
+      ],
+      "duration": 201287,
+      "track_number": 4,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2021-01-20T07:01:49Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "0JgZO1d9PMhgrA1F3GCbsQ",
+      "name": "No Matter What You're Told",
+      "artists": [
+        {
+          "id": "6dgwEwnK0YtDfS9XhRwBTG",
+          "name": "Broken Bells",
+          "type": "artist"
+        }
+      ],
+      "duration": 230720,
+      "track_number": 9,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2021-01-20T19:56:52Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "58gDdlyKqLodYDcFtgZb3P",
+      "name": "Edge Of The Dark",
+      "artists": [
+        {
+          "id": "3VVLqeEqQQqTgT8YhfY9Z6",
+          "name": "Emmit Fenn",
+          "type": "artist"
+        }
+      ],
+      "duration": 260338,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2021-02-16T07:46:30Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "1EhCOrcNZfJiUGXDakaUes",
+      "name": "Awake",
+      "artists": [
+        {
+          "id": "34P1IGH1mIqdaVkfRuTebV",
+          "name": "IHF",
+          "type": "artist"
+        }
+      ],
+      "duration": 206319,
+      "track_number": 5,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2021-03-05T01:15:56Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "6fxq63aKjMmi1WMI9iKX5w",
+      "name": "Spiritual but Not Religious",
+      "artists": [
+        {
+          "id": "1WjBIvYAnZTkTh5UiZNwlR",
+          "name": "Oliver Koletzki",
+          "type": "artist"
+        }
+      ],
+      "duration": 246706,
+      "track_number": 5,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2021-03-19T06:39:32Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "4zlT73vpaaTJfqfRjjX1RQ",
+      "name": "Uncertain Truth",
+      "artists": [
+        {
+          "id": "3qRe4C6xUFaW1GXJsRC4oi",
+          "name": "Misc.Inc",
+          "type": "artist"
+        }
+      ],
+      "duration": 148363,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2021-03-19T06:51:52Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "12cAsSiK2RqnRQkvLZIy9x",
+      "name": "Kids",
+      "artists": [
+        {
+          "id": "356FCJoyYWyzONni54Dgrv",
+          "name": "Jerry Folk",
+          "type": "artist"
+        }
+      ],
+      "duration": 146880,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2021-03-22T19:48:29Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "2kZJLJND49i4DeO8StoOgE",
+      "name": "Wake Your Soul",
+      "artists": [
+        {
+          "id": "0UbxXhxwCMZ5YyltSkkuh1",
+          "name": "The Hope Arsenal",
+          "type": "artist"
+        }
+      ],
+      "duration": 358000,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2021-03-26T20:12:45Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "5UVBumEwdUnzvqxrXOYLFA",
+      "name": "17",
+      "artists": [
+        {
+          "id": "1Z2KInfSmPOzAIYyiaXeti",
+          "name": "Youth Lagoon",
+          "type": "artist"
+        }
+      ],
+      "duration": 236000,
+      "track_number": 4,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2021-03-26T21:24:01Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "3y8fG2oGK5sx7liKZ9oyx7",
+      "name": "Show Me",
+      "artists": [
+        {
+          "id": "0PxzGnCYBpSuaI49OR94cA",
+          "name": "Big Wild",
+          "type": "artist"
+        },
+        {
+          "id": "108ugtkRFQzP9nGgNiyERO",
+          "name": "Hundred Waters",
+          "type": "artist"
+        }
+      ],
+      "duration": 227555,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2021-04-07T06:25:22Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "58FbltxPQWgokYBPsXz6Qs",
+      "name": "Higher Place - Radio Edit",
+      "artists": [
+        {
+          "id": "73jBynjsVtofjRpdpRAJGk",
+          "name": "Dimitri Vegas & Like Mike",
+          "type": "artist"
+        },
+        {
+          "id": "2HkAI0YrEcgoR8QdaURqhO",
+          "name": "Dimitri Vegas",
+          "type": "artist"
+        },
+        {
+          "id": "4pwXiI7Z5ZStkgKowZyoKi",
+          "name": "Like Mike",
+          "type": "artist"
+        },
+        {
+          "id": "21E3waRsmPlU7jZsS13rcj",
+          "name": "Ne-Yo",
+          "type": "artist"
+        }
+      ],
+      "duration": 174010,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2021-05-03T19:56:18Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "6ET2rtiFxS60lnpfOTXO6p",
+      "name": "All We Are",
+      "artists": [
+        {
+          "id": "0DX1pMk1b22S536hNGtFDY",
+          "name": "Flaws",
+          "type": "artist"
+        }
+      ],
+      "duration": 204923,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2021-05-16T06:35:26Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "4TmZ7SSq5YnKe2Qu9ge5fL",
+      "name": "Full Full Colour",
+      "artists": [
+        {
+          "id": "7D5oTJSXSHf51auG0106CQ",
+          "name": "Benjamin Francis Leftwich",
+          "type": "artist"
+        }
+      ],
+      "duration": 156066,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2021-07-29T19:35:30Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "7J0ZO7IO5rcPG5cbTWoRuF",
+      "name": "Dharawi Nights",
+      "artists": [
+        {
+          "id": "3CgMjC9kBPZPgUZEmcjsnU",
+          "name": "Secretpath",
+          "type": "artist"
+        }
+      ],
+      "duration": 237209,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2021-08-24T06:04:12Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "0DkXEsmHuwN7OzPbssvtUU",
+      "name": "Night Thoughts",
+      "artists": [
+        {
+          "id": "2tUUqZeqBYInHt3aDp3a1B",
+          "name": "Else",
+          "type": "artist"
+        }
+      ],
+      "duration": 227760,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2022-01-11T16:03:08Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "58e7V70Em6FABOiln4jNoZ",
+      "name": "Mauvais présage",
+      "artists": [
+        {
+          "id": "7hstPLRSo0ipNnICMpTN5g",
+          "name": "Requin Chagrin",
+          "type": "artist"
+        }
+      ],
+      "duration": 340880,
+      "track_number": 3,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2022-01-11T16:10:53Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "38loOBAgDgCW4pFWyH9cey",
+      "name": "Six Speed",
+      "artists": [
+        {
+          "id": "6wW4D3fGgRABc3cAotb0RS",
+          "name": "Current Blue",
+          "type": "artist"
+        }
+      ],
+      "duration": 120000,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2022-01-24T02:34:56Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "3bBmpVl9rQKJsFFGLFilIS",
+      "name": "Charcoal Baby",
+      "artists": [
+        {
+          "id": "6LEeAFiJF8OuPx747e1wxR",
+          "name": "Blood Orange",
+          "type": "artist"
+        }
+      ],
+      "duration": 242341,
+      "track_number": 7,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2022-01-24T02:35:19Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "4R8rN5XAQSAhzunX84Gr1k",
+      "name": "Truth",
+      "artists": [
+        {
+          "id": "1me05HW5s7TShHra5nN7uE",
+          "name": "Alex Ebert",
+          "type": "artist"
+        }
+      ],
+      "duration": 260923,
+      "track_number": 3,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2022-01-24T02:35:36Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "7MiZjKawmXTsTNePyTfPyL",
+      "name": "Devil Eyes",
+      "artists": [
+        {
+          "id": "4dM6NDYSfLcspt8GLoT5aE",
+          "name": "Hippie Sabotage",
+          "type": "artist"
+        }
+      ],
+      "duration": 131271,
+      "track_number": 6,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2022-01-24T02:35:43Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "6jU521TZIk8VQWMMgt9zZh",
+      "name": "Gone",
+      "artists": [
+        {
+          "id": "3QYTmCDKIFaBgDCfwlZjdU",
+          "name": "Zachary Kibbee",
+          "type": "artist"
+        }
+      ],
+      "duration": 247473,
+      "track_number": 10,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2022-01-24T02:35:55Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "5k44yc5bXO1XRedzjaugdQ",
+      "name": "Cherry",
+      "artists": [
+        {
+          "id": "59oA5WbbQvomJz2BuRG071",
+          "name": "Jungle",
+          "type": "artist"
+        }
+      ],
+      "duration": 196138,
+      "track_number": 4,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2022-01-24T02:36:00Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "6ZT3coOj97F6CVvruPtnox",
+      "name": "Your Soul",
+      "artists": [
+        {
+          "id": "4dM6NDYSfLcspt8GLoT5aE",
+          "name": "Hippie Sabotage",
+          "type": "artist"
+        }
+      ],
+      "duration": 324806,
+      "track_number": 2,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2022-01-24T02:36:04Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "1HFfMOxCAT4GAwaPfCdmUs",
+      "name": "Waves - Robin Schulz Radio Edit",
+      "artists": [
+        {
+          "id": "33W1pnW9zScZtYTnAoWnOT",
+          "name": "Mr. Probz",
+          "type": "artist"
+        },
+        {
+          "id": "3t5xRXzsuZmMDkQzgOX35S",
+          "name": "Robin Schulz",
+          "type": "artist"
+        }
+      ],
+      "duration": 208133,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2022-01-24T02:37:13Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "66JhCZvm9NqeDGsEcuyZSS",
+      "name": "Through This Night",
+      "artists": [
+        {
+          "id": "0Lwn2PjwIw7QaoN7gHyqCA",
+          "name": "Wolf Saga",
+          "type": "artist"
+        }
+      ],
+      "duration": 199752,
+      "track_number": 6,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2022-02-11T00:21:36Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "5r5cp9IpziiIsR6b93vcnQ",
+      "name": "Walking On A Dream",
+      "artists": [
+        {
+          "id": "67hb7towEyKvt5Z8Bx306c",
+          "name": "Empire Of The Sun",
+          "type": "artist"
+        }
+      ],
+      "duration": 198440,
+      "track_number": 2,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2022-02-11T00:21:41Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "3FtYbEfBqAlGO46NUDQSAt",
+      "name": "Electric Feel",
+      "artists": [
+        {
+          "id": "0SwO7SWeDHJijQ3XNS7xEE",
+          "name": "MGMT",
+          "type": "artist"
+        }
+      ],
+      "duration": 229640,
+      "track_number": 4,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2022-02-11T00:21:49Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "4V0x90QcMh4ZxwHzEWOdtK",
+      "name": "Feel It All Around",
+      "artists": [
+        {
+          "id": "5juOkIIy18sFw9L30syt1Z",
+          "name": "Washed Out",
+          "type": "artist"
+        }
+      ],
+      "duration": 192080,
+      "track_number": 4,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2022-02-11T00:21:58Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "63PEsIWyy3QgiPy4u5I9pG",
+      "name": "Marijuana",
+      "artists": [
+        {
+          "id": "2pTCZ9C1fXdaVlv6d5EIXM",
+          "name": "Chrome Sparks",
+          "type": "artist"
+        }
+      ],
+      "duration": 181149,
+      "track_number": 2,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2022-03-21T15:38:00Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "4bTNgZmtTnstbrmwzTybJS",
+      "name": "Passenger",
+      "artists": [
+        {
+          "id": "4sFRpecE04KuYxznUfuozM",
+          "name": "Viial",
+          "type": "artist"
+        }
+      ],
+      "duration": 195076,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2022-07-20T17:52:51Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "4KNsc8yiYsEnsiDNHQsoaL",
+      "name": "Overgrown",
+      "artists": [
+        {
+          "id": "4bjkXh2Qs3rQK8VCemYDIj",
+          "name": "Mountains of the Moon",
+          "type": "artist"
+        }
+      ],
+      "duration": 290707,
+      "track_number": 2,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2022-08-12T11:47:05Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "3mWUqIz228lrdC5ZSkpjUG",
+      "name": "THREAT",
+      "artists": [
+        {
+          "id": "7pbDxGE6nQSZVfiFdq9lOL",
+          "name": "Rex Orange County",
+          "type": "artist"
+        }
+      ],
+      "duration": 170793,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2022-09-12T22:41:16Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "1zlnvuxG4N82DjX7OakKdu",
+      "name": "Masat Magan",
+      "artists": [
+        {
+          "id": "1RpUdBXcT4oCmP6oKQyKNk",
+          "name": "Rajan Chutiya",
+          "type": "artist"
+        }
+      ],
+      "duration": 233267,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2022-11-15T20:00:48Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "21z0Lw7F2AjVFkhzSTNMGl",
+      "name": "things have changed",
+      "artists": [
+        {
+          "id": "254ga0emOv4GhfUUw5J16h",
+          "name": "Delayde",
+          "type": "artist"
+        },
+        {
+          "id": "7flbszy9aVOQeWiV4MomSB",
+          "name": "loftii",
+          "type": "artist"
+        }
+      ],
+      "duration": 147692,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2022-11-28T12:58:03Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "0hheKNZI4p5zcf85xagk5X",
+      "name": "hello wrld",
+      "artists": [
+        {
+          "id": "6D96m0U03CqX1KdjAwZjm6",
+          "name": "Village",
+          "type": "artist"
+        }
+      ],
+      "duration": 164210,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2022-11-28T13:43:54Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "18Xjl0R0TfUwJYIKOu9pCg",
+      "name": "Inkeri",
+      "artists": [
+        {
+          "id": "4dktzc5hWsQPqmovObGZIG",
+          "name": "Tor",
+          "type": "artist"
+        }
+      ],
+      "duration": 202991,
+      "track_number": 4,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2022-12-02T16:18:36Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "0UsNgv6unHisK9NslsZxwz",
+      "name": "Where Is My Mind?",
+      "artists": [
+        {
+          "id": "1kMPdZQVdUhMDKDWOJM5iK",
+          "name": "Tkay Maidza",
+          "type": "artist"
+        }
+      ],
+      "duration": 177260,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2022-12-23T03:07:48Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "32xjgqHt76Q8sipEop3Bci",
+      "name": "drowning",
+      "artists": [
+        {
+          "id": "6dJ1iY51ZgNt93gelvdF3k",
+          "name": "Vague003",
+          "type": "artist"
+        }
+      ],
+      "duration": 117341,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2023-01-10T12:14:54Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "4J9vzL09yfXAOy0S0o1R42",
+      "name": "Filthy Apes and Lions",
+      "artists": [
+        {
+          "id": "0xoQth0DUaauLf3A5sNveW",
+          "name": "Mark Stoermer",
+          "type": "artist"
+        }
+      ],
+      "duration": 252813,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2023-01-27T12:34:27Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "6q4yusLwjDYEcF6jXHdt7J",
+      "name": "Do You Like Me?",
+      "artists": [
+        {
+          "id": "20wkVLutqVOYrc0kxFs7rA",
+          "name": "Daniel Caesar",
+          "type": "artist"
+        }
+      ],
+      "duration": 227663,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2023-02-06T03:11:28Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "5Xd1wH3Edg5klCL694pEVf",
+      "name": "GRACE",
+      "artists": [
+        {
+          "id": "1m0t5VYISq6TcyMo7UqLMz",
+          "name": "Zaia",
+          "type": "artist"
+        }
+      ],
+      "duration": 150743,
+      "track_number": 5,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2023-05-22T14:18:59Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "6csnAmv2rijglI9mlETwTL",
+      "name": "Reckless",
+      "artists": [
+        {
+          "id": "4oXVlZhnXyku2WkQjziDVI",
+          "name": "Memblem",
+          "type": "artist"
+        },
+        {
+          "id": "0D6kOkvNWkdwl7NLHOFF8W",
+          "name": "Louisa Laos",
+          "type": "artist"
+        },
+        {
+          "id": "0nZpS62dBYwuNCpokQx0ZP",
+          "name": "Inquinch",
+          "type": "artist"
+        },
+        {
+          "id": "6IzTVIEzlz1ZcoZ15wAMFD",
+          "name": "Neighbor",
+          "type": "artist"
+        }
+      ],
+      "duration": 93859,
+      "track_number": 3,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2023-06-18T04:08:47Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "3Ed55g8hCz1GmqRTelIPIW",
+      "name": "People Change",
+      "artists": [
+        {
+          "id": "5Bcrb5qQMVTEbJ43fdIS4A",
+          "name": "Mipso",
+          "type": "artist"
+        }
+      ],
+      "duration": 212853,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2023-12-01T04:06:37Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "3TjjqAHVwJyb3H4l3eHahu",
+      "name": "Let it Happen",
+      "artists": [
+        {
+          "id": "6uIst176jhzooPMetg2rtH",
+          "name": "Louis Cole",
+          "type": "artist"
+        }
+      ],
+      "duration": 403000,
+      "track_number": 19,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2024-03-21T17:28:45Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "4oYzwOTWpP3JTyKrTHJtqw",
+      "name": "Awaken",
+      "artists": [
+        {
+          "id": "0PxzGnCYBpSuaI49OR94cA",
+          "name": "Big Wild",
+          "type": "artist"
+        }
+      ],
+      "duration": 182686,
+      "track_number": 12,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2024-03-21T17:36:30Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "5lu9R9rCwIv080hpqJ6rny",
+      "name": "Find You",
+      "artists": [
+        {
+          "id": "28yVvEvA2lT3K5RNIhV1Dj",
+          "name": "BAYNK",
+          "type": "artist"
+        }
+      ],
+      "duration": 180005,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    }
+  ]
+}
