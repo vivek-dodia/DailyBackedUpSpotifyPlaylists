@@ -1,0 +1,474 @@
+{
+  "name": "the better DVLM",
+  "owner_id": "22auvhdoqxfrv4t7stdgfxqha",
+  "tracks": [
+    {
+      "added_at": "2018-10-29T05:34:46Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "7B8EAbidkpzkVrXxfiNWVX",
+      "name": "Madagascar",
+      "artists": [
+        {
+          "id": "73jBynjsVtofjRpdpRAJGk",
+          "name": "Dimitri Vegas & Like Mike",
+          "type": "artist"
+        },
+        {
+          "id": "47BEc2RoW53owMyxacXWdV",
+          "name": "Yves V",
+          "type": "artist"
+        },
+        {
+          "id": "5tuOpj3ofDA06hxQjvjdGZ",
+          "name": "Angger Dimas",
+          "type": "artist"
+        }
+      ],
+      "duration": 339640,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2018-10-29T05:35:16Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "2u7YhquIkjiH81u0f7XDoe",
+      "name": "Momentum",
+      "artists": [
+        {
+          "id": "73jBynjsVtofjRpdpRAJGk",
+          "name": "Dimitri Vegas & Like Mike",
+          "type": "artist"
+        },
+        {
+          "id": "77ehFS1P2bU6Bfcs1qu6Jd",
+          "name": "Regi",
+          "type": "artist"
+        }
+      ],
+      "duration": 400202,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2018-10-29T05:35:23Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "6A0xUgw6MCWATcMnzt855F",
+      "name": "REJ",
+      "artists": [
+        {
+          "id": "73jBynjsVtofjRpdpRAJGk",
+          "name": "Dimitri Vegas & Like Mike",
+          "type": "artist"
+        }
+      ],
+      "duration": 346594,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2018-10-29T05:35:48Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "5puw4iSv0a1YhblYE3w0Mc",
+      "name": "Tomorrowland Anthem 2012",
+      "artists": [
+        {
+          "id": "73jBynjsVtofjRpdpRAJGk",
+          "name": "Dimitri Vegas & Like Mike",
+          "type": "artist"
+        }
+      ],
+      "duration": 276208,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2018-10-29T05:35:53Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "6nsP6Cgov9ZV46fZG3AMcw",
+      "name": "Stampede",
+      "artists": [
+        {
+          "id": "73jBynjsVtofjRpdpRAJGk",
+          "name": "Dimitri Vegas & Like Mike",
+          "type": "artist"
+        },
+        {
+          "id": "4pwXiI7Z5ZStkgKowZyoKi",
+          "name": "Like Mike",
+          "type": "artist"
+        },
+        {
+          "id": "5X4LWwbUFNzPkEas04uU82",
+          "name": "DVBBS",
+          "type": "artist"
+        },
+        {
+          "id": "4uiMn2g0pgTrhN096QJhbp",
+          "name": "Borgeous",
+          "type": "artist"
+        }
+      ],
+      "duration": 257062,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2018-10-29T05:35:59Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "2Mrhe6cvtvgod4LgzCkLUZ",
+      "name": "Waves (Tomorrowland 2014 Anthem)",
+      "artists": [
+        {
+          "id": "2HkAI0YrEcgoR8QdaURqhO",
+          "name": "Dimitri Vegas",
+          "type": "artist"
+        },
+        {
+          "id": "73jBynjsVtofjRpdpRAJGk",
+          "name": "Dimitri Vegas & Like Mike",
+          "type": "artist"
+        },
+        {
+          "id": "2rTo8KIkBTFjQS7VvaKYQ4",
+          "name": "W&W",
+          "type": "artist"
+        }
+      ],
+      "duration": 206250,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2018-10-29T05:36:06Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "4rcHrBkL3oDoOAyMnXgXYV",
+      "name": "Nova - Original Mix",
+      "artists": [
+        {
+          "id": "73jBynjsVtofjRpdpRAJGk",
+          "name": "Dimitri Vegas & Like Mike",
+          "type": "artist"
+        },
+        {
+          "id": "3eH2apcLhzhnr3eWmH3VBf",
+          "name": "Felguk",
+          "type": "artist"
+        },
+        {
+          "id": "2vVNxGBvKRQMWwI5c8KmYh",
+          "name": "Tujamo",
+          "type": "artist"
+        }
+      ],
+      "duration": 252657,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2018-10-29T05:36:13Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "42sUG6TmFitc0kHixoHoav",
+      "name": "G.I.P.S.Y. - Radio Edit",
+      "artists": [
+        {
+          "id": "73jBynjsVtofjRpdpRAJGk",
+          "name": "Dimitri Vegas & Like Mike",
+          "type": "artist"
+        },
+        {
+          "id": "4pwXiI7Z5ZStkgKowZyoKi",
+          "name": "Like Mike",
+          "type": "artist"
+        },
+        {
+          "id": "2PMTEy2vzCh81UZTpjK7fZ",
+          "name": "Boostedkids",
+          "type": "artist"
+        }
+      ],
+      "duration": 221538,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2018-10-29T05:36:19Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "4w9B0Sz0pZIrkjT9qYpre6",
+      "name": "Body Talk (feat. Julian Perretta)",
+      "artists": [
+        {
+          "id": "73jBynjsVtofjRpdpRAJGk",
+          "name": "Dimitri Vegas & Like Mike",
+          "type": "artist"
+        },
+        {
+          "id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "MOGUAI",
+          "type": "artist"
+        },
+        {
+          "id": "2JLl6rSFWx9YuSPLcLhkAG",
+          "name": "Julian Perretta",
+          "type": "artist"
+        }
+      ],
+      "duration": 207103,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2018-10-29T05:36:25Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "1woljpGay1f82NNW2E9mAp",
+      "name": "Ocarina",
+      "artists": [
+        {
+          "id": "73jBynjsVtofjRpdpRAJGk",
+          "name": "Dimitri Vegas & Like Mike",
+          "type": "artist"
+        },
+        {
+          "id": "74ycentHh1YZrW5x4PLnox",
+          "name": "Wolfpack",
+          "type": "artist"
+        }
+      ],
+      "duration": 294880,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2018-10-29T05:36:31Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "6TKUuU5DQzmINvw1GsyZXT",
+      "name": "Madness (feat. Lil Jon) - Radio Edit",
+      "artists": [
+        {
+          "id": "73jBynjsVtofjRpdpRAJGk",
+          "name": "Dimitri Vegas & Like Mike",
+          "type": "artist"
+        },
+        {
+          "id": "1Wt63OMKtv6v2ivHuQLm2C",
+          "name": "Coone",
+          "type": "artist"
+        },
+        {
+          "id": "7sfl4Xt5KmfyDs2T3SVSMK",
+          "name": "Lil Jon",
+          "type": "artist"
+        }
+      ],
+      "duration": 240943,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2018-10-29T05:36:37Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "0hGSr4bb26syMkhIiPGNNe",
+      "name": "Turn It Up",
+      "artists": [
+        {
+          "id": "73jBynjsVtofjRpdpRAJGk",
+          "name": "Dimitri Vegas & Like Mike",
+          "type": "artist"
+        },
+        {
+          "id": "7l3UtcnrlxH7wPrb1HXFI6",
+          "name": "GTA",
+          "type": "artist"
+        },
+        {
+          "id": "74ycentHh1YZrW5x4PLnox",
+          "name": "Wolfpack",
+          "type": "artist"
+        }
+      ],
+      "duration": 283706,
+      "track_number": 12,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2018-10-29T05:36:44Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "08nRq0P2uyLZAH7AJQHrhH",
+      "name": "Arcade - Radio Edit",
+      "artists": [
+        {
+          "id": "73jBynjsVtofjRpdpRAJGk",
+          "name": "Dimitri Vegas & Like Mike",
+          "type": "artist"
+        },
+        {
+          "id": "2rTo8KIkBTFjQS7VvaKYQ4",
+          "name": "W&W",
+          "type": "artist"
+        }
+      ],
+      "duration": 225000,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2018-10-29T05:36:49Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "76fqWMe0buqQoaNTIbLWmr",
+      "name": "Mammoth",
+      "artists": [
+        {
+          "id": "73jBynjsVtofjRpdpRAJGk",
+          "name": "Dimitri Vegas & Like Mike",
+          "type": "artist"
+        },
+        {
+          "id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "MOGUAI",
+          "type": "artist"
+        }
+      ],
+      "duration": 332289,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2018-10-29T05:37:05Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "1jTKIuhvCHygnnY4QnUvyv",
+      "name": "Louder - Radio Edit",
+      "artists": [
+        {
+          "id": "73jBynjsVtofjRpdpRAJGk",
+          "name": "Dimitri Vegas & Like Mike",
+          "type": "artist"
+        },
+        {
+          "id": "4mrBetqy378Jf1y6NLszlx",
+          "name": "VINAI",
+          "type": "artist"
+        }
+      ],
+      "duration": 153784,
+      "track_number": 2,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2018-10-29T05:37:10Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "7zT9HWMkkziq1ZogqdBrnw",
+      "name": "Melody - Radio Mix",
+      "artists": [
+        {
+          "id": "73jBynjsVtofjRpdpRAJGk",
+          "name": "Dimitri Vegas & Like Mike",
+          "type": "artist"
+        },
+        {
+          "id": "77AiFEVeAVj2ORpC85QVJs",
+          "name": "Steve Aoki",
+          "type": "artist"
+        },
+        {
+          "id": "7e1BNCygl2Gf7CX8LrByPv",
+          "name": "Ummet Ozcan",
+          "type": "artist"
+        }
+      ],
+      "duration": 223384,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2018-10-29T05:37:26Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "0rS5GffjthPE8zm0wWvrCN",
+      "name": "Arcade Mammoth",
+      "artists": [
+        {
+          "id": "73jBynjsVtofjRpdpRAJGk",
+          "name": "Dimitri Vegas & Like Mike",
+          "type": "artist"
+        },
+        {
+          "id": "2rTo8KIkBTFjQS7VvaKYQ4",
+          "name": "W&W",
+          "type": "artist"
+        },
+        {
+          "id": "4xgFgBZ7CRtgtHcziClOwQ",
+          "name": "MOGUAI",
+          "type": "artist"
+        }
+      ],
+      "duration": 255937,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2018-10-29T05:37:44Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "7wxeGWvf8HNuUeK4k06mOr",
+      "name": "Opa",
+      "artists": [
+        {
+          "id": "73jBynjsVtofjRpdpRAJGk",
+          "name": "Dimitri Vegas & Like Mike",
+          "type": "artist"
+        },
+        {
+          "id": "2wX6xSig4Rig5kZU6ePlWe",
+          "name": "KSHMR",
+          "type": "artist"
+        }
+      ],
+      "duration": 206250,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-05-02T03:10:33Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "4aSYXSwPpsZUkfqQ640cfS",
+      "name": "Tales Of Tomorrow",
+      "artists": [
+        {
+          "id": "73jBynjsVtofjRpdpRAJGk",
+          "name": "Dimitri Vegas & Like Mike",
+          "type": "artist"
+        },
+        {
+          "id": "7dc6hUwyuIhrZdh80eaCEE",
+          "name": "Fedde Le Grand",
+          "type": "artist"
+        },
+        {
+          "id": "2JLl6rSFWx9YuSPLcLhkAG",
+          "name": "Julian Perretta",
+          "type": "artist"
+        }
+      ],
+      "duration": 190165,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    }
+  ]
+}
