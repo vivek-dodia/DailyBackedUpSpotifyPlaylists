@@ -1,0 +1,23 @@
+{
+  "name": "💓",
+  "owner_id": "22auvhdoqxfrv4t7stdgfxqha",
+  "tracks": [
+    {
+      "added_at": "2023-05-31T06:03:31Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "7DWvqa6flslklTLDBBxOmG",
+      "name": "Dirty Old Town",
+      "artists": [
+        {
+          "id": "2VMxEtyyo7Jg3jmVDQPHwx",
+          "name": "Craig Cardiff",
+          "type": "artist"
+        }
+      ],
+      "duration": 246453,
+      "track_number": 4,
+      "type": "track",
+      "is_local": false
+    }
+  ]
+}
