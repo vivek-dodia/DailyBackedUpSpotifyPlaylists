@@ -1,0 +1,291 @@
+{
+  "name": "YouTube Picks",
+  "owner_id": "22auvhdoqxfrv4t7stdgfxqha",
+  "tracks": [
+    {
+      "added_at": "2019-06-10T12:33:19Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "0bXaJiNexkk3ILa3NC9wT0",
+      "name": "Missed",
+      "artists": [
+        {
+          "id": "0lVNQEG85cu3cc6J3hAE3c",
+          "name": "Mikebøi",
+          "type": "artist"
+        }
+      ],
+      "duration": 212144,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-06-10T12:33:23Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "35uBfGUAmyu9zbiToUBKgF",
+      "name": "surface",
+      "artists": [
+        {
+          "id": "0jNDKefhfSbLR9sFvcPLHo",
+          "name": "San Holo",
+          "type": "artist"
+        },
+        {
+          "id": "4SXj7TVoA3bgfR8AVssACa",
+          "name": "Caspian Wulf",
+          "type": "artist"
+        }
+      ],
+      "duration": 362179,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-06-15T00:00:40Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "7p0tz5SeCrSxTLSvwR8W3D",
+      "name": "Let You Know",
+      "artists": [
+        {
+          "id": "6nxWCVXbOlEVRexSbLsTer",
+          "name": "Flume",
+          "type": "artist"
+        },
+        {
+          "id": "3Bd1cgCjtCI32PYvDC3ynO",
+          "name": "London Grammar",
+          "type": "artist"
+        }
+      ],
+      "duration": 199579,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-06-20T01:21:11Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "23BzDsZd1rgUeXe52dmE8G",
+      "name": "Awake",
+      "artists": [
+        {
+          "id": "34P1IGH1mIqdaVkfRuTebV",
+          "name": "IHF",
+          "type": "artist"
+        }
+      ],
+      "duration": 206319,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-06-25T02:56:08Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "4eCMl0kcqO9uQy6vtduGmg",
+      "name": "Firehazard",
+      "artists": [
+        {
+          "id": "4VfTgWhy9PKLJN3xKJcDqf",
+          "name": "Syence",
+          "type": "artist"
+        },
+        {
+          "id": "6w24INVHBGMRpk6xn6xIpi",
+          "name": "Emily Falvey",
+          "type": "artist"
+        }
+      ],
+      "duration": 189666,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-07-09T17:03:13Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "4g15kgCDhIdHEzbBJvCNd0",
+      "name": "No Quit",
+      "artists": [
+        {
+          "id": "1VfgWum48nwYJcCfdPwWgs",
+          "name": "Michael Nau",
+          "type": "artist"
+        }
+      ],
+      "duration": 193520,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-07-12T02:32:19Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "0pAAbmAc9YqECVM8YmMuuE",
+      "name": "After Party",
+      "artists": [
+        {
+          "id": "6MJKlN8ya42Agsw3iQZs6e",
+          "name": "French 79",
+          "type": "artist"
+        }
+      ],
+      "duration": 327306,
+      "track_number": 9,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-07-27T20:26:16Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "4D6S45VEG2bg2FH66K6UaS",
+      "name": "Steele",
+      "artists": [
+        {
+          "id": "1VBAKMui4zm5MnBWNn3NbL",
+          "name": "Devault",
+          "type": "artist"
+        }
+      ],
+      "duration": 263158,
+      "track_number": 2,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-07-27T20:26:16Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "6ukLaivOPRHbA0xeOlme8W",
+      "name": "Stay (feat. Njomza & Bipolar Sunshine)",
+      "artists": [
+        {
+          "id": "1VBAKMui4zm5MnBWNn3NbL",
+          "name": "Devault",
+          "type": "artist"
+        },
+        {
+          "id": "3zOUpziwcfY2bCh4VyJ4Am",
+          "name": "NJOMZA",
+          "type": "artist"
+        },
+        {
+          "id": "0CjWKoS55T7DOt0HJuwF1H",
+          "name": "Bipolar Sunshine",
+          "type": "artist"
+        }
+      ],
+      "duration": 291450,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-09-22T17:55:16Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "2vy5ijoNb0cgOKRz5BvedY",
+      "name": "Me No Evil",
+      "artists": [
+        {
+          "id": "1gUi2utSbJLNPddYENJAp4",
+          "name": "Abhi The Nomad",
+          "type": "artist"
+        }
+      ],
+      "duration": 165441,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-09-22T17:55:16Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "4bVnZhfKa1MWVxWeezWmy6",
+      "name": "BTFL",
+      "artists": [
+        {
+          "id": "1gUi2utSbJLNPddYENJAp4",
+          "name": "Abhi The Nomad",
+          "type": "artist"
+        },
+        {
+          "id": "6i1Mxe8dCYvZnlY7pVWuYX",
+          "name": "Foster Cazz",
+          "type": "artist"
+        }
+      ],
+      "duration": 183389,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-09-22T19:55:24Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "3ExYesjg63TT202fbLZhNS",
+      "name": "RUN",
+      "artists": [
+        {
+          "id": "1gUi2utSbJLNPddYENJAp4",
+          "name": "Abhi The Nomad",
+          "type": "artist"
+        }
+      ],
+      "duration": 166559,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-09-22T19:55:25Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "7aUzuxDp6OY0zEBksb2Ysg",
+      "name": "Shoe Size 14",
+      "artists": [
+        {
+          "id": "1CnlydNeDfjdSVJdF5KSWW",
+          "name": "Taizu",
+          "type": "artist"
+        }
+      ],
+      "duration": 147110,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-09-22T19:55:26Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "0VPpa3ApW2RNyNRKVBkowW",
+      "name": "Hard Currency",
+      "artists": [
+        {
+          "id": "6bJUzb3mLEYCkTAp7eNJgO",
+          "name": "Information Society",
+          "type": "artist"
+        }
+      ],
+      "duration": 153733,
+      "track_number": 8,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-10-03T16:59:10Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "4yvR3kzeKrOgayued4Wgl6",
+      "name": "Practice",
+      "artists": [
+        {
+          "id": "1CnlydNeDfjdSVJdF5KSWW",
+          "name": "Taizu",
+          "type": "artist"
+        }
+      ],
+      "duration": 158551,
+      "track_number": 3,
+      "type": "track",
+      "is_local": false
+    }
+  ]
+}
