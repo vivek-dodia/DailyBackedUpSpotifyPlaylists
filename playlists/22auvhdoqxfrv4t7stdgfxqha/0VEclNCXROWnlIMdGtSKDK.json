@@ -1,0 +1,4088 @@
+{
+  "name": "caffeine time 💊",
+  "owner_id": "22auvhdoqxfrv4t7stdgfxqha",
+  "tracks": [
+    {
+      "added_at": "2019-06-01T05:14:12Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "0LA52DYNmflyXhzlADekfG",
+      "name": "Here 2 China (feat. Dizzee Rascal)",
+      "artists": [
+        {
+          "id": "7CajNmpbOovFoOoasH2HaY",
+          "name": "Calvin Harris",
+          "type": "artist"
+        },
+        {
+          "id": "5R3Hr2cnCCjt220Jmt2xLf",
+          "name": "Dillon Francis",
+          "type": "artist"
+        },
+        {
+          "id": "0gusqTJKxtU1UTmNRMHZcv",
+          "name": "Dizzee Rascal",
+          "type": "artist"
+        }
+      ],
+      "duration": 152453,
+      "track_number": 12,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-06-01T05:16:00Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "50xYqUTVCvoqRLuyWFuG3r",
+      "name": "Enth E Nd (Kutmasta Kurt Reanimation) [feat. Motion Man]",
+      "artists": [
+        {
+          "id": "6XyY86QOPPrYVGvF9ch6wz",
+          "name": "Linkin Park",
+          "type": "artist"
+        },
+        {
+          "id": "6AysajaVPM9PDGZ3IPkWAR",
+          "name": "Motion Man",
+          "type": "artist"
+        }
+      ],
+      "duration": 243613,
+      "track_number": 3,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-06-01T05:16:26Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "63B3TtwUzOoJoe3unMteVa",
+      "name": "H! Vltg3 (Evidence Reanimation) [feat. Pharoahe Monch and DJ Babu]",
+      "artists": [
+        {
+          "id": "6XyY86QOPPrYVGvF9ch6wz",
+          "name": "Linkin Park",
+          "type": "artist"
+        },
+        {
+          "id": "7LSCBbEAuCqQqE0MGszyKl",
+          "name": "DJ Babu",
+          "type": "artist"
+        },
+        {
+          "id": "5DKuVtlpDH0agZQUFDy8O7",
+          "name": "Pharoahe Monch",
+          "type": "artist"
+        },
+        {
+          "id": "6VfeYClQyVUCPJdXb9jl3O",
+          "name": "Evidence",
+          "type": "artist"
+        }
+      ],
+      "duration": 210733,
+      "track_number": 9,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-06-01T05:20:33Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "65ES1qwOB577ZnTkizMXJJ",
+      "name": "HUMBLE. - SKRILLEX REMIX",
+      "artists": [
+        {
+          "id": "5he5w2lnU9x7JFhnwcekXX",
+          "name": "Skrillex",
+          "type": "artist"
+        },
+        {
+          "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+          "name": "Kendrick Lamar",
+          "type": "artist"
+        }
+      ],
+      "duration": 156800,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-06-01T05:25:20Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "6ZpR2XFuQJSHAQwg9495KZ",
+      "name": "Mind (feat. Kai)",
+      "artists": [
+        {
+          "id": "1HxJeLhIuegM3KgvPn8sTa",
+          "name": "Jack Ü",
+          "type": "artist"
+        },
+        {
+          "id": "5he5w2lnU9x7JFhnwcekXX",
+          "name": "Skrillex",
+          "type": "artist"
+        },
+        {
+          "id": "5fMUXHkw8R8eOP2RNVYEZX",
+          "name": "Diplo",
+          "type": "artist"
+        },
+        {
+          "id": "6xHUXzrfhFgnIv86EBR3Ml",
+          "name": "kai",
+          "type": "artist"
+        }
+      ],
+      "duration": 242068,
+      "track_number": 7,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-06-01T05:25:59Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "22Mme5vsZ688TMUieIHdx3",
+      "name": "Wild for the Night (feat. Skrillex & Birdy Nam Nam)",
+      "artists": [
+        {
+          "id": "13ubrt8QOOCPljQ2FL1Kca",
+          "name": "A$AP Rocky",
+          "type": "artist"
+        },
+        {
+          "id": "5he5w2lnU9x7JFhnwcekXX",
+          "name": "Skrillex",
+          "type": "artist"
+        },
+        {
+          "id": "4e7qJTThm5uI3CplqZObfT",
+          "name": "Birdy Nam Nam",
+          "type": "artist"
+        },
+        {
+          "id": "5XJdV8h0NLbf3CZdfwX3lg",
+          "name": "Lord Flacko",
+          "type": "artist"
+        }
+      ],
+      "duration": 212640,
+      "track_number": 8,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-06-01T05:26:32Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "4vgMynECSgbeMqs326rwAV",
+      "name": "The Game & Skrillex: El Chapo",
+      "artists": [
+        {
+          "id": "0NbfKEOTQCcwd6o7wSDOHI",
+          "name": "The Game",
+          "type": "artist"
+        },
+        {
+          "id": "5he5w2lnU9x7JFhnwcekXX",
+          "name": "Skrillex",
+          "type": "artist"
+        }
+      ],
+      "duration": 220078,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-06-22T20:25:10Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "3NJG6vMH1ZsectZkocMEm0",
+      "name": "Tiimmy Turner",
+      "artists": [
+        {
+          "id": "7pFeBzX627ff0VnN6bxPR4",
+          "name": "Desiigner",
+          "type": "artist"
+        }
+      ],
+      "duration": 239853,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-07-05T14:15:14Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "5WZ4qFbz1x2vELPg8S7vza",
+      "name": "FLOOR 13",
+      "artists": [
+        {
+          "id": "6TIYQ3jFPwQSRmorSezPxX",
+          "name": "mgk",
+          "type": "artist"
+        }
+      ],
+      "duration": 194873,
+      "track_number": 7,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-07-05T15:28:36Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "2NRKqJK2nFpr0VHn74EwhV",
+      "name": "Imperium",
+      "artists": [
+        {
+          "id": "4pb4rqWSoGUgxm63xmJ8xc",
+          "name": "Madeon",
+          "type": "artist"
+        }
+      ],
+      "duration": 198853,
+      "track_number": 7,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-07-05T15:28:36Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "4jryPeoj0IzKENkhcX0Lpm",
+      "name": "Only Way Out (feat. Vancouver Sleep Clinic)",
+      "artists": [
+        {
+          "id": "4pb4rqWSoGUgxm63xmJ8xc",
+          "name": "Madeon",
+          "type": "artist"
+        },
+        {
+          "id": "77BznF1Dr1k5KyEZ6Nn3jB",
+          "name": "Vancouver Sleep Clinic",
+          "type": "artist"
+        }
+      ],
+      "duration": 226746,
+      "track_number": 18,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-07-06T16:37:19Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "1rFAG22RkvaM6BlpWQoZ47",
+      "name": "Blood / / Water",
+      "artists": [
+        {
+          "id": "4ZgQDCtRqZlhLswVS6MHN4",
+          "name": "grandson",
+          "type": "artist"
+        }
+      ],
+      "duration": 216720,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-07-07T17:12:49Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "0QMn96wVUNaUr9Is7zUVWt",
+      "name": "Knock Me Down (feat. Elayna Boynton)",
+      "artists": [
+        {
+          "id": "3PtCud9dIdOv4exrzdZZ1C",
+          "name": "MAKJ",
+          "type": "artist"
+        },
+        {
+          "id": "3NKKngINK1tP6BFy0WOyWk",
+          "name": "Max Styler",
+          "type": "artist"
+        },
+        {
+          "id": "5wr3WZArcItaxXddR07nJv",
+          "name": "Elayna Boynton",
+          "type": "artist"
+        }
+      ],
+      "duration": 171200,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-07-08T00:23:16Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "2KxIMZDazuXN3yvPC6Kqwn",
+      "name": "Blockbuster Night Part 1",
+      "artists": [
+        {
+          "id": "4RnBFZRiMLRyZy0AzzTg2C",
+          "name": "Run The Jewels",
+          "type": "artist"
+        }
+      ],
+      "duration": 152253,
+      "track_number": 3,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-07-09T00:59:15Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "49v7kRlVxnwrrJzCRxeRXl",
+      "name": "Undo - AWAY Remix",
+      "artists": [
+        {
+          "id": "5eIbEEQnDM8yuDVB0bimSP",
+          "name": "RL Grime",
+          "type": "artist"
+        },
+        {
+          "id": "3KV3p5EY4AvKxOlhGHORLg",
+          "name": "Jeremih",
+          "type": "artist"
+        },
+        {
+          "id": "2jku7tDXc6XoB6MO2hFuqg",
+          "name": "Tory Lanez",
+          "type": "artist"
+        },
+        {
+          "id": "2ZmerElhvxg8uVKCmlZ4ij",
+          "name": "AWAY",
+          "type": "artist"
+        }
+      ],
+      "duration": 212571,
+      "track_number": 4,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-07-09T01:04:14Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "2Exh8W2Mwd9Jwd9k4dqHs1",
+      "name": "Wait A Minute",
+      "artists": [
+        {
+          "id": "7yPPzu5UdAK7yagQqjEZQm",
+          "name": "Party Favor",
+          "type": "artist"
+        },
+        {
+          "id": "5dHt1vcEm9qb8fCyLcB3HL",
+          "name": "A$AP Ferg",
+          "type": "artist"
+        },
+        {
+          "id": "5gCRApTajqwbnHHPbr2Fpi",
+          "name": "Juicy J",
+          "type": "artist"
+        }
+      ],
+      "duration": 202179,
+      "track_number": 3,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-07-09T01:17:42Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "7wDPaY84vDhPtnK0NK5IrV",
+      "name": "RBRBRB",
+      "artists": [
+        {
+          "id": "7yPPzu5UdAK7yagQqjEZQm",
+          "name": "Party Favor",
+          "type": "artist"
+        },
+        {
+          "id": "0AlNB0yIoyxdKloLmK9AOR",
+          "name": "Hex Cougar",
+          "type": "artist"
+        }
+      ],
+      "duration": 209999,
+      "track_number": 10,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-07-09T01:19:54Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "7L68liHMwjD8QuNydCfYJ7",
+      "name": "Back",
+      "artists": [
+        {
+          "id": "7yPPzu5UdAK7yagQqjEZQm",
+          "name": "Party Favor",
+          "type": "artist"
+        },
+        {
+          "id": "0nvvVQhPQGkYTJlThLbJeu",
+          "name": "OG Maco",
+          "type": "artist"
+        },
+        {
+          "id": "08Ld63UgKrJ0nZnCkzHtzc",
+          "name": "Project Pat",
+          "type": "artist"
+        }
+      ],
+      "duration": 154880,
+      "track_number": 5,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-07-10T23:05:21Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "7DcvwMAiqKJQD1rrdfxSDx",
+      "name": "The London (feat. J. Cole & Travis Scott)",
+      "artists": [
+        {
+          "id": "50co4Is1HCEo8bhOyUWKpn",
+          "name": "Young Thug",
+          "type": "artist"
+        },
+        {
+          "id": "6l3HvQ5sa6mXTsMTB19rO5",
+          "name": "J. Cole",
+          "type": "artist"
+        },
+        {
+          "id": "0Y5tJX1MQlPlqiwlOH1tJY",
+          "name": "Travis Scott",
+          "type": "artist"
+        }
+      ],
+      "duration": 200106,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-07-10T23:12:42Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "1Kym30HhxluYlqAxyu1QqQ",
+      "name": "Trophies",
+      "artists": [
+        {
+          "id": "5OrB6Jhhrl9y2PK0pSV4VP",
+          "name": "Young Money",
+          "type": "artist"
+        },
+        {
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "type": "artist"
+        }
+      ],
+      "duration": 188333,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-07-12T20:59:19Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "5v26uKaXYsWRwWF21WVB3S",
+      "name": "Give It Up",
+      "artists": [
+        {
+          "id": "2DuJi13MWHjRHrqRUwk8vH",
+          "name": "Knife Party",
+          "type": "artist"
+        }
+      ],
+      "duration": 251173,
+      "track_number": 7,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-07-15T22:56:41Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "3BUWNzPWz2mDbptZmGEXpB",
+      "name": "Let It All Work Out",
+      "artists": [
+        {
+          "id": "55Aa2cqylxrFIXC767Z865",
+          "name": "Lil Wayne",
+          "type": "artist"
+        }
+      ],
+      "duration": 316192,
+      "track_number": 23,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-07-23T01:07:25Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "00QyLmjxaSEE8qIZQjBXBj",
+      "name": "We Own It (Fast & Furious)",
+      "artists": [
+        {
+          "id": "17lzZA2AlOHwCwFALHttmp",
+          "name": "2 Chainz",
+          "type": "artist"
+        },
+        {
+          "id": "137W8MRPWKqSmrBGDBFSop",
+          "name": "Wiz Khalifa",
+          "type": "artist"
+        }
+      ],
+      "duration": 227893,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-07-23T01:08:49Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "79DGkPqgRzAyeTC2iRVH9i",
+      "name": "How We Roll - Fast Five Remix",
+      "artists": [
+        {
+          "id": "33ScadVnbm2X8kkUqOkC6Z",
+          "name": "Don Omar",
+          "type": "artist"
+        },
+        {
+          "id": "1YfEcTuGvBQ8xSD1f53UnK",
+          "name": "Busta Rhymes",
+          "type": "artist"
+        },
+        {
+          "id": "41gxhG2jLBD3CEn3QI0EwL",
+          "name": "Reek da Villian",
+          "type": "artist"
+        },
+        {
+          "id": "2lYhyl1fMy67sFdeN1X274",
+          "name": "J-Doe",
+          "type": "artist"
+        }
+      ],
+      "duration": 249253,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-07-23T21:02:16Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "6doLqlEfsI2zjsYQCNn5z8",
+      "name": "Virtual Diva",
+      "artists": [
+        {
+          "id": "33ScadVnbm2X8kkUqOkC6Z",
+          "name": "Don Omar",
+          "type": "artist"
+        }
+      ],
+      "duration": 239493,
+      "track_number": 2,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-07-23T21:22:41Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "2jRmKc69qzGKzGU9SdH5u7",
+      "name": "el Diablo",
+      "artists": [
+        {
+          "id": "6TIYQ3jFPwQSRmorSezPxX",
+          "name": "mgk",
+          "type": "artist"
+        }
+      ],
+      "duration": 146264,
+      "track_number": 2,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-07-24T20:34:38Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "46eu3SBuFCXWsPT39Yg3tJ",
+      "name": "Don't Stop 'Til You Get Enough",
+      "artists": [
+        {
+          "id": "3fMbdgg4jU18AjLCKBhRSm",
+          "name": "Michael Jackson",
+          "type": "artist"
+        }
+      ],
+      "duration": 365466,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-08-09T21:56:21Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "4KCBXetiih03NiUbu9guRG",
+      "name": "Predator",
+      "artists": [
+        {
+          "id": "03MVmfitJTVJIxYmObhQn9",
+          "name": "Dyro",
+          "type": "artist"
+        },
+        {
+          "id": "64UHlFDUkT8Hx3RCtDUieN",
+          "name": "Dope D.O.D.",
+          "type": "artist"
+        }
+      ],
+      "duration": 172013,
+      "track_number": 3,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-08-09T23:14:20Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "5rTcQ0Mw0YxGEMLVlwzOdm",
+      "name": "Til I Die",
+      "artists": [
+        {
+          "id": "0pghUohLPptZWBasy2wmUx",
+          "name": "THEY.",
+          "type": "artist"
+        },
+        {
+          "id": "5R3Hr2cnCCjt220Jmt2xLf",
+          "name": "Dillon Francis",
+          "type": "artist"
+        }
+      ],
+      "duration": 124986,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-08-12T02:45:53Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "6wb61u8ayuanWSHZzle5od",
+      "name": "I Want U",
+      "artists": [
+        {
+          "id": "11gWrKZMBsGQWmobv3oNfW",
+          "name": "Alison Wonderland",
+          "type": "artist"
+        }
+      ],
+      "duration": 210017,
+      "track_number": 6,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-08-12T12:28:25Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "5X7mZZwssysxr46hEYWZoJ",
+      "name": "Chateau",
+      "artists": [
+        {
+          "id": "0xOeVMOz2fVg5BJY3N6akT",
+          "name": "Jaden",
+          "type": "artist"
+        },
+        {
+          "id": "13ubrt8QOOCPljQ2FL1Kca",
+          "name": "A$AP Rocky",
+          "type": "artist"
+        }
+      ],
+      "duration": 135880,
+      "track_number": 14,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-08-16T21:36:19Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "0gBcRZiTpGOfWLNxLcWUtv",
+      "name": "Say When",
+      "artists": [
+        {
+          "id": "0pghUohLPptZWBasy2wmUx",
+          "name": "THEY.",
+          "type": "artist"
+        }
+      ],
+      "duration": 179727,
+      "track_number": 10,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-08-25T22:12:44Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "0Vq2Hxsd5awYmQVpbwRZ1b",
+      "name": "No Sleep",
+      "artists": [
+        {
+          "id": "2p1fiYHYiXz9qi0JJyxBzN",
+          "name": "Skepta",
+          "type": "artist"
+        }
+      ],
+      "duration": 191840,
+      "track_number": 4,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-08-26T23:42:15Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "3tZ4zv4UuenjJGSNUMfBNG",
+      "name": "XanaX Damage",
+      "artists": [
+        {
+          "id": "1RyvyyTE3xzB2ZywiAwp0i",
+          "name": "Future",
+          "type": "artist"
+        }
+      ],
+      "duration": 104013,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-09-03T06:59:33Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "643PW82aBMUa1FiWi5VQY7",
+      "name": "Babushka Boi",
+      "artists": [
+        {
+          "id": "13ubrt8QOOCPljQ2FL1Kca",
+          "name": "A$AP Rocky",
+          "type": "artist"
+        }
+      ],
+      "duration": 187105,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-09-18T19:03:12Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "4B7fTyj1FIPvP9tT5X3DnR",
+      "name": "Behind Barz - Bonus",
+      "artists": [
+        {
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "type": "artist"
+        }
+      ],
+      "duration": 163120,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-10-04T16:41:02Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "3eekarcy7kvN4yt5ZFzltW",
+      "name": "HIGHEST IN THE ROOM",
+      "artists": [
+        {
+          "id": "0Y5tJX1MQlPlqiwlOH1tJY",
+          "name": "Travis Scott",
+          "type": "artist"
+        }
+      ],
+      "duration": 175720,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-10-25T03:04:50Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "5Xx95GLKXZmXMHpLT2ES76",
+      "name": "Victorious",
+      "artists": [
+        {
+          "id": "1sLkS9C3zNRvdh5N2huwDp",
+          "name": "Tyrone Briggs",
+          "type": "artist"
+        }
+      ],
+      "duration": 239856,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-11-12T22:56:35Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "2tU2dbpcLijyxcINyyzx4v",
+      "name": "T N Biscuits",
+      "artists": [
+        {
+          "id": "3r1XkJ7vCs8kHBSzGvPLdP",
+          "name": "slowthai",
+          "type": "artist"
+        }
+      ],
+      "duration": 166153,
+      "track_number": 6,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-11-22T21:43:00Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "4zaTs0VrOpFsvcLjJH0Cdb",
+      "name": "HOOT",
+      "artists": [
+        {
+          "id": "7yPPzu5UdAK7yagQqjEZQm",
+          "name": "Party Favor",
+          "type": "artist"
+        },
+        {
+          "id": "6FImsFRRKFwS472Er0a0FM",
+          "name": "SKYXXX",
+          "type": "artist"
+        }
+      ],
+      "duration": 126000,
+      "track_number": 2,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-12-02T19:36:45Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "1MrUhV6liTymlWsWqR4aYE",
+      "name": "A Caged Bird/Imitations of Life",
+      "artists": [
+        {
+          "id": "32ogthv0BdaSMPml02X9YB",
+          "name": "The Cinematic Orchestra",
+          "type": "artist"
+        },
+        {
+          "id": "4sSSkVtrCTzENCgm2vokiY",
+          "name": "Roots Manuva",
+          "type": "artist"
+        }
+      ],
+      "duration": 414691,
+      "track_number": 2,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-12-08T23:22:55Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "18czZN7uruOjftj71Kt8oj",
+      "name": "PAID MY DUES",
+      "artists": [
+        {
+          "id": "6fOMl44jA4Sp5b9PpYCkzz",
+          "name": "NF",
+          "type": "artist"
+        }
+      ],
+      "duration": 211643,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-12-18T20:54:56Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "6YjhQtm8KBygON485GojvE",
+      "name": "I Am Rock",
+      "artists": [
+        {
+          "id": "7vKlWZCVYQIdYzo6anAGkE",
+          "name": "rock",
+          "type": "artist"
+        }
+      ],
+      "duration": 230826,
+      "track_number": 5,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2019-12-19T02:19:42Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "1K0VQGwAHUSavDdPZ2aTAY",
+      "name": "Little Bit of This (feat. Vince Staples)",
+      "artists": [
+        {
+          "id": "6M7RdR9ZP52h2mfNLmiHtU",
+          "name": "Good Times Ahead",
+          "type": "artist"
+        },
+        {
+          "id": "68kEuyFKyqrdQQLLsmiatm",
+          "name": "Vince Staples",
+          "type": "artist"
+        }
+      ],
+      "duration": 168254,
+      "track_number": 2,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2020-01-17T12:35:27Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "0mlf3yOGzVnIVxjybDQL3h",
+      "name": "Make It Bun Dem",
+      "artists": [
+        {
+          "id": "5he5w2lnU9x7JFhnwcekXX",
+          "name": "Skrillex",
+          "type": "artist"
+        },
+        {
+          "id": "3QJzdZJYIAcoET1GcfpNGi",
+          "name": "Damian Marley",
+          "type": "artist"
+        }
+      ],
+      "duration": 213696,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2020-05-31T19:11:12Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "2PHp7HV0XgJBBtk18Yzx8e",
+      "name": "Milo's Song (feat. Ye Ali)",
+      "artists": [
+        {
+          "id": "04p1jV00pBnrmh2rKl0jnT",
+          "name": "Juelz",
+          "type": "artist"
+        },
+        {
+          "id": "0Maq4Nk8ZM6keGZjTCXGIH",
+          "name": "Ye Ali",
+          "type": "artist"
+        }
+      ],
+      "duration": 189000,
+      "track_number": 3,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2021-01-16T02:41:49Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "2mtB7ekPzvNoieI62jYeJD",
+      "name": "Wing$",
+      "artists": [
+        {
+          "id": "5BcAKTbp20cv7tC5VqPFoC",
+          "name": "Macklemore & Ryan Lewis",
+          "type": "artist"
+        },
+        {
+          "id": "3JhNCzhSMTxs9WLGJJxWOY",
+          "name": "Macklemore",
+          "type": "artist"
+        },
+        {
+          "id": "4myTppRgh0rojLxx8RycOp",
+          "name": "Ryan Lewis",
+          "type": "artist"
+        }
+      ],
+      "duration": 299599,
+      "track_number": 11,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2021-02-13T07:50:23Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "5jd4jhBSIU14CKHN7gGl7x",
+      "name": "Gaspar Yanga",
+      "artists": [
+        {
+          "id": "23rK0hajv5ix2yPM4IIgOo",
+          "name": "D Smoke",
+          "type": "artist"
+        },
+        {
+          "id": "7hJcb9fa4alzcOq3EaNPoG",
+          "name": "Snoop Dogg",
+          "type": "artist"
+        }
+      ],
+      "duration": 135862,
+      "track_number": 4,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2021-02-15T01:04:41Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "2bDENJyfbxj0neGiXUFvIX",
+      "name": "Legendary",
+      "artists": [
+        {
+          "id": "1xKrH6GSh9CJh8nYwbqW7B",
+          "name": "Welshly Arms",
+          "type": "artist"
+        }
+      ],
+      "duration": 232173,
+      "track_number": 9,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2021-02-18T07:42:59Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "4i22aafpIIUpRme0LkQOL1",
+      "name": "Downfall",
+      "artists": [
+        {
+          "id": "78X7quh8fqAGZ42OpLmUW0",
+          "name": "Wiki",
+          "type": "artist"
+        }
+      ],
+      "duration": 149693,
+      "track_number": 2,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2021-02-20T20:52:24Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "7gcGLHNMusvZTNUeOkgY8E",
+      "name": "Play Dead - Avelino x Raf Riley Remix",
+      "artists": [
+        {
+          "id": "7z2avKuuiMAT4XZJFv8Rvh",
+          "name": "Tom Walker",
+          "type": "artist"
+        },
+        {
+          "id": "1K7GjRGPXx2I8FJ1iBW85L",
+          "name": "Raf Riley",
+          "type": "artist"
+        }
+      ],
+      "duration": 192786,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2021-02-26T00:54:00Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "3EwSEyZNGySU5H0Ve1QIWQ",
+      "name": "Rich Nigga Problems",
+      "artists": [
+        {
+          "id": "13ubrt8QOOCPljQ2FL1Kca",
+          "name": "A$AP Rocky",
+          "type": "artist"
+        }
+      ],
+      "duration": 217293,
+      "track_number": 20,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2021-03-20T22:28:31Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "3JVYnKW43PB7aO1X9kSDxH",
+      "name": "In Vein",
+      "artists": [
+        {
+          "id": "1sBkRIssrMs1AbVkOJbc7a",
+          "name": "Rick Ross",
+          "type": "artist"
+        },
+        {
+          "id": "1Xyo4u8uXC1ZmMpatF05PJ",
+          "name": "The Weeknd",
+          "type": "artist"
+        }
+      ],
+      "duration": 261853,
+      "track_number": 13,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2021-04-03T19:11:16Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "3Vad9kkHv0DZZ0ioJdRrYV",
+      "name": "Feel It (feat. Tunji Ige)",
+      "artists": [
+        {
+          "id": "6M7RdR9ZP52h2mfNLmiHtU",
+          "name": "Good Times Ahead",
+          "type": "artist"
+        },
+        {
+          "id": "4AA8eXtzqh5ykxtafLaPOi",
+          "name": "What So Not",
+          "type": "artist"
+        },
+        {
+          "id": "5fW1JQP4DfDyNqvYQ5m4Ju",
+          "name": "Tunji Ige",
+          "type": "artist"
+        }
+      ],
+      "duration": 214714,
+      "track_number": 3,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2021-04-07T06:29:46Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "2tHA0EXUTUty3ooeiR6kft",
+      "name": "Madness (feat. Lil Jon) - Radio Edit",
+      "artists": [
+        {
+          "id": "73jBynjsVtofjRpdpRAJGk",
+          "name": "Dimitri Vegas & Like Mike",
+          "type": "artist"
+        },
+        {
+          "id": "1Wt63OMKtv6v2ivHuQLm2C",
+          "name": "Coone",
+          "type": "artist"
+        },
+        {
+          "id": "7sfl4Xt5KmfyDs2T3SVSMK",
+          "name": "Lil Jon",
+          "type": "artist"
+        }
+      ],
+      "duration": 240943,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2021-04-24T19:49:02Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "5j3QqRGflS4o5jbsFSwKW1",
+      "name": "Six Days - Remix",
+      "artists": [
+        {
+          "id": "5CE2IfdYZEQGIDsfiRm8SI",
+          "name": "DJ Shadow",
+          "type": "artist"
+        },
+        {
+          "id": "0Mz5XE0kb1GBnbLQm2VbcO",
+          "name": "Mos Def",
+          "type": "artist"
+        }
+      ],
+      "duration": 232000,
+      "track_number": 2,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2021-05-06T05:37:33Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "6mXwoyzrpb4T5Iveoo4k5G",
+      "name": "Lift Me Up",
+      "artists": [
+        {
+          "id": "68kEuyFKyqrdQQLLsmiatm",
+          "name": "Vince Staples",
+          "type": "artist"
+        }
+      ],
+      "duration": 271960,
+      "track_number": 2,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2021-05-13T20:07:44Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "5jM0aU1gAjbK26fLQUTBJw",
+      "name": "Rubble Kings Theme (Dynamite)",
+      "artists": [
+        {
+          "id": "4RnBFZRiMLRyZy0AzzTg2C",
+          "name": "Run The Jewels",
+          "type": "artist"
+        }
+      ],
+      "duration": 222973,
+      "track_number": 8,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2021-06-03T02:26:19Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "46Kcradxrva9Dny4lHU1b3",
+      "name": "Miss Jackson (feat. LOLO)",
+      "artists": [
+        {
+          "id": "20JZFwl6HVl6yg8a4H3ZqK",
+          "name": "Panic! At The Disco",
+          "type": "artist"
+        },
+        {
+          "id": "0H0OkFxp022WOyKlt3HmlA",
+          "name": "LOLO",
+          "type": "artist"
+        }
+      ],
+      "duration": 192053,
+      "track_number": 2,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2021-06-08T19:08:32Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "0SBWR0JeJiEuZKwMvElVBG",
+      "name": "Dollar Signs",
+      "artists": [
+        {
+          "id": "6XSFTStLjHdlaHKXB4a9tO",
+          "name": "Tony K",
+          "type": "artist"
+        }
+      ],
+      "duration": 134918,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2021-07-28T18:32:23Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "1Mo5laispYHsrhCPAck6QR",
+      "name": "Day Ones",
+      "artists": [
+        {
+          "id": "25fqWEebq6PoiGQIHIrdtv",
+          "name": "Baauer",
+          "type": "artist"
+        },
+        {
+          "id": "4OPTZC24954HYBeHKeoLSc",
+          "name": "Novelist",
+          "type": "artist"
+        },
+        {
+          "id": "0DtXHIvJ8NWBg5pGvsgWnR",
+          "name": "Leikeli47",
+          "type": "artist"
+        }
+      ],
+      "duration": 171000,
+      "track_number": 6,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2021-07-28T18:45:51Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "7ssJMybqD4c4dkpoU81mlZ",
+      "name": "Next Level",
+      "artists": [
+        {
+          "id": "4MqATzsmSOuGh7de1Q4AzX",
+          "name": "A$ton Wyld",
+          "type": "artist"
+        }
+      ],
+      "duration": 138335,
+      "track_number": 4,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2021-07-31T23:33:35Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "76peqTD79xDzySA3SyWzs5",
+      "name": "REDLIGHT - VIP",
+      "artists": [
+        {
+          "id": "76M2Ekj8bG8W7X2nbx2CpF",
+          "name": "NGHTMRE",
+          "type": "artist"
+        },
+        {
+          "id": "5dHt1vcEm9qb8fCyLcB3HL",
+          "name": "A$AP Ferg",
+          "type": "artist"
+        }
+      ],
+      "duration": 199118,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2021-08-02T01:40:30Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "3VayB5gLZGODx8b7RO1y5f",
+      "name": "No Suburban, Pt. 2",
+      "artists": [
+        {
+          "id": "1tG7s7S4sq2eFFW0QZyLbm",
+          "name": "Sheff G",
+          "type": "artist"
+        }
+      ],
+      "duration": 153561,
+      "track_number": 7,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2021-12-23T04:53:30Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "4f1QbCjIAgQwnf7ms9NXWx",
+      "name": "Me You",
+      "artists": [
+        {
+          "id": "1z7b1Pr1rSlvWRzsW3HOrS",
+          "name": "Russ",
+          "type": "artist"
+        }
+      ],
+      "duration": 164200,
+      "track_number": 5,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2021-12-29T02:08:30Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "6MreoQf8oixWI2xRcw3Fv1",
+      "name": "Mirror",
+      "artists": [
+        {
+          "id": "55Aa2cqylxrFIXC767Z865",
+          "name": "Lil Wayne",
+          "type": "artist"
+        },
+        {
+          "id": "0du5cEVh5yTK9QJze8zA0C",
+          "name": "Bruno Mars",
+          "type": "artist"
+        }
+      ],
+      "duration": 228093,
+      "track_number": 17,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2022-01-26T04:18:20Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "7ujbNS6fmb82EcZfiDsUd5",
+      "name": "Ghetto Symphony",
+      "artists": [
+        {
+          "id": "13ubrt8QOOCPljQ2FL1Kca",
+          "name": "A$AP Rocky",
+          "type": "artist"
+        },
+        {
+          "id": "7cvtOrIEaUrqbGmYA9Kj34",
+          "name": "Gunplay",
+          "type": "artist"
+        },
+        {
+          "id": "5dHt1vcEm9qb8fCyLcB3HL",
+          "name": "A$AP Ferg",
+          "type": "artist"
+        }
+      ],
+      "duration": 237733,
+      "track_number": 14,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2022-02-08T21:22:10Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "7M0wKSfTfINpAa1Endqt4s",
+      "name": "Holy Grail",
+      "artists": [
+        {
+          "id": "4jITyKWjSTPCdzK1iM5eaA",
+          "name": "iNTeLL",
+          "type": "artist"
+        },
+        {
+          "id": "6RedK3o51NbUJuJxXlT4kj",
+          "name": "88-Keys",
+          "type": "artist"
+        },
+        {
+          "id": "2whjaggbS47XKb5D0HOHXj",
+          "name": "PXWER",
+          "type": "artist"
+        }
+      ],
+      "duration": 147893,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2022-02-18T00:47:10Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "7iEoaTyBCqLaAwJnOP1BTn",
+      "name": "The Games We Play",
+      "artists": [
+        {
+          "id": "0ONHkAv9pCAFxb0zJwDNTy",
+          "name": "Pusha T",
+          "type": "artist"
+        }
+      ],
+      "duration": 166120,
+      "track_number": 2,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2022-02-18T04:32:29Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "2c5Isyd07hWsl7AQia2Dig",
+      "name": "Fast Lane",
+      "artists": [
+        {
+          "id": "77IURH5NC56Jn09QHi76is",
+          "name": "Bad Meets Evil",
+          "type": "artist"
+        }
+      ],
+      "duration": 249560,
+      "track_number": 2,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2022-02-18T04:33:00Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "2ye824NM1m7Nc2UPXtwZjL",
+      "name": "When I'm Gone",
+      "artists": [
+        {
+          "id": "7dGJo4pcD2V6oG8kP0tJRR",
+          "name": "Eminem",
+          "type": "artist"
+        }
+      ],
+      "duration": 281133,
+      "track_number": 16,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2022-02-27T05:45:20Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "2X1Tygc4uVunRgzNkFb1mG",
+      "name": "Let's Begin (feat. Roc Marciano, RZA, B.Keyz & Travis Mendes)",
+      "artists": [
+        {
+          "id": "50JJSqHUf2RQ9xsHs0KMHg",
+          "name": "Jon Bellion",
+          "type": "artist"
+        },
+        {
+          "id": "5X0V59ipZnbvnubW0rQVri",
+          "name": "Roc Marciano",
+          "type": "artist"
+        },
+        {
+          "id": "4iCwCMnqsNZ6atvRiADgtn",
+          "name": "RZA",
+          "type": "artist"
+        },
+        {
+          "id": "54tH0fUB8bJvHnpn0vSo8i",
+          "name": "B.Keyz",
+          "type": "artist"
+        },
+        {
+          "id": "3PXLYt1l21hYC4eLDGVgT1",
+          "name": "Travis Mendes",
+          "type": "artist"
+        }
+      ],
+      "duration": 340521,
+      "track_number": 3,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2022-05-02T12:50:16Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "3Osd3Yf8K73aj4ySn6LrvK",
+      "name": "No Church In The Wild",
+      "artists": [
+        {
+          "id": "3nFkdlSjzX9mRTtwJOzDYB",
+          "name": "JAY-Z",
+          "type": "artist"
+        },
+        {
+          "id": "5K4W6rqBFWDnAN6FQUkS6x",
+          "name": "Kanye West",
+          "type": "artist"
+        },
+        {
+          "id": "2h93pZq0e7k5yf4dywlkpM",
+          "name": "Frank Ocean",
+          "type": "artist"
+        },
+        {
+          "id": "1W3FSF1BLpY3hlVIgvenLz",
+          "name": "The-Dream",
+          "type": "artist"
+        }
+      ],
+      "duration": 272506,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2022-05-09T19:11:18Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "6liGqN48zCba8OPKVu9oDn",
+      "name": "Light Tunnels (feat. Mike Slap)",
+      "artists": [
+        {
+          "id": "5BcAKTbp20cv7tC5VqPFoC",
+          "name": "Macklemore & Ryan Lewis",
+          "type": "artist"
+        },
+        {
+          "id": "3JhNCzhSMTxs9WLGJJxWOY",
+          "name": "Macklemore",
+          "type": "artist"
+        },
+        {
+          "id": "4myTppRgh0rojLxx8RycOp",
+          "name": "Ryan Lewis",
+          "type": "artist"
+        },
+        {
+          "id": "4Ki9oFarfgc2BQa6zbT8DK",
+          "name": "Mike Slap",
+          "type": "artist"
+        }
+      ],
+      "duration": 397706,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2022-05-15T22:37:46Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "0g6Wn9gocuOVr72Yaf8UBF",
+      "name": "Must Be The Ganja",
+      "artists": [
+        {
+          "id": "7dGJo4pcD2V6oG8kP0tJRR",
+          "name": "Eminem",
+          "type": "artist"
+        }
+      ],
+      "duration": 242906,
+      "track_number": 14,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2022-05-15T22:43:23Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "7DDxxhExUBH53SFJqXDz4i",
+      "name": "Beautiful",
+      "artists": [
+        {
+          "id": "7dGJo4pcD2V6oG8kP0tJRR",
+          "name": "Eminem",
+          "type": "artist"
+        }
+      ],
+      "duration": 392826,
+      "track_number": 17,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2022-05-15T22:51:24Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "5eGEc27nnhtmcOh6RC890a",
+      "name": "Kill You",
+      "artists": [
+        {
+          "id": "7dGJo4pcD2V6oG8kP0tJRR",
+          "name": "Eminem",
+          "type": "artist"
+        }
+      ],
+      "duration": 264400,
+      "track_number": 2,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2022-05-18T21:31:53Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "6ndmKwWqMozN2tcZqzCX4K",
+      "name": "Remember the Name (feat. Styles of Beyond)",
+      "artists": [
+        {
+          "id": "7dWYWUbO68rXJOcyA7SpJk",
+          "name": "Fort Minor",
+          "type": "artist"
+        },
+        {
+          "id": "5bf6yYgHODBW5EreBZshpX",
+          "name": "Styles Of Beyond",
+          "type": "artist"
+        }
+      ],
+      "duration": 230493,
+      "track_number": 2,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2022-05-18T21:41:43Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "2chyJjEMYj397jz1QLEGO7",
+      "name": "Written in the Stars (feat. Eric Turner)",
+      "artists": [
+        {
+          "id": "0Tob4H0FLtEONHU1MjpUEp",
+          "name": "Tinie Tempah",
+          "type": "artist"
+        },
+        {
+          "id": "79DOwuMzV2h4es3em0t002",
+          "name": "Eric Turner",
+          "type": "artist"
+        }
+      ],
+      "duration": 207600,
+      "track_number": 7,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2022-05-18T22:01:36Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "7bHT9osSq1rwT2yaImzqCi",
+      "name": "No Love",
+      "artists": [
+        {
+          "id": "7dGJo4pcD2V6oG8kP0tJRR",
+          "name": "Eminem",
+          "type": "artist"
+        },
+        {
+          "id": "55Aa2cqylxrFIXC767Z865",
+          "name": "Lil Wayne",
+          "type": "artist"
+        }
+      ],
+      "duration": 299506,
+      "track_number": 9,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2022-05-18T22:07:28Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "5UsLjwBaTHBX4ektWIr4XX",
+      "name": "Forever",
+      "artists": [
+        {
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "type": "artist"
+        },
+        {
+          "id": "5K4W6rqBFWDnAN6FQUkS6x",
+          "name": "Kanye West",
+          "type": "artist"
+        },
+        {
+          "id": "55Aa2cqylxrFIXC767Z865",
+          "name": "Lil Wayne",
+          "type": "artist"
+        },
+        {
+          "id": "7dGJo4pcD2V6oG8kP0tJRR",
+          "name": "Eminem",
+          "type": "artist"
+        }
+      ],
+      "duration": 357706,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2022-05-18T22:12:02Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "1zBBo7indT2foQGQUoloWj",
+      "name": "Invincible",
+      "artists": [
+        {
+          "id": "6TIYQ3jFPwQSRmorSezPxX",
+          "name": "mgk",
+          "type": "artist"
+        },
+        {
+          "id": "0v2Y5jwtcv8LiWNTRls1KM",
+          "name": "Ester Dean",
+          "type": "artist"
+        }
+      ],
+      "duration": 185733,
+      "track_number": 11,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2022-06-30T01:21:56Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "3UmaczJpikHgJFyBTAJVoz",
+      "name": "Stan",
+      "artists": [
+        {
+          "id": "7dGJo4pcD2V6oG8kP0tJRR",
+          "name": "Eminem",
+          "type": "artist"
+        },
+        {
+          "id": "2mpeljBig2IXLXRAFO9AAs",
+          "name": "Dido",
+          "type": "artist"
+        }
+      ],
+      "duration": 404106,
+      "track_number": 3,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2022-07-21T03:47:20Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "1DbeslBYnckTqqTcc1Y2Tg",
+      "name": "New God Flow",
+      "artists": [
+        {
+          "id": "0ONHkAv9pCAFxb0zJwDNTy",
+          "name": "Pusha T",
+          "type": "artist"
+        },
+        {
+          "id": "5K4W6rqBFWDnAN6FQUkS6x",
+          "name": "Kanye West",
+          "type": "artist"
+        }
+      ],
+      "duration": 294906,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2022-09-06T20:36:10Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "6JpN5w95em8SODPiM7W2PH",
+      "name": "The Story of O.J.",
+      "artists": [
+        {
+          "id": "3nFkdlSjzX9mRTtwJOzDYB",
+          "name": "JAY-Z",
+          "type": "artist"
+        }
+      ],
+      "duration": 231760,
+      "track_number": 2,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2022-09-15T23:25:39Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "6I0F1atWm6n0w45MQpKjqj",
+      "name": "FRFR",
+      "artists": [
+        {
+          "id": "1QQxgPT4qgPLps6RFTLCjJ",
+          "name": "Rowlan",
+          "type": "artist"
+        },
+        {
+          "id": "08v1r0jqDyvSo2LtSqHxcy",
+          "name": "Reo Cragun",
+          "type": "artist"
+        },
+        {
+          "id": "3s3ObHATXKGsoQvdcmRbCf",
+          "name": "KINGDM",
+          "type": "artist"
+        }
+      ],
+      "duration": 110383,
+      "track_number": 2,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2022-10-04T17:41:35Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "67JD6LRHN9MLOvzBKzIlK7",
+      "name": "Gold Rings (feat. Pusha T)",
+      "artists": [
+        {
+          "id": "0Y4inQK6OespitzD6ijMwb",
+          "name": "Freddie Gibbs",
+          "type": "artist"
+        },
+        {
+          "id": "0ONHkAv9pCAFxb0zJwDNTy",
+          "name": "Pusha T",
+          "type": "artist"
+        }
+      ],
+      "duration": 222776,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2022-10-09T04:37:51Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "39hVR792uDgkDS14wLWmBy",
+      "name": "The Plug",
+      "artists": [
+        {
+          "id": "4dxp2iZCasMOmCDFztR22q",
+          "name": "Belaganas",
+          "type": "artist"
+        }
+      ],
+      "duration": 188780,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2022-10-12T23:38:55Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "7h0d2h0fUmzbs7zeFigJPn",
+      "name": "HIGHEST IN THE ROOM (feat. ROSALÍA & Lil Baby) - REMIX",
+      "artists": [
+        {
+          "id": "0Y5tJX1MQlPlqiwlOH1tJY",
+          "name": "Travis Scott",
+          "type": "artist"
+        },
+        {
+          "id": "7ltDVBr6mKbRvohxheJ9h1",
+          "name": "ROSALÍA",
+          "type": "artist"
+        },
+        {
+          "id": "5f7VJjfbwm532GiveGC0ZK",
+          "name": "Lil Baby",
+          "type": "artist"
+        }
+      ],
+      "duration": 244873,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2022-10-26T23:10:18Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "4KMj9aLrNc45H9ETYz7IcE",
+      "name": "Victory Lap",
+      "artists": [
+        {
+          "id": "5BcAKTbp20cv7tC5VqPFoC",
+          "name": "Macklemore & Ryan Lewis",
+          "type": "artist"
+        },
+        {
+          "id": "3JhNCzhSMTxs9WLGJJxWOY",
+          "name": "Macklemore",
+          "type": "artist"
+        },
+        {
+          "id": "4myTppRgh0rojLxx8RycOp",
+          "name": "Ryan Lewis",
+          "type": "artist"
+        }
+      ],
+      "duration": 213717,
+      "track_number": 18,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2022-10-26T23:10:22Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "1TJBqS7OM2xB15CX859MI7",
+      "name": "Vipassana (Ryan Lewis Remix)",
+      "artists": [
+        {
+          "id": "5BcAKTbp20cv7tC5VqPFoC",
+          "name": "Macklemore & Ryan Lewis",
+          "type": "artist"
+        }
+      ],
+      "duration": 238481,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2022-11-19T21:06:06Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "7LR85XLWw2yXqKBSI5brbG",
+      "name": "Run This Town",
+      "artists": [
+        {
+          "id": "3nFkdlSjzX9mRTtwJOzDYB",
+          "name": "JAY-Z",
+          "type": "artist"
+        },
+        {
+          "id": "5pKCCKE2ajJHZ9KAiaK11H",
+          "name": "Rihanna",
+          "type": "artist"
+        },
+        {
+          "id": "5K4W6rqBFWDnAN6FQUkS6x",
+          "name": "Kanye West",
+          "type": "artist"
+        }
+      ],
+      "duration": 267520,
+      "track_number": 4,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2022-11-27T01:17:08Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "43qgiVrRWrxv0jhYRsJtm3",
+      "name": "This Is What I Mean",
+      "artists": [
+        {
+          "id": "2SrSdSvpminqmStGELCSNd",
+          "name": "Stormzy",
+          "type": "artist"
+        },
+        {
+          "id": "2LiqbH7OhqP0yuaG8VL1wJ",
+          "name": "Black Sherif",
+          "type": "artist"
+        },
+        {
+          "id": "21UPYSRWFKwtqvSAnFnSvS",
+          "name": "Amaarae",
+          "type": "artist"
+        },
+        {
+          "id": "4imxqng3RrOBmykL2DhIJC",
+          "name": "Ms Banks",
+          "type": "artist"
+        },
+        {
+          "id": "2B3DdwYxUSSrYdda9V2UL0",
+          "name": "STORRY",
+          "type": "artist"
+        }
+      ],
+      "duration": 325333,
+      "track_number": 2,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2022-11-27T04:44:00Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "0LFcFGLYTX6UmeIdO7NVd7",
+      "name": "Ali Bomaye",
+      "artists": [
+        {
+          "id": "0NbfKEOTQCcwd6o7wSDOHI",
+          "name": "The Game",
+          "type": "artist"
+        },
+        {
+          "id": "17lzZA2AlOHwCwFALHttmp",
+          "name": "2 Chainz",
+          "type": "artist"
+        },
+        {
+          "id": "1sBkRIssrMs1AbVkOJbc7a",
+          "name": "Rick Ross",
+          "type": "artist"
+        }
+      ],
+      "duration": 372706,
+      "track_number": 2,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2022-11-27T17:28:54Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "671XaUBmifTMXDbZK5CB1M",
+      "name": "Mercy.1",
+      "artists": [
+        {
+          "id": "5K4W6rqBFWDnAN6FQUkS6x",
+          "name": "Kanye West",
+          "type": "artist"
+        },
+        {
+          "id": "0c173mlxpT3dSFRgMO8XPh",
+          "name": "Big Sean",
+          "type": "artist"
+        },
+        {
+          "id": "0ONHkAv9pCAFxb0zJwDNTy",
+          "name": "Pusha T",
+          "type": "artist"
+        },
+        {
+          "id": "17lzZA2AlOHwCwFALHttmp",
+          "name": "2 Chainz",
+          "type": "artist"
+        }
+      ],
+      "duration": 326346,
+      "track_number": 3,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2022-12-02T15:27:13Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "31UJ8vd4JQc1JEa7TgcDSz",
+      "name": "Shittin' Me",
+      "artists": [
+        {
+          "id": "13ubrt8QOOCPljQ2FL1Kca",
+          "name": "A$AP Rocky",
+          "type": "artist"
+        }
+      ],
+      "duration": 144729,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2022-12-03T18:42:23Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "6zZawNvMdrudxDVcV9Es6m",
+      "name": "Vampire (feat. Danny Brown)",
+      "artists": [
+        {
+          "id": "6I7IZDntAGBmzkCANUmtV0",
+          "name": "Payday",
+          "type": "artist"
+        },
+        {
+          "id": "7aA592KWirLsnfb5ulGWvU",
+          "name": "Danny Brown",
+          "type": "artist"
+        }
+      ],
+      "duration": 140330,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2022-12-24T02:02:18Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "5CsDo9j3N4yFZNCN1h9loS",
+      "name": "Never Enough",
+      "artists": [
+        {
+          "id": "7dGJo4pcD2V6oG8kP0tJRR",
+          "name": "Eminem",
+          "type": "artist"
+        },
+        {
+          "id": "3q7HBObVc0L8jNeTe5Gofh",
+          "name": "50 Cent",
+          "type": "artist"
+        },
+        {
+          "id": "1Oa0bMld0A3u5OTYfMzp5h",
+          "name": "Nate Dogg",
+          "type": "artist"
+        }
+      ],
+      "duration": 159786,
+      "track_number": 3,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2022-12-25T18:41:44Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "0kmxWw7KjktV4V1ZpbOeru",
+      "name": "Glow In The Dark",
+      "artists": [
+        {
+          "id": "2p1fiYHYiXz9qi0JJyxBzN",
+          "name": "Skepta",
+          "type": "artist"
+        },
+        {
+          "id": "0wjb0t7aYMuIwyuXnPOilh",
+          "name": "Lay-Z",
+          "type": "artist"
+        },
+        {
+          "id": "3tVQdUvClmAT7URs9V3rsp",
+          "name": "Wizkid",
+          "type": "artist"
+        }
+      ],
+      "duration": 175346,
+      "track_number": 10,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2022-12-25T18:41:49Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "7HA3jgB7g6uR800FJZ2E7j",
+      "name": "You Wish",
+      "artists": [
+        {
+          "id": "2p1fiYHYiXz9qi0JJyxBzN",
+          "name": "Skepta",
+          "type": "artist"
+        }
+      ],
+      "duration": 166840,
+      "track_number": 11,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2022-12-29T20:21:44Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "7hJvx1rJTUsKUngnHdBuir",
+      "name": "General",
+      "artists": [
+        {
+          "id": "6U3ybJ9UHNKEdsH7ktGBZ7",
+          "name": "JID",
+          "type": "artist"
+        }
+      ],
+      "duration": 198297,
+      "track_number": 2,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2023-01-17T22:06:54Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "0YImOCkIJ2PWhCXaURCZnY",
+      "name": "I Know What You Want (feat. Flipmode Squad)",
+      "artists": [
+        {
+          "id": "1YfEcTuGvBQ8xSD1f53UnK",
+          "name": "Busta Rhymes",
+          "type": "artist"
+        },
+        {
+          "id": "4iHNK0tOyZPYnBU7nGAgpQ",
+          "name": "Mariah Carey",
+          "type": "artist"
+        },
+        {
+          "id": "7JXCJDLGh1k9cg6JbYCpYl",
+          "name": "Flipmode Squad",
+          "type": "artist"
+        }
+      ],
+      "duration": 324306,
+      "track_number": 12,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2023-01-21T06:22:48Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "75RQYCt0aVJrk1QXgwOS32",
+      "name": "HEROES (feat. DJ Premier)",
+      "artists": [
+        {
+          "id": "3JhNCzhSMTxs9WLGJJxWOY",
+          "name": "Macklemore",
+          "type": "artist"
+        },
+        {
+          "id": "6GEykX11lQqp92UVOQQCC7",
+          "name": "DJ Premier",
+          "type": "artist"
+        }
+      ],
+      "duration": 175946,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2023-01-27T12:38:28Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "5UYTmm6E89Rt8fdGXY73wU",
+      "name": "Tally (with Denzel Curry)",
+      "artists": [
+        {
+          "id": "7CGSp2GbiOpLPSq61qjxf8",
+          "name": "midwxst",
+          "type": "artist"
+        },
+        {
+          "id": "6fxyWrfmjcbj5d12gXeiNV",
+          "name": "Denzel Curry",
+          "type": "artist"
+        }
+      ],
+      "duration": 147745,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2023-02-01T00:52:24Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "0N3W5peJUQtI4eyR6GJT5O",
+      "name": "King Kunta",
+      "artists": [
+        {
+          "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+          "name": "Kendrick Lamar",
+          "type": "artist"
+        }
+      ],
+      "duration": 234693,
+      "track_number": 3,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2023-02-09T19:12:56Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "4RKmLxa4QXCNkBxFj3ItlQ",
+      "name": "Wrong Route",
+      "artists": [
+        {
+          "id": "176ThSTKVe29Uxsae3mkUw",
+          "name": "2nd Generation Wu",
+          "type": "artist"
+        }
+      ],
+      "duration": 86699,
+      "track_number": 2,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2023-02-21T16:16:57Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "1kn9JsBWIw6qREhDWw0lKb",
+      "name": "Ma Boy",
+      "artists": [
+        {
+          "id": "1iNqsUDUraNWrj00bqssQG",
+          "name": "Dreamville",
+          "type": "artist"
+        },
+        {
+          "id": "6U3ybJ9UHNKEdsH7ktGBZ7",
+          "name": "JID",
+          "type": "artist"
+        },
+        {
+          "id": "75WcpJKWXBV3o3cfluWapK",
+          "name": "Lute",
+          "type": "artist"
+        }
+      ],
+      "duration": 166999,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2023-02-25T19:44:46Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "0wlVropyv3VsqG5HepMfu2",
+      "name": "WWE: The Time Is Now (John Cena)",
+      "artists": [
+        {
+          "id": "0spHbv2fw49lDMkbOAdaqX",
+          "name": "WWE",
+          "type": "artist"
+        },
+        {
+          "id": "0CV4DAO1wV3ikZGYIkMtmh",
+          "name": "John Cena",
+          "type": "artist"
+        },
+        {
+          "id": "1bPFOqvoGk96MUHVGc6f1f",
+          "name": "Tha Trademarc",
+          "type": "artist"
+        }
+      ],
+      "duration": 176791,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2023-02-26T23:10:06Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "3TZwjdclvWt7iPJUnMpgcs",
+      "name": "Jump Around",
+      "artists": [
+        {
+          "id": "0AuW7OCyKfFrsMbtHrYgIV",
+          "name": "House Of Pain",
+          "type": "artist"
+        }
+      ],
+      "duration": 214946,
+      "track_number": 2,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2023-03-07T15:26:35Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "23w7p4AuDtw9CrhFBcMat5",
+      "name": "Adonis Interlude (The Montage) (with J. Cole)",
+      "artists": [
+        {
+          "id": "1iNqsUDUraNWrj00bqssQG",
+          "name": "Dreamville",
+          "type": "artist"
+        },
+        {
+          "id": "6l3HvQ5sa6mXTsMTB19rO5",
+          "name": "J. Cole",
+          "type": "artist"
+        }
+      ],
+      "duration": 95902,
+      "track_number": 4,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2023-03-09T21:49:53Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "3q9PVufz68TRvOao25IMNk",
+      "name": "MOTTO",
+      "artists": [
+        {
+          "id": "6fOMl44jA4Sp5b9PpYCkzz",
+          "name": "NF",
+          "type": "artist"
+        }
+      ],
+      "duration": 217271,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2023-03-09T22:37:42Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "7CeNOTM3asX0zt6pAi9a6W",
+      "name": "Anthem (with Big Sean & EST Gee) - Soundtrack Version",
+      "artists": [
+        {
+          "id": "1iNqsUDUraNWrj00bqssQG",
+          "name": "Dreamville",
+          "type": "artist"
+        },
+        {
+          "id": "0c173mlxpT3dSFRgMO8XPh",
+          "name": "Big Sean",
+          "type": "artist"
+        },
+        {
+          "id": "4FlG0V0jhLO4qGpayFOphj",
+          "name": "EST Gee",
+          "type": "artist"
+        }
+      ],
+      "duration": 125885,
+      "track_number": 3,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2023-03-12T19:20:16Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "60QgT3PndeEDhdteZfqXGv",
+      "name": "89 Earthquake",
+      "artists": [
+        {
+          "id": "1grN0519h2zYqpRtYbDZAl",
+          "name": "Larry June",
+          "type": "artist"
+        },
+        {
+          "id": "0eVyjRhzZKke2KFYTcDkeu",
+          "name": "The Alchemist",
+          "type": "artist"
+        }
+      ],
+      "duration": 192306,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2023-03-12T20:22:01Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "3DzlR0kXE6shimFVhSwI4A",
+      "name": "Trouble on My Mind",
+      "artists": [
+        {
+          "id": "0ONHkAv9pCAFxb0zJwDNTy",
+          "name": "Pusha T",
+          "type": "artist"
+        },
+        {
+          "id": "4V8LLVI7PbaPR0K2TGSxFF",
+          "name": "Tyler, The Creator",
+          "type": "artist"
+        }
+      ],
+      "duration": 212506,
+      "track_number": 3,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2023-03-13T21:29:26Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "2CxinLuB16KJjMPoIMLVTL",
+      "name": "Private Valet",
+      "artists": [
+        {
+          "id": "1grN0519h2zYqpRtYbDZAl",
+          "name": "Larry June",
+          "type": "artist"
+        }
+      ],
+      "duration": 143781,
+      "track_number": 2,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2023-04-01T17:04:21Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "70wd1fE44Rb9mnZMaApmkc",
+      "name": "Palisades, CA",
+      "artists": [
+        {
+          "id": "1grN0519h2zYqpRtYbDZAl",
+          "name": "Larry June",
+          "type": "artist"
+        },
+        {
+          "id": "0eVyjRhzZKke2KFYTcDkeu",
+          "name": "The Alchemist",
+          "type": "artist"
+        },
+        {
+          "id": "0c173mlxpT3dSFRgMO8XPh",
+          "name": "Big Sean",
+          "type": "artist"
+        }
+      ],
+      "duration": 194453,
+      "track_number": 4,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2023-04-17T22:45:49Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "5sNESr6pQfIhL3krM8CtZn",
+      "name": "Numb / Encore",
+      "artists": [
+        {
+          "id": "3nFkdlSjzX9mRTtwJOzDYB",
+          "name": "JAY-Z",
+          "type": "artist"
+        },
+        {
+          "id": "6XyY86QOPPrYVGvF9ch6wz",
+          "name": "Linkin Park",
+          "type": "artist"
+        }
+      ],
+      "duration": 205733,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2023-05-08T19:44:16Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "6R9VczfWIyPpHqqysSAyFf",
+      "name": "Boujee",
+      "artists": [
+        {
+          "id": "6d47Z08T4snK50HgTEHo5Z",
+          "name": "Sage The Gemini",
+          "type": "artist"
+        }
+      ],
+      "duration": 161666,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2023-05-19T18:32:25Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "02nhDSWvcXYALyVkth2oXd",
+      "name": "Who He Iz",
+      "artists": [
+        {
+          "id": "5oifjQw72WO7Jut07fVWMy",
+          "name": "KAYTRAMINÉ",
+          "type": "artist"
+        },
+        {
+          "id": "3Gm5F95VdRxW3mqCn8RPBJ",
+          "name": "Aminé",
+          "type": "artist"
+        },
+        {
+          "id": "6qgnBH6iDM91ipVXv28OMu",
+          "name": "KAYTRANADA",
+          "type": "artist"
+        }
+      ],
+      "duration": 181000,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2023-05-31T23:37:52Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "6BKAKoo7J2vwJGZJs5dhGD",
+      "name": "CrasH",
+      "artists": [
+        {
+          "id": "5IcR3N7QB1j6KBL8eImZ8m",
+          "name": "ScHoolboy Q",
+          "type": "artist"
+        }
+      ],
+      "duration": 161480,
+      "track_number": 12,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2023-06-01T22:59:00Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "00ogmsZiK6dB0QVUDBeehZ",
+      "name": "Soliloquy",
+      "artists": [
+        {
+          "id": "6aaMZ3fcfLv4tEbmY7bjRM",
+          "name": "Isaiah Rashad",
+          "type": "artist"
+        }
+      ],
+      "duration": 106463,
+      "track_number": 7,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2023-06-02T05:01:35Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "4hgS8ANdhHy2G7XtyVqLDw",
+      "name": "Pyro (leak 2019)",
+      "artists": [
+        {
+          "id": "6fxyWrfmjcbj5d12gXeiNV",
+          "name": "Denzel Curry",
+          "type": "artist"
+        },
+        {
+          "id": "1rHOtdmGNr5vcYNw5v7QGC",
+          "name": "Kenny Beats",
+          "type": "artist"
+        }
+      ],
+      "duration": 81240,
+      "track_number": 4,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2023-07-03T03:07:16Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "439TlnnznSiBbQbgXiBqAd",
+      "name": "m.A.A.d city",
+      "artists": [
+        {
+          "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+          "name": "Kendrick Lamar",
+          "type": "artist"
+        },
+        {
+          "id": "4XqfpACObRB5AsBcUYjL8X",
+          "name": "MC Eiht",
+          "type": "artist"
+        }
+      ],
+      "duration": 350120,
+      "track_number": 8,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2023-07-06T00:00:06Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "4SnvJDymo0LkkuFNNLemQl",
+      "name": "Came Up",
+      "artists": [
+        {
+          "id": "5usbqiU7sjvszjWecANDL6",
+          "name": "WESTSIDE BOOGIE",
+          "type": "artist"
+        }
+      ],
+      "duration": 161408,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2023-07-14T16:22:55Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "7pdCmGogZHZH3Xv7LnqVrH",
+      "name": "Real",
+      "artists": [
+        {
+          "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+          "name": "Kendrick Lamar",
+          "type": "artist"
+        },
+        {
+          "id": "0N41KJ4H6bkPAm2tx7VS8C",
+          "name": "Anna Wise",
+          "type": "artist"
+        }
+      ],
+      "duration": 443413,
+      "track_number": 11,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2023-07-16T02:09:17Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "7zdORPbuIBkZHCJXl9J2e5",
+      "name": "Sherane a.k.a Master Splinter’s Daughter",
+      "artists": [
+        {
+          "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+          "name": "Kendrick Lamar",
+          "type": "artist"
+        }
+      ],
+      "duration": 273640,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2023-07-23T20:13:45Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "2e3OgIbfZw5deCjLMGatSS",
+      "name": "Frio",
+      "artists": [
+        {
+          "id": "5G9kmDLg3OeUyj8KVBLzbu",
+          "name": "mike.",
+          "type": "artist"
+        }
+      ],
+      "duration": 178886,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2023-07-24T16:36:39Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "5tsI3xxDHDgzHhn30LTQNz",
+      "name": "These Days",
+      "artists": [
+        {
+          "id": "5G9kmDLg3OeUyj8KVBLzbu",
+          "name": "mike.",
+          "type": "artist"
+        }
+      ],
+      "duration": 268565,
+      "track_number": 3,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2023-07-30T01:43:42Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "7cXlDCmulkI5UWLCtSjhRF",
+      "name": "Office Hours (feat. 50 Cent)",
+      "artists": [
+        {
+          "id": "20qISvAhX20dpIbOOzGK3q",
+          "name": "Nas",
+          "type": "artist"
+        },
+        {
+          "id": "3q7HBObVc0L8jNeTe5Gofh",
+          "name": "50 Cent",
+          "type": "artist"
+        }
+      ],
+      "duration": 232017,
+      "track_number": 3,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2023-08-05T23:43:36Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "2JmFRXaJrkAUD2cs6U20KG",
+      "name": "Jet Fuel",
+      "artists": [
+        {
+          "id": "4LLpKhyESsyAXpc4laK94U",
+          "name": "Mac Miller",
+          "type": "artist"
+        }
+      ],
+      "duration": 345213,
+      "track_number": 11,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2023-08-06T00:55:13Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "4cGeMgLcykDLAazHFpbZbU",
+      "name": "DNA.",
+      "artists": [
+        {
+          "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+          "name": "Kendrick Lamar",
+          "type": "artist"
+        }
+      ],
+      "duration": 185946,
+      "track_number": 2,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2023-08-23T23:22:43Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "1EaKU4dMbesXXd3BrLCtYG",
+      "name": "ELEMENT.",
+      "artists": [
+        {
+          "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+          "name": "Kendrick Lamar",
+          "type": "artist"
+        }
+      ],
+      "duration": 208733,
+      "track_number": 4,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2023-08-23T23:53:25Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "6SzU93bVdZ3nDztroeWcng",
+      "name": "21 Questions",
+      "artists": [
+        {
+          "id": "3q7HBObVc0L8jNeTe5Gofh",
+          "name": "50 Cent",
+          "type": "artist"
+        },
+        {
+          "id": "1Oa0bMld0A3u5OTYfMzp5h",
+          "name": "Nate Dogg",
+          "type": "artist"
+        }
+      ],
+      "duration": 224400,
+      "track_number": 13,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2023-08-31T03:31:57Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "63WVeFX5l2UHPhLlQv0ipB",
+      "name": "In the Air Tonight",
+      "artists": [
+        {
+          "id": "4lxfqrEsLX6N1N4OCSkILp",
+          "name": "Phil Collins",
+          "type": "artist"
+        }
+      ],
+      "duration": 330493,
+      "track_number": 9,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2023-09-15T05:25:32Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "6VnOgU93ukiiCuBxNzej06",
+      "name": "War Horns",
+      "artists": [
+        {
+          "id": "4jITyKWjSTPCdzK1iM5eaA",
+          "name": "iNTeLL",
+          "type": "artist"
+        },
+        {
+          "id": "4WmCibqp8jihLJHJ86GvsR",
+          "name": "Tahuti The Jedi",
+          "type": "artist"
+        }
+      ],
+      "duration": 200620,
+      "track_number": 3,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2023-09-15T14:53:58Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "1617E9xMnr1IuD891SrewO",
+      "name": "Helicopter (feat. iceè tgm)",
+      "artists": [
+        {
+          "id": "2a0uxJgbvvIRI4GX8pYfcr",
+          "name": "J Hus",
+          "type": "artist"
+        },
+        {
+          "id": "3qU8FknDwUosQnzmUZrrST",
+          "name": "iceè tgm",
+          "type": "artist"
+        }
+      ],
+      "duration": 153853,
+      "track_number": 2,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2023-09-17T17:13:21Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "3KcSwX6pyUnfJ0YZlcJE7d",
+      "name": "Pop Boy (feat. Aitch)",
+      "artists": [
+        {
+          "id": "2SrSdSvpminqmStGELCSNd",
+          "name": "Stormzy",
+          "type": "artist"
+        },
+        {
+          "id": "2PJEagPIxaBugeMjIyKVXF",
+          "name": "Aitch",
+          "type": "artist"
+        }
+      ],
+      "duration": 151943,
+      "track_number": 10,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2023-09-18T17:19:26Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "5Sl5t1EmMtNWAIbLUhKF3y",
+      "name": "Enough",
+      "artists": [
+        {
+          "id": "1z7b1Pr1rSlvWRzsW3HOrS",
+          "name": "Russ",
+          "type": "artist"
+        }
+      ],
+      "duration": 136738,
+      "track_number": 7,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2023-09-18T20:05:50Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "4jdaEqUPtO8F9MjwpsPN2G",
+      "name": "Fight for Your Right",
+      "artists": [
+        {
+          "id": "2a0uxJgbvvIRI4GX8pYfcr",
+          "name": "J Hus",
+          "type": "artist"
+        }
+      ],
+      "duration": 197120,
+      "track_number": 3,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2023-10-08T20:55:37Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "0DcBQ7dMhCMvk9t6L4XI7G",
+      "name": "D/vision",
+      "artists": [
+        {
+          "id": "6U3ybJ9UHNKEdsH7ktGBZ7",
+          "name": "JID",
+          "type": "artist"
+        },
+        {
+          "id": "5MbNzCW3qokGyoo9giHA3V",
+          "name": "EARTHGANG",
+          "type": "artist"
+        }
+      ],
+      "duration": 265882,
+      "track_number": 5,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2023-10-09T19:29:56Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "5FX89IUKm9QJT9ymrmyK4k",
+      "name": "Free Lunch",
+      "artists": [
+        {
+          "id": "6aaMZ3fcfLv4tEbmY7bjRM",
+          "name": "Isaiah Rashad",
+          "type": "artist"
+        }
+      ],
+      "duration": 192029,
+      "track_number": 3,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2023-10-11T20:30:43Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "2E4INiVkDRBXXkFL4kB1Vk",
+      "name": "highway 95",
+      "artists": [
+        {
+          "id": "5SXuuuRpukkTvsLuUknva1",
+          "name": "Baby Keem",
+          "type": "artist"
+        }
+      ],
+      "duration": 91782,
+      "track_number": 9,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2023-10-11T20:58:06Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "6dVZCbi9CYtD9LjAHXRjIG",
+      "name": "Mask Off (feat. Kendrick Lamar) - Remix",
+      "artists": [
+        {
+          "id": "1RyvyyTE3xzB2ZywiAwp0i",
+          "name": "Future",
+          "type": "artist"
+        },
+        {
+          "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+          "name": "Kendrick Lamar",
+          "type": "artist"
+        }
+      ],
+      "duration": 258426,
+      "track_number": 19,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2023-10-11T21:01:51Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "3aGibUHhQyBsyumYHylw0K",
+      "name": "Backseat Freestyle",
+      "artists": [
+        {
+          "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+          "name": "Kendrick Lamar",
+          "type": "artist"
+        }
+      ],
+      "duration": 212653,
+      "track_number": 3,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2023-10-15T03:30:35Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "2Vy16OMt19FH30uQNTFdLk",
+      "name": "THAT'S THAT",
+      "artists": [
+        {
+          "id": "2pAWfrd7WFF3XhVt9GooDL",
+          "name": "MF DOOM",
+          "type": "artist"
+        }
+      ],
+      "duration": 135066,
+      "track_number": 14,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2023-10-17T10:47:39Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "5dfMZKLa5AmXmsMmkQgu0t",
+      "name": "Keep Your Distance",
+      "artists": [
+        {
+          "id": "7kIbB1pdDyehFj8aNgfzfH",
+          "name": "Ameer Vann",
+          "type": "artist"
+        }
+      ],
+      "duration": 118627,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2023-10-25T23:06:40Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "7B2jL3UDbYPXO4zE1WBXw7",
+      "name": "Run It Up",
+      "artists": [
+        {
+          "id": "70gP6Ry4Uo0Yx6uzPIdaiJ",
+          "name": "Bas",
+          "type": "artist"
+        }
+      ],
+      "duration": 162236,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2023-10-28T21:06:19Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "25I47y2Jo5Ugqkrt4cMlme",
+      "name": "GET A GRIP",
+      "artists": [
+        {
+          "id": "4rjJpumNzqRUf75vCzSlQb",
+          "name": "Kelvin Krash",
+          "type": "artist"
+        },
+        {
+          "id": "13ubrt8QOOCPljQ2FL1Kca",
+          "name": "A$AP Rocky",
+          "type": "artist"
+        }
+      ],
+      "duration": 77391,
+      "track_number": 2,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2023-10-28T21:14:50Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "40Re7ZgjBxSvPsorWDO328",
+      "name": "The Truth",
+      "artists": [
+        {
+          "id": "1qnO0sS4J6pdGON0Kn6Q5C",
+          "name": "Everything Green",
+          "type": "artist"
+        },
+        {
+          "id": "1z7b1Pr1rSlvWRzsW3HOrS",
+          "name": "Russ",
+          "type": "artist"
+        }
+      ],
+      "duration": 105556,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2023-10-28T21:28:41Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "1ysdQf8tqobYrJUon2JzU4",
+      "name": "Grassroots",
+      "artists": [
+        {
+          "id": "6BZKGQf9EnToQ6F7KdMd1m",
+          "name": "Ollie Joseph",
+          "type": "artist"
+        }
+      ],
+      "duration": 180950,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2023-10-29T06:28:11Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "0qkA0NU7cDKWkFXNGRcNaB",
+      "name": "Sandman",
+      "artists": [
+        {
+          "id": "13ubrt8QOOCPljQ2FL1Kca",
+          "name": "A$AP Rocky",
+          "type": "artist"
+        }
+      ],
+      "duration": 200160,
+      "track_number": 15,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2023-10-29T06:31:48Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "1g3GvbzoNjOqKNK9Z7srQ5",
+      "name": "Electric",
+      "artists": [
+        {
+          "id": "0q8eApZJs5WDBxayY9769C",
+          "name": "Jeshi",
+          "type": "artist"
+        },
+        {
+          "id": "4rjJpumNzqRUf75vCzSlQb",
+          "name": "Kelvin Krash",
+          "type": "artist"
+        }
+      ],
+      "duration": 187559,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2023-10-29T19:58:07Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "4lVhAX5s1D9hU2xroSd0Mg",
+      "name": "WE CAN GO (BUCK SHOTS 2)",
+      "artists": [
+        {
+          "id": "4rjJpumNzqRUf75vCzSlQb",
+          "name": "Kelvin Krash",
+          "type": "artist"
+        }
+      ],
+      "duration": 145108,
+      "track_number": 6,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2023-11-10T18:29:40Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "5rLBMFJNIB6jKkCg3i1Sek",
+      "name": "They Don't Really Love You",
+      "artists": [
+        {
+          "id": "1sBkRIssrMs1AbVkOJbc7a",
+          "name": "Rick Ross",
+          "type": "artist"
+        },
+        {
+          "id": "20sxb77xiYeusSH8cVdatc",
+          "name": "Meek Mill",
+          "type": "artist"
+        }
+      ],
+      "duration": 278530,
+      "track_number": 6,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2023-11-28T00:01:28Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "4MzkYx6KAEKNb0V1eftx8H",
+      "name": "Promise",
+      "artists": [
+        {
+          "id": "01QTIT5P1pFP3QnnFSdsJf",
+          "name": "Lupe Fiasco",
+          "type": "artist"
+        }
+      ],
+      "duration": 272221,
+      "track_number": 3,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2023-12-08T03:52:34Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "0fX4oNGBWO3dSGUZcVdVV2",
+      "name": "N95",
+      "artists": [
+        {
+          "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+          "name": "Kendrick Lamar",
+          "type": "artist"
+        }
+      ],
+      "duration": 195950,
+      "track_number": 2,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2023-12-08T03:54:28Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "28qA8y1sz0FTuSapsCxNOG",
+      "name": "Father Time (feat. Sampha)",
+      "artists": [
+        {
+          "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+          "name": "Kendrick Lamar",
+          "type": "artist"
+        },
+        {
+          "id": "2WoVwexZuODvclzULjPQtm",
+          "name": "Sampha",
+          "type": "artist"
+        }
+      ],
+      "duration": 222497,
+      "track_number": 5,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2023-12-10T05:05:38Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "79reBHqpRoWXaQbjBBY3UC",
+      "name": "All Day",
+      "artists": [
+        {
+          "id": "5K4W6rqBFWDnAN6FQUkS6x",
+          "name": "Kanye West",
+          "type": "artist"
+        },
+        {
+          "id": "4EMtGVFvfCSrEmWaGV0roE",
+          "name": "Theophilus London",
+          "type": "artist"
+        },
+        {
+          "id": "1tUALn7PEhW7LpMuxvat2x",
+          "name": "Allan Kingdom",
+          "type": "artist"
+        },
+        {
+          "id": "4STHEaNw4mPZ2tzheohgXB",
+          "name": "Paul McCartney",
+          "type": "artist"
+        }
+      ],
+      "duration": 310906,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2023-12-10T07:50:32Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "73pz1RTwUBpKO286c9zhzT",
+      "name": "Garbage Pale Kids",
+      "artists": [
+        {
+          "id": "6yJ6QQ3Y5l0s0tn7b0arrO",
+          "name": "JPEGMAFIA",
+          "type": "artist"
+        },
+        {
+          "id": "7aA592KWirLsnfb5ulGWvU",
+          "name": "Danny Brown",
+          "type": "artist"
+        }
+      ],
+      "duration": 168147,
+      "track_number": 4,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2023-12-10T07:58:30Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "1f7eBRPgFfKPhqMU7z31yF",
+      "name": "DON'T LET THE DEVIL (feat. thankugoodsir)",
+      "artists": [
+        {
+          "id": "2N4EYkIlG1kv25g6Wv8LGI",
+          "name": "Killer Mike",
+          "type": "artist"
+        },
+        {
+          "id": "57UnSUpae3SbRekxNa5Kgl",
+          "name": "El-P",
+          "type": "artist"
+        },
+        {
+          "id": "64wFZ5RSArS1MwJ0N0nJhN",
+          "name": "thankugoodsir",
+          "type": "artist"
+        }
+      ],
+      "duration": 165653,
+      "track_number": 13,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2023-12-10T08:09:27Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "2cDCojn6uIBM6A5xTAbl3H",
+      "name": "m.A.A.d city",
+      "artists": [
+        {
+          "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+          "name": "Kendrick Lamar",
+          "type": "artist"
+        },
+        {
+          "id": "4XqfpACObRB5AsBcUYjL8X",
+          "name": "MC Eiht",
+          "type": "artist"
+        }
+      ],
+      "duration": 350120,
+      "track_number": 8,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2023-12-10T22:05:02Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "0TIYRdf5622SXVPEDvawPy",
+      "name": "Sittin' On Top Of The World (feat. 21 Savage)",
+      "artists": [
+        {
+          "id": "3wcj11K77LjEY1PkEazffa",
+          "name": "Burna Boy",
+          "type": "artist"
+        },
+        {
+          "id": "1URnnhqYAYcrqrcwql10ft",
+          "name": "21 Savage",
+          "type": "artist"
+        }
+      ],
+      "duration": 188290,
+      "track_number": 4,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2023-12-19T12:10:51Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "3KCNiDi9Pza6ZD8FggNoaw",
+      "name": "MODERN JAM (feat. Teezo Touchdown)",
+      "artists": [
+        {
+          "id": "0Y5tJX1MQlPlqiwlOH1tJY",
+          "name": "Travis Scott",
+          "type": "artist"
+        },
+        {
+          "id": "0fGcIStdT1OpFFhOC7Wp36",
+          "name": "Teezo Touchdown",
+          "type": "artist"
+        }
+      ],
+      "duration": 255412,
+      "track_number": 3,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2023-12-20T14:43:15Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "1PH2MDbcBAU094DlgTIND1",
+      "name": "THANK GOD",
+      "artists": [
+        {
+          "id": "0Y5tJX1MQlPlqiwlOH1tJY",
+          "name": "Travis Scott",
+          "type": "artist"
+        }
+      ],
+      "duration": 184888,
+      "track_number": 2,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2023-12-26T21:12:04Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "6HgWWaMu31KdOpEG5l28BG",
+      "name": "All My Life (feat. J. Cole)",
+      "artists": [
+        {
+          "id": "3hcs9uc56yIGFCSy9leWe7",
+          "name": "Lil Durk",
+          "type": "artist"
+        },
+        {
+          "id": "6l3HvQ5sa6mXTsMTB19rO5",
+          "name": "J. Cole",
+          "type": "artist"
+        }
+      ],
+      "duration": 223878,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2023-12-26T22:13:57Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "0vwt7L8myy4EIJDiHVMK0X",
+      "name": "Light Of My Soul",
+      "artists": [
+        {
+          "id": "70gP6Ry4Uo0Yx6uzPIdaiJ",
+          "name": "Bas",
+          "type": "artist"
+        }
+      ],
+      "duration": 216580,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2023-12-27T11:31:04Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "0DSXAjnNFpc22v31I4MX2S",
+      "name": "Miami (feat. Pusha T)",
+      "artists": [
+        {
+          "id": "4hRL2QmahOYxXNmNKtG1AI",
+          "name": "Valee",
+          "type": "artist"
+        },
+        {
+          "id": "0ONHkAv9pCAFxb0zJwDNTy",
+          "name": "Pusha T",
+          "type": "artist"
+        }
+      ],
+      "duration": 179280,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2023-12-27T13:53:47Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "3svmv9hMHXYoe2m7gFA0XV",
+      "name": "Sociopath",
+      "artists": [
+        {
+          "id": "0ONHkAv9pCAFxb0zJwDNTy",
+          "name": "Pusha T",
+          "type": "artist"
+        },
+        {
+          "id": "3u579Gdap91lMptBSdXTpf",
+          "name": "Kash Doll",
+          "type": "artist"
+        }
+      ],
+      "duration": 162000,
+      "track_number": 3,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2023-12-30T16:04:22Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "22nyEAEM29tcBRhukR089b",
+      "name": "Icon",
+      "artists": [
+        {
+          "id": "0xOeVMOz2fVg5BJY3N6akT",
+          "name": "Jaden",
+          "type": "artist"
+        }
+      ],
+      "duration": 220995,
+      "track_number": 11,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2024-01-01T03:27:52Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "4SUlay4CRjOZxgCQ6N46OU",
+      "name": "Weight of life",
+      "artists": [
+        {
+          "id": "6CIoTWOptsWuWJqr4420Vg",
+          "name": "Manasseh SIR",
+          "type": "artist"
+        }
+      ],
+      "duration": 150465,
+      "track_number": 3,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2024-01-19T17:54:32Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "6AwXhbNQHGW5Tn2dixtkmp",
+      "name": "Babylon By Bus",
+      "artists": [
+        {
+          "id": "39vtb2iiz3079nqfL5nfFc",
+          "name": "billy woods",
+          "type": "artist"
+        },
+        {
+          "id": "13vr2QqzoWOWDyaAZDuEGO",
+          "name": "Kenny Segal",
+          "type": "artist"
+        },
+        {
+          "id": "6ndlgcnRjreUsHyQCjsQnj",
+          "name": "ShrapKnel",
+          "type": "artist"
+        }
+      ],
+      "duration": 128715,
+      "track_number": 7,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2024-01-29T14:42:29Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "4x92VojjjC7w36Y8h7YWYt",
+      "name": "Baby Steps",
+      "artists": [
+        {
+          "id": "39vtb2iiz3079nqfL5nfFc",
+          "name": "billy woods",
+          "type": "artist"
+        },
+        {
+          "id": "13vr2QqzoWOWDyaAZDuEGO",
+          "name": "Kenny Segal",
+          "type": "artist"
+        },
+        {
+          "id": "6F5n3bvrBgoyicdFT6L8IB",
+          "name": "E L U C I D",
+          "type": "artist"
+        },
+        {
+          "id": "7mZgBMpvaBziYQfc9TbJH5",
+          "name": "Benjamin Booker",
+          "type": "artist"
+        }
+      ],
+      "duration": 205714,
+      "track_number": 10,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2024-01-29T16:15:05Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "4Oh1oqgpwae7V9aiSmfZr3",
+      "name": "Nasty",
+      "artists": [
+        {
+          "id": "70KxgbZNsd9xOttXW67mh3",
+          "name": "grouptherapy.",
+          "type": "artist"
+        },
+        {
+          "id": "11ytrEfijT8k5ZPNymeXfS",
+          "name": "TJOnline",
+          "type": "artist"
+        },
+        {
+          "id": "1C3vUa0iC1bkCTvZTzQxyk",
+          "name": "Jadagrace",
+          "type": "artist"
+        },
+        {
+          "id": "6Dj8wAnffq2dTvObHVLIdB",
+          "name": "SWIM",
+          "type": "artist"
+        }
+      ],
+      "duration": 210216,
+      "track_number": 7,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2024-02-06T00:48:40Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "76gcXhY3Zv6wW0BTe9nHJo",
+      "name": "TIL FURTHER NOTICE (feat. James Blake & 21 Savage)",
+      "artists": [
+        {
+          "id": "0Y5tJX1MQlPlqiwlOH1tJY",
+          "name": "Travis Scott",
+          "type": "artist"
+        },
+        {
+          "id": "53KwLdlmrlCelAZMaLVZqU",
+          "name": "James Blake",
+          "type": "artist"
+        },
+        {
+          "id": "1URnnhqYAYcrqrcwql10ft",
+          "name": "21 Savage",
+          "type": "artist"
+        }
+      ],
+      "duration": 314836,
+      "track_number": 19,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2024-02-12T18:07:15Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "7vIHmn1Ahk1f48SzCDWfT0",
+      "name": "Black Sabbath (feat. billy woods & Tha God Fahim)",
+      "artists": [
+        {
+          "id": "4rDDy4hN7Tbrv0ntOvVKPz",
+          "name": "Ol' Burger Beats",
+          "type": "artist"
+        },
+        {
+          "id": "39vtb2iiz3079nqfL5nfFc",
+          "name": "billy woods",
+          "type": "artist"
+        },
+        {
+          "id": "0qLTeI81hEhEK1PK3WOf77",
+          "name": "Tha God Fahim",
+          "type": "artist"
+        }
+      ],
+      "duration": 198013,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2024-02-25T17:49:54Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "6LyAwkJsHlW7RQ8S1cYAtM",
+      "name": "Overdue (with Travis Scott)",
+      "artists": [
+        {
+          "id": "0iEtIxbK0KxaSlF7G42ZOp",
+          "name": "Metro Boomin",
+          "type": "artist"
+        },
+        {
+          "id": "0Y5tJX1MQlPlqiwlOH1tJY",
+          "name": "Travis Scott",
+          "type": "artist"
+        }
+      ],
+      "duration": 166093,
+      "track_number": 2,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2024-02-25T18:06:13Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "4vmqU3xlzuhxtaeXrtAX1F",
+      "name": "EdEddnEddy",
+      "artists": [
+        {
+          "id": "6U3ybJ9UHNKEdsH7ktGBZ7",
+          "name": "JID",
+          "type": "artist"
+        }
+      ],
+      "duration": 140511,
+      "track_number": 4,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2024-02-26T02:22:59Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "0hL9gOw6XBWsygEUcVjxEc",
+      "name": "HYAENA",
+      "artists": [
+        {
+          "id": "0Y5tJX1MQlPlqiwlOH1tJY",
+          "name": "Travis Scott",
+          "type": "artist"
+        }
+      ],
+      "duration": 222085,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2024-03-08T15:53:10Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "5FhsNfoOSecnN6TGi6p4Gb",
+      "name": "1stRoundDraftPickDEMO.mp3",
+      "artists": [
+        {
+          "id": "70KxgbZNsd9xOttXW67mh3",
+          "name": "grouptherapy.",
+          "type": "artist"
+        },
+        {
+          "id": "1C3vUa0iC1bkCTvZTzQxyk",
+          "name": "Jadagrace",
+          "type": "artist"
+        },
+        {
+          "id": "6Dj8wAnffq2dTvObHVLIdB",
+          "name": "SWIM",
+          "type": "artist"
+        },
+        {
+          "id": "11ytrEfijT8k5ZPNymeXfS",
+          "name": "TJOnline",
+          "type": "artist"
+        }
+      ],
+      "duration": 197145,
+      "track_number": 23,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2024-03-21T15:00:05Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "2pQUmVMJiuGx3Dh0daDcJz",
+      "name": "Big Black Truck (with JID)",
+      "artists": [
+        {
+          "id": "1iNqsUDUraNWrj00bqssQG",
+          "name": "Dreamville",
+          "type": "artist"
+        },
+        {
+          "id": "6U3ybJ9UHNKEdsH7ktGBZ7",
+          "name": "JID",
+          "type": "artist"
+        }
+      ],
+      "duration": 152973,
+      "track_number": 19,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2024-04-03T13:35:20Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "5lFDtgWsjRJu8fPOAyJIAK",
+      "name": "Back To Back",
+      "artists": [
+        {
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "type": "artist"
+        }
+      ],
+      "duration": 170637,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2024-04-18T17:57:10Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "1YBBKNODINXewbFOTyTDGd",
+      "name": "FU",
+      "artists": [
+        {
+          "id": "46MWeeHNVMYRIIofQBEX98",
+          "name": "BEAM",
+          "type": "artist"
+        }
+      ],
+      "duration": 136917,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2024-04-19T01:55:56Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "3pD67h2Hd1Jd1pMZFYVXHC",
+      "name": "Champagne Moments",
+      "artists": [
+        {
+          "id": "1sBkRIssrMs1AbVkOJbc7a",
+          "name": "Rick Ross",
+          "type": "artist"
+        }
+      ],
+      "duration": 205356,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2024-04-19T14:36:54Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "4LDx21eeTurv7b1slX4rFl",
+      "name": "Define My Name",
+      "artists": [
+        {
+          "id": "20qISvAhX20dpIbOOzGK3q",
+          "name": "Nas",
+          "type": "artist"
+        },
+        {
+          "id": "6GEykX11lQqp92UVOQQCC7",
+          "name": "DJ Premier",
+          "type": "artist"
+        }
+      ],
+      "duration": 190693,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2024-04-27T02:18:28Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "1faIb3PPSzEifCHUOJ691R",
+      "name": "Broke As Fuck",
+      "artists": [
+        {
+          "id": "0huGjMyP507tBCARyzSkrv",
+          "name": "Cordae",
+          "type": "artist"
+        }
+      ],
+      "duration": 196111,
+      "track_number": 7,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2024-05-11T01:48:45Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "2ovysxfiSxqyErYKMGBVUi",
+      "name": "Freeway's Revenge",
+      "artists": [
+        {
+          "id": "0NbfKEOTQCcwd6o7wSDOHI",
+          "name": "The Game",
+          "type": "artist"
+        }
+      ],
+      "duration": 280727,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2024-05-24T12:45:57Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "5yVRwEPSCpcuOUgkz2T0Lu",
+      "name": "\"Radio\"",
+      "artists": [
+        {
+          "id": "68kEuyFKyqrdQQLLsmiatm",
+          "name": "Vince Staples",
+          "type": "artist"
+        }
+      ],
+      "duration": 176849,
+      "track_number": 9,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2024-06-04T18:13:23Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "0LMgvEwpTKbo2fHS7Qcypy",
+      "name": "Nightmares Are Real (feat. Pusha T)",
+      "artists": [
+        {
+          "id": "0huGjMyP507tBCARyzSkrv",
+          "name": "Cordae",
+          "type": "artist"
+        },
+        {
+          "id": "0ONHkAv9pCAFxb0zJwDNTy",
+          "name": "Pusha T",
+          "type": "artist"
+        }
+      ],
+      "duration": 167109,
+      "track_number": 12,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2024-06-04T18:30:27Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "5lw8Mgb4LyhriPIC86gV6e",
+      "name": "RNP (feat. Anderson .Paak)",
+      "artists": [
+        {
+          "id": "0huGjMyP507tBCARyzSkrv",
+          "name": "Cordae",
+          "type": "artist"
+        },
+        {
+          "id": "3jK9MiCrA42lLAdMGUZpwa",
+          "name": "Anderson .Paak",
+          "type": "artist"
+        }
+      ],
+      "duration": 175827,
+      "track_number": 6,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2024-06-09T05:04:17Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "19ELgyBdMcEjGcbFHcY1ba",
+      "name": "Song Cry",
+      "artists": [
+        {
+          "id": "3nFkdlSjzX9mRTtwJOzDYB",
+          "name": "JAY-Z",
+          "type": "artist"
+        }
+      ],
+      "duration": 302360,
+      "track_number": 10,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2024-06-16T20:41:30Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "093MlZS93ZKlHpGkmb3k3W",
+      "name": "BROTHER STONE (FEAT. KODAK BLACK)",
+      "artists": [
+        {
+          "id": "4Gso3d4CscCijv0lmajZWs",
+          "name": "Don Toliver",
+          "type": "artist"
+        },
+        {
+          "id": "46SHBwWsqBkxI7EeeBEQG7",
+          "name": "Kodak Black",
+          "type": "artist"
+        }
+      ],
+      "duration": 202840,
+      "track_number": 3,
+      "type": "track",
+      "is_local": false
+    }
+  ]
+}
