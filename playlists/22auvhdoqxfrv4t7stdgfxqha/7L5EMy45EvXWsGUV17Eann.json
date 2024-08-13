@@ -1,0 +1,167 @@
+{
+  "name": "fuckery001",
+  "owner_id": "22auvhdoqxfrv4t7stdgfxqha",
+  "tracks": [
+    {
+      "added_at": "2024-05-24T04:28:14Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "7MDla0DHsqP4mbxrAeab6u",
+      "name": "Ninety Proof",
+      "artists": [
+        {
+          "id": "0QqvOFzXV7EAWKwj1RdZQK",
+          "name": "ARSLAN",
+          "type": "artist"
+        }
+      ],
+      "duration": 84836,
+      "track_number": 2,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2024-05-24T12:48:07Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "0NE5GQuyF5etooL4uSMkHk",
+      "name": "Masego's Interlude",
+      "artists": [
+        {
+          "id": "7e3FtKBIPLrIVm8g1FJMVg",
+          "name": "Sango",
+          "type": "artist"
+        },
+        {
+          "id": "3ycxRkcZ67ALN3GQJ57Vig",
+          "name": "Masego",
+          "type": "artist"
+        }
+      ],
+      "duration": 126682,
+      "track_number": 4,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2024-05-24T21:55:57Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "0UsNgv6unHisK9NslsZxwz",
+      "name": "Where Is My Mind?",
+      "artists": [
+        {
+          "id": "1kMPdZQVdUhMDKDWOJM5iK",
+          "name": "Tkay Maidza",
+          "type": "artist"
+        }
+      ],
+      "duration": 177260,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2024-05-24T21:56:26Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "0nZNBqWxg4mpKhi1zai10N",
+      "name": "play!!-",
+      "artists": [
+        {
+          "id": "5VIvm6mJVnzoOrcFEsKIfP",
+          "name": "late year",
+          "type": "artist"
+        },
+        {
+          "id": "4S3cwLP8haGAdlqyza3GZ3",
+          "name": "Otxhello",
+          "type": "artist"
+        },
+        {
+          "id": "5PcwbyuOX1pnaeVYatEEB2",
+          "name": "Dilip",
+          "type": "artist"
+        }
+      ],
+      "duration": 201071,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2024-05-24T22:04:01Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "4jpCYWeR6fraUR0zno21au",
+      "name": "Shine - Kygo Remix",
+      "artists": [
+        {
+          "id": "7D5oTJSXSHf51auG0106CQ",
+          "name": "Benjamin Francis Leftwich",
+          "type": "artist"
+        },
+        {
+          "id": "23fqKkggKUBHNkbKtXEls4",
+          "name": "Kygo",
+          "type": "artist"
+        }
+      ],
+      "duration": 280640,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2024-05-24T22:06:19Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "2oYl4K78JBe31zO7x0bAbl",
+      "name": "Wake Up Call",
+      "artists": [
+        {
+          "id": "4EukMPjtYsdi87lkU1hIxN",
+          "name": "Manila Killa",
+          "type": "artist"
+        },
+        {
+          "id": "4qOzMSukiZoiSjPQw8Zs7s",
+          "name": "Mansionair",
+          "type": "artist"
+        }
+      ],
+      "duration": 234493,
+      "track_number": 2,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2024-05-24T22:07:13Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "0elXIl26ZrovBULLTrEGK6",
+      "name": "Habits of My Heart",
+      "artists": [
+        {
+          "id": "6QrQ7OrISRYIfS5mtacaw2",
+          "name": "Jaymes Young",
+          "type": "artist"
+        }
+      ],
+      "duration": 210639,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2024-05-24T22:17:22Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "4QoPF3A5ex5FIM0lX9PqQt",
+      "name": "PROTECTA",
+      "artists": [
+        {
+          "id": "4tMIsBBR8M0PsorDf0mNEz",
+          "name": "33 Below",
+          "type": "artist"
+        }
+      ],
+      "duration": 225454,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    }
+  ]
+}
