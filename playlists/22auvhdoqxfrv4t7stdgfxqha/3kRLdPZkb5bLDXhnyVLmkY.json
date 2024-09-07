@@ -1,0 +1,62 @@
+{
+  "name": "My 2023 Playlist in a Bottle",
+  "owner_id": "22auvhdoqxfrv4t7stdgfxqha",
+  "tracks": [
+    {
+      "added_at": "2024-01-08T18:28:02Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "2CWL9qIyghV774seJYho0s",
+      "name": "Tere Baad",
+      "artists": [
+        {
+          "id": "3bCfmBmsKvp4UXialp6xNZ",
+          "name": "Wazir Patar",
+          "type": "artist"
+        }
+      ],
+      "duration": 195797,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2024-01-08T18:28:02Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "6WCE835xi0qL8qZVfPyosc",
+      "name": "Flores",
+      "artists": [
+        {
+          "id": "5nP79s99csrvcOiXTGjVfg",
+          "name": "Babi",
+          "type": "artist"
+        }
+      ],
+      "duration": 207354,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2024-01-08T18:28:02Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "0OvC1QkWdBI3ORrp2lEhNO",
+      "name": "Pind Da Riwaaz",
+      "artists": [
+        {
+          "id": "3bCfmBmsKvp4UXialp6xNZ",
+          "name": "Wazir Patar",
+          "type": "artist"
+        },
+        {
+          "id": "1OyC6DVO89fCq0vDtDwBj4",
+          "name": "Azaad",
+          "type": "artist"
+        }
+      ],
+      "duration": 188181,
+      "track_number": 2,
+      "type": "track",
+      "is_local": false
+    }
+  ]
+}
