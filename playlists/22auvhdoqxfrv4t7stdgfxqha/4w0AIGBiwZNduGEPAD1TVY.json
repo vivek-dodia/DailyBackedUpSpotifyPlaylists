@@ -1,0 +1,23 @@
+{
+  "name": "like riptide ",
+  "owner_id": "22auvhdoqxfrv4t7stdgfxqha",
+  "tracks": [
+    {
+      "added_at": "2024-12-11T02:28:38Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "7HjU833ZEDExWGm6XkNbXI",
+      "name": "Runaway",
+      "artists": [
+        {
+          "id": "6tuPdaFPIytg3l2f51L7Hw",
+          "name": "Ziggy Alberts",
+          "type": "artist"
+        }
+      ],
+      "duration": 272733,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    }
+  ]
+}
