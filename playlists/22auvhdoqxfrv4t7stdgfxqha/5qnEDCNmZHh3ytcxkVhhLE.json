@@ -1,0 +1,91 @@
+{
+  "name": "guitar ses",
+  "owner_id": "22auvhdoqxfrv4t7stdgfxqha",
+  "tracks": [
+    {
+      "added_at": "2022-10-19T02:05:36Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "3TuSPpvcFHuLB49STnII1w",
+      "name": "Watermelon Sugar",
+      "artists": [
+        {
+          "id": "65vC7eduMeu5MYUXVqIhyg",
+          "name": "Andrew Foy",
+          "type": "artist"
+        }
+      ],
+      "duration": 173500,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2022-10-19T02:06:25Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "1jLPkdowV0Q65AIMeElJpR",
+      "name": "Let Her Go",
+      "artists": [
+        {
+          "id": "7KT0K9Jyst149sFJoP4s3D",
+          "name": "Eddy Tyler",
+          "type": "artist"
+        }
+      ],
+      "duration": 237679,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2022-10-19T02:14:17Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "49cYFKFmQaMxyDt6Qyi7JK",
+      "name": "Runaway - Piano Rendition",
+      "artists": [
+        {
+          "id": "1t6kgv3kQmD8x7ecWtCcy5",
+          "name": "The Blue Notes",
+          "type": "artist"
+        }
+      ],
+      "duration": 173613,
+      "track_number": 2,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2022-11-04T14:15:47Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "3F4NgQVGxdlszT0YCpk1Md",
+      "name": "Let Her Go (Instrumental Guitar)",
+      "artists": [
+        {
+          "id": "2lBxgKTiYd4kpfnAnFyI1P",
+          "name": "Guus Dielissen",
+          "type": "artist"
+        }
+      ],
+      "duration": 251381,
+      "track_number": 1,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2022-12-02T16:20:40Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "5gMK1IgksK0K7zlpg4ZRw1",
+      "name": "Where is My Mind? - Instrumental",
+      "artists": [
+        {
+          "id": "4n79tc6TJlvs0oMdy307bR",
+          "name": "Guitar Dreamers",
+          "type": "artist"
+        }
+      ],
+      "duration": 165746,
+      "track_number": 2,
+      "type": "track",
+      "is_local": false
+    }
+  ]
+}
