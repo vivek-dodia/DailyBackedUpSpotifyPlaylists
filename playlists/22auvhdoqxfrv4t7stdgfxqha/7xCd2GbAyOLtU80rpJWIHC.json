@@ -1,0 +1,62 @@
+{
+  "name": "seraphim-vol-4",
+  "owner_id": "22auvhdoqxfrv4t7stdgfxqha",
+  "tracks": [
+    {
+      "added_at": "2025-02-21T17:38:45Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "4jfqJHhmwRNLb3twV4Vp3f",
+      "name": "Baby Don't Stop",
+      "artists": [
+        {
+          "id": "01Co4R2CqEEwVgmbNMPei4",
+          "name": "Gauntlet.",
+          "type": "artist"
+        }
+      ],
+      "duration": 239988,
+      "track_number": 3,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2025-02-21T17:50:18Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "1rOKAsJZJDIikOKDeUfPRV",
+      "name": "Last Words",
+      "artists": [
+        {
+          "id": "1rHOtdmGNr5vcYNw5v7QGC",
+          "name": "Kenny Beats",
+          "type": "artist"
+        }
+      ],
+      "duration": 109586,
+      "track_number": 11,
+      "type": "track",
+      "is_local": false
+    },
+    {
+      "added_at": "2025-02-21T17:53:39Z",
+      "added_by_id": "22auvhdoqxfrv4t7stdgfxqha",
+      "id": "19QzOGetDdfdoSaBTGChy7",
+      "name": "Blur (feat. Dacy)",
+      "artists": [
+        {
+          "id": "5PmmaiHnrygDvhj3kaPT0f",
+          "name": "QUIET BISON",
+          "type": "artist"
+        },
+        {
+          "id": "7fgYuoYmdlHrGWM3mRZJMp",
+          "name": "Dacy",
+          "type": "artist"
+        }
+      ],
+      "duration": 255375,
+      "track_number": 16,
+      "type": "track",
+      "is_local": false
+    }
+  ]
+}
